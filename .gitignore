@@ -1,0 +1,23 @@
+# KiCad lock files
+*.lck
+~*.lck
+
+# KiCad backup files
+*-backups/
+*.bak
+
+# macOS
+.DS_Store
+
+# KiCad autosave
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*~
+
+# Gerber/fabrication outputs (optional - uncomment if you don't want to track these)
+# gbr/
+# jlcpcb/
+# production/
+
+# fp-info-cache (auto-generated)
+fp-info-cache
