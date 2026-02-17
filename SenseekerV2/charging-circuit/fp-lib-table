@@ -2,5 +2,4 @@
   (version 7)
   (lib (name "easyeda2kicad")(type "KiCad")(uri "${EASYEDA2KICAD}/easyeda2kicad.pretty")(options "")(descr ""))
   (lib (name "EasyEDA")(type "KiCad")(uri "${KIPRJMOD}/LCSC/EasyEDA.pretty")(options "")(descr ""))
-  (lib (name "RpiHat")(type "KiCad")(uri "C:/Users/abdul/Downloads/RPi_Hat_Template-master/RPi_Hat_Template-master/footprints/RPI_Hat.pretty")(options "")(descr ""))
 )

@@ -13971,6 +13971,16 @@
 	)
 	(wire
 		(pts
+			(xy 185.42 33.02) (xy 185.42 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de793986-8b59-431e-90ab-d98bf523ed0d")
+	)
+	(wire
+		(pts
 			(xy 160.02 33.02) (xy 161.29 33.02)
 		)
 		(stroke
@@ -14008,16 +14018,6 @@
 			(type default)
 		)
 		(uuid "e0360f9b-76bd-4d47-9f83-b400c4e76fb8")
-	)
-	(wire
-		(pts
-			(xy 185.42 33.02) (xy 185.42 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e07a966c-b48d-45e7-b64d-78b5b3635d84")
 	)
 	(wire
 		(pts
@@ -14590,7 +14590,7 @@
 		(uuid "20e4c17d-5037-4007-9a76-befd87079767")
 	)
 	(label "raspiPower"
-		(at 185.42 36.83 0)
+		(at 185.42 38.1 0)
 		(effects
 			(font
 				(size 1.27 1.27)
