@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "easyeda2kicad")(type "KiCad")(uri "${KIPRJMOD}/../libs/easyeda2kicad.kicad_sym")(options "")(descr "EasyEDA2KiCad imported symbols"))
+  (lib (name "BQ24650RVAR")(type "KiCad")(uri "${KIPRJMOD}/BQ24650RVAR/BQ24650RVAR.kicad_sym")(options "")(descr "BQ24650RVAR symbol"))
+)
