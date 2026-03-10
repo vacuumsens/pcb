@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "easyeda2kicad")(type "KiCad")(uri "${KIPRJMOD}/../libs/easyeda2kicad.pretty")(options "")(descr "EasyEDA2KiCad imported footprints"))
+  (lib (name "BQ24650RVAR")(type "KiCad")(uri "${KIPRJMOD}/BQ24650RVAR")(options "")(descr "BQ24650RVAR footprint"))
+)
