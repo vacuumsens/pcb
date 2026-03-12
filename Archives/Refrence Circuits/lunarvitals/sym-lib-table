@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "lunarvitals")(type "KiCad")(uri "${KIPRJMOD}/lib/lunarvitals/lunarvitals.kicad_sym")(options "")(descr ""))
-)
