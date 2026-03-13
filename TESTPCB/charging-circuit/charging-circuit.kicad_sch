@@ -17282,185 +17282,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "easyeda2kicad:BH-18650-B5BA016"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "BAT"
-				(at 0 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "BH-18650-B5BA016"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "easyeda2kicad:BAT-SMD_BH-18650-B5BA016"
-				(at 0 -10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "LCSC Part" "C19184086"
-				(at 0 -12.7 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "BH-18650-B5BA016_0_1"
-				(rectangle
-					(start -7.62 5.08)
-					(end 7.62 -5.08)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin unspecified line
-					(at -10.16 2.54 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -10.16 0 0)
-					(length 2.54)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -10.16 -2.54 0)
-					(length 2.54)
-					(name "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 10.16 2.54 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 10.16 0 180)
-					(length 2.54)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 10.16 -2.54 180)
-					(length 2.54)
-					(name "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "easyeda2kicad:BQ24170RGYR"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -25056,16 +24877,6 @@
 	)
 	(wire
 		(pts
-			(xy 599.44 -154.94) (xy 601.98 -154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "064618c8-953d-4317-91b9-c3f08336e43f")
-	)
-	(wire
-		(pts
 			(xy -219.71 96.52) (xy -219.71 88.9)
 		)
 		(stroke
@@ -25736,16 +25547,6 @@
 	)
 	(wire
 		(pts
-			(xy 599.44 -157.48) (xy 601.98 -157.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "26331c06-4596-4b77-b501-ee07ff71ba12")
-	)
-	(wire
-		(pts
 			(xy 325.12 162.56) (xy 320.04 162.56)
 		)
 		(stroke
@@ -26203,16 +26004,6 @@
 			(type default)
 		)
 		(uuid "3bf7f90f-f6e8-44be-a5ce-cac018c80510")
-	)
-	(wire
-		(pts
-			(xy 576.58 -154.94) (xy 579.12 -154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3cd357c5-84df-4a10-8bb2-d56d1d2232de")
 	)
 	(wire
 		(pts
@@ -26906,16 +26697,6 @@
 	)
 	(wire
 		(pts
-			(xy 599.44 -152.4) (xy 601.98 -152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "57f97c47-b545-4fa2-bc7b-a19fcbe98b4e")
-	)
-	(wire
-		(pts
 			(xy 358.14 162.56) (xy 358.14 158.75)
 		)
 		(stroke
@@ -27463,16 +27244,6 @@
 			(type default)
 		)
 		(uuid "6db61bc7-4d89-4bc5-a62e-a454fc9fa608")
-	)
-	(wire
-		(pts
-			(xy 576.58 -152.4) (xy 579.12 -152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6ddb4e1e-ba57-458e-a2d6-a7708e0dd233")
 	)
 	(wire
 		(pts
@@ -28623,16 +28394,6 @@
 			(type default)
 		)
 		(uuid "9c87b07b-b06a-466f-8ba2-3f1de3286659")
-	)
-	(wire
-		(pts
-			(xy 576.58 -157.48) (xy 579.12 -157.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c880c5f-ca25-4edf-a738-016101c2f15c")
 	)
 	(wire
 		(pts
@@ -32435,16 +32196,6 @@
 		)
 		(uuid "381ea2c4-98d4-4aa4-a9a6-4e9be80020a6")
 	)
-	(label "BAT_3 (+)"
-		(at 576.58 -152.4 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "38bbcd5a-c46e-4d7c-a295-dc98b71eb03a")
-	)
 	(label "1D+"
 		(at -210.82 76.2 0)
 		(effects
@@ -33405,16 +33156,6 @@
 		)
 		(uuid "83c4f5ab-331f-4f16-a84a-c5f284c0626c")
 	)
-	(label "BAT_3 (-)"
-		(at 601.98 -152.4 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "843d1894-e804-48b3-ad0e-cdbc0246edf8")
-	)
 	(label "5VSYS"
 		(at 124.46 49.53 0)
 		(effects
@@ -33795,16 +33536,6 @@
 		)
 		(uuid "a71fe0fe-ae34-4449-a7ad-be37b9dcf324")
 	)
-	(label "BAT_2 (+)"
-		(at 576.58 -154.94 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a7599435-fcc6-4c35-b6ba-e7d9931e6b6b")
-	)
 	(label "5BGND"
 		(at 41.91 -205.74 270)
 		(effects
@@ -33824,16 +33555,6 @@
 			(justify right bottom)
 		)
 		(uuid "a9acb69d-0938-4a81-8ada-b4db985ccba8")
-	)
-	(label "BAT_1 (-)"
-		(at 601.98 -157.48 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a9d52015-5957-4803-9a5b-64dd058231fe")
 	)
 	(label "VSYS1"
 		(at -210.82 66.04 0)
@@ -34575,16 +34296,6 @@
 		)
 		(uuid "e2e631eb-b3bb-49c3-818a-2be3177770f2")
 	)
-	(label "BAT_2 (-)"
-		(at 601.98 -154.94 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e58b44d8-0944-4d1d-89fc-27f93200106a")
-	)
 	(label "TX"
 		(at 325.12 147.32 180)
 		(effects
@@ -34674,16 +34385,6 @@
 			(justify left bottom)
 		)
 		(uuid "ecc0c8b0-d8da-40e1-b019-8358e4ac92b1")
-	)
-	(label "BAT_1 (+)"
-		(at 576.58 -157.48 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "eccba151-7b06-4141-8976-9344a72d1abd")
 	)
 	(label "BAT2"
 		(at -168.91 193.04 0)
@@ -50244,95 +49945,6 @@
 		)
 	)
 	(symbol
-		(lib_id "easyeda2kicad:BH-18650-B5BA016")
-		(at 589.28 -154.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6645d7a0-fb96-410d-b3fd-c198ec89bda2")
-		(property "Reference" "BAT1"
-			(at 589.28 -165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "BH-18650-B5BA016"
-			(at 589.28 -162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "easyeda2kicad:BAT-SMD_BH-18650-B5BA016"
-			(at 589.28 -144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 589.28 -154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 589.28 -154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C19184086"
-			(at 589.28 -142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "094ae141-7fb5-469f-a402-4ca23399c3e9")
-		)
-		(pin "3"
-			(uuid "4b9f5e8d-a6fe-4283-8de2-97fd46a8459b")
-		)
-		(pin "5"
-			(uuid "2ce76813-4248-4f7f-892e-69edc3db6481")
-		)
-		(pin "4"
-			(uuid "73f1ad62-9130-4c05-9bfe-344d335fa87e")
-		)
-		(pin "6"
-			(uuid "cbb69dff-de33-4fb4-b7ed-7ea268f84d60")
-		)
-		(pin "2"
-			(uuid "868b7d24-c1ba-49da-a151-e583f63a8635")
-		)
-		(instances
-			(project "charging-circuit"
-				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
-					(reference "BAT1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "PCM_JLCPCB-Resistors:0603,100Ω")
 		(at 504.19 -85.09 0)
 		(mirror y)
@@ -61452,7 +61064,7 @@
 		(dnp no)
 		(uuid "a41b9ddd-be3c-4573-93c1-b45067cd0eed")
 		(property "Reference" "Q2"
-			(at 352.806 58.42 0)
+			(at 353.314 50.546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
