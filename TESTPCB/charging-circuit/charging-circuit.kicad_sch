@@ -26820,6 +26820,16 @@
 	)
 	(wire
 		(pts
+			(xy -52.07 11.43) (xy -52.07 10.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55b6e4af-b570-41e3-a406-ab6676c25379")
+	)
+	(wire
+		(pts
 			(xy 54.61 -88.9) (xy 88.9 -88.9)
 		)
 		(stroke
@@ -27427,6 +27437,16 @@
 			(type default)
 		)
 		(uuid "6bae0560-a656-471d-a40e-91731c21bc2b")
+	)
+	(wire
+		(pts
+			(xy -52.07 1.27) (xy -52.07 2.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c7dee29-c8af-4f52-ab72-8c2ba1b666e4")
 	)
 	(wire
 		(pts
@@ -28240,7 +28260,7 @@
 	)
 	(wire
 		(pts
-			(xy -31.75 7.62) (xy -31.75 8.89)
+			(xy -31.75 7.62) (xy -31.75 10.16)
 		)
 		(stroke
 			(width 0)
@@ -31250,6 +31270,16 @@
 	)
 	(wire
 		(pts
+			(xy -55.88 13.97) (xy -55.88 10.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa693050-b61f-441d-aee6-21548bb8d4dd")
+	)
+	(wire
+		(pts
 			(xy -196.85 16.51) (xy -198.12 16.51)
 		)
 		(stroke
@@ -32199,7 +32229,7 @@
 		)
 		(uuid "2c89fc84-b4b6-4c26-bebd-3a0433457779")
 	)
-	(label "D+"
+	(label "D-"
 		(at -114.3 193.04 0)
 		(effects
 			(font
@@ -33009,8 +33039,8 @@
 		)
 		(uuid "6b952f5c-7478-4587-909f-8b757082eab7")
 	)
-	(label "REGN"
-		(at -154.94 86.36 0)
+	(label "REGN1"
+		(at -153.67 86.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -33139,7 +33169,7 @@
 		)
 		(uuid "7570a364-5647-4a37-a22a-3b6d39b1f6bb")
 	)
-	(label "D-"
+	(label "D+"
 		(at -114.3 195.58 0)
 		(effects
 			(font
@@ -33370,7 +33400,7 @@
 		(uuid "887bf712-32bc-4adc-b30f-a5ff5bc956c7")
 	)
 	(label "SLEEPGND"
-		(at -52.07 10.16 0)
+		(at -52.07 11.43 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -33910,7 +33940,7 @@
 		(uuid "b9b90790-eb2c-4257-99ec-1cd57e4f42e6")
 	)
 	(label "SLEEPVSYS"
-		(at -31.75 8.89 0)
+		(at -31.75 10.16 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -34549,8 +34579,8 @@
 		)
 		(uuid "eb097dc1-a2dc-453e-ae8f-1c29ec79a33f")
 	)
-	(label "SLEEPSIGNAL"
-		(at -52.07 2.54 0)
+	(label "SLEEPSIG"
+		(at -52.07 1.27 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -34580,7 +34610,7 @@
 		(uuid "ec604a11-a2f0-4ba0-89ee-c25d673bb155")
 	)
 	(label "SLEEPGND"
-		(at -55.88 10.16 0)
+		(at -55.88 13.97 0)
 		(effects
 			(font
 				(size 1.27 1.27)
