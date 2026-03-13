@@ -79226,8 +79226,8 @@
 		(embedded_fonts no)
 	)
 	(gr_rect
-		(start 27.41 117.4925)
-		(end 40.82 95.4025)
+		(start 27.41 95.4025)
+		(end 40.82 117.4925)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -79258,8 +79258,8 @@
 		(uuid "0c8c27eb-2344-47e0-b4cc-5794c1c7925e")
 	)
 	(gr_rect
-		(start 43.351 117.4925)
-		(end 58.691 93.5825)
+		(start 43.351 93.5825)
+		(end 58.691 117.4925)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -79279,8 +79279,8 @@
 		(uuid "2c12114a-943b-49f9-a92b-2f6c0affee33")
 	)
 	(gr_rect
-		(start 91.101 91.6525)
-		(end 78.441 117.4925)
+		(start 78.441 91.6525)
+		(end 91.101 117.4925)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -79332,8 +79332,8 @@
 		(uuid "4460c2ed-8769-4d25-a284-e1364e3b36e9")
 	)
 	(gr_rect
-		(start 61.441 117.4925)
-		(end 76.101 90.9025)
+		(start 61.441 90.9025)
+		(end 76.101 117.4925)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -79343,8 +79343,8 @@
 		(uuid "46a53df4-b2e5-4a54-84af-d1e6ac2abd78")
 	)
 	(gr_rect
-		(start 93.16 85.5)
-		(end 105.25 66.34)
+		(start 93.16 66.34)
+		(end 105.25 85.5)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -79386,8 +79386,8 @@
 		(uuid "714f0f28-0085-4e5f-a826-d661fcc4f0da")
 	)
 	(gr_rect
-		(start 82.54 18.49)
-		(end 71.88 40.58)
+		(start 71.88 18.49)
+		(end 82.54 40.58)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -79397,8 +79397,8 @@
 		(uuid "82b1c50f-9f33-446d-a434-66f2c5a4b6b7")
 	)
 	(gr_rect
-		(start 77.25 85.5)
-		(end 89.66 69.16)
+		(start 77.25 69.16)
+		(end 89.66 85.5)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -79428,8 +79428,8 @@
 		(uuid "a311a569-0fe3-4b25-bc04-c614b83f6878")
 	)
 	(gr_rect
-		(start 98.531 117.4925)
-		(end 114.691 97.4025)
+		(start 98.531 97.4025)
+		(end 114.691 117.4925)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -79439,8 +79439,8 @@
 		(uuid "af07f13b-9a21-4011-bba7-117d098fafaf")
 	)
 	(gr_rect
-		(start 66.75 85.5)
-		(end 73.16 74.41)
+		(start 66.75 74.41)
+		(end 73.16 85.5)
 		(stroke
 			(width 0.05)
 			(type default)
