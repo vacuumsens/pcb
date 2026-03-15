@@ -362,7 +362,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 7471218)
 			(uuid "b10605e3-6a5e-47e4-9236-c93c3e681ea0")
 		)
 		(fp_rect
@@ -374,7 +373,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 7471218)
 			(uuid "5b516385-58a9-4f05-8b8f-02ee813d420d")
 		)
 		(pad "" np_thru_hole circle
@@ -2888,7 +2886,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 1644703456)
 			(uuid "a8165938-e753-43a9-afd6-00a28b0330ca")
 		)
 		(fp_rect
@@ -2900,7 +2897,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 1644703456)
 			(uuid "cc2bc555-6523-4305-a2a0-b5ba8f49726a")
 		)
 		(pad "" np_thru_hole circle
@@ -3547,7 +3543,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 2097218)
 			(uuid "ecfe8e59-6882-40e5-bd26-f6b75bd3d50b")
 		)
 		(fp_rect
@@ -3559,7 +3554,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 2097218)
 			(uuid "3afb7fd1-83b9-4180-b6f0-7f3270a4aff3")
 		)
 		(pad "" np_thru_hole circle
@@ -3649,7 +3643,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 6357096)
 			(uuid "21fe8a4e-5f8c-4a37-bb01-c13dd222a8e4")
 		)
 		(fp_rect
@@ -3661,7 +3654,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 6357096)
 			(uuid "67e13589-b63e-48c5-a668-9e586ddc94e6")
 		)
 		(pad "" np_thru_hole circle
@@ -7405,7 +7397,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 1644703456)
 			(uuid "bea69ab0-06df-4c33-889a-777070a51019")
 		)
 		(fp_rect
@@ -7417,7 +7408,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 1644703456)
 			(uuid "184a45ed-fef5-4ef8-bad6-5c2ac34e9fe2")
 		)
 		(pad "" np_thru_hole circle
@@ -8455,7 +8445,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 7471218)
 			(uuid "2ab58695-ad27-4f9b-8536-bf1dee132526")
 		)
 		(fp_rect
@@ -8467,7 +8456,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 7471218)
 			(uuid "f385deba-25b8-4e6a-8181-d291ff153ec3")
 		)
 		(pad "" np_thru_hole circle
@@ -8557,7 +8545,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 86920000)
 			(uuid "ce93176c-3293-4531-931d-87be43899f49")
 		)
 		(fp_rect
@@ -8569,7 +8556,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 86920000)
 			(uuid "12d3263d-1a07-4c4b-b3e3-4e12950400fa")
 		)
 		(pad "" np_thru_hole circle
@@ -9846,7 +9832,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 86920000)
 			(uuid "7ba9af21-b04b-4ccd-b45b-4eac84397afd")
 		)
 		(fp_rect
@@ -9858,7 +9843,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 86920000)
 			(uuid "ca673abc-483b-4d70-adbc-c506a3f995d7")
 		)
 		(pad "" np_thru_hole circle
@@ -11435,7 +11419,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 7471218)
 			(uuid "efa4479c-b3d5-4493-a5e9-f4a41804be91")
 		)
 		(fp_rect
@@ -11447,7 +11430,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 7471218)
 			(uuid "a505947c-85a7-43d3-bec4-32b7862555fc")
 		)
 		(pad "" np_thru_hole circle
@@ -12306,7 +12288,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 1644703456)
 			(uuid "5222b26b-8672-4395-94dc-cc7b9ba1a6ca")
 		)
 		(fp_rect
@@ -12318,7 +12299,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 1644703456)
 			(uuid "2cd2d900-175d-4d3f-bfdb-508b71a88504")
 		)
 		(pad "" np_thru_hole circle
@@ -12607,7 +12587,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 1644703456)
 			(uuid "b3a327a4-8e05-4477-9d3e-88943abdc770")
 		)
 		(fp_rect
@@ -12619,7 +12598,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 1644703456)
 			(uuid "2c7181dd-f05a-4429-83f8-913d22971079")
 		)
 		(pad "" np_thru_hole circle
@@ -13882,7 +13860,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 6750305)
 			(uuid "a1a352df-074b-47d8-9f89-f14f195482c7")
 		)
 		(fp_rect
@@ -13894,7 +13871,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 6750305)
 			(uuid "754c9892-5dd1-47a6-b778-e73969dd34c4")
 		)
 		(pad "" np_thru_hole circle
@@ -15543,7 +15519,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 6750305)
 			(uuid "cca1e743-c130-461d-8654-0d07d1644365")
 		)
 		(fp_rect
@@ -15555,7 +15530,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 6750305)
 			(uuid "bb17a117-0923-44b5-800d-013226bebe7b")
 		)
 		(pad "" np_thru_hole circle
@@ -17673,7 +17647,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 6357096)
 			(uuid "1720e2e4-298a-475a-8e6e-aa58421566d8")
 		)
 		(fp_rect
@@ -17685,7 +17658,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 6357096)
 			(uuid "52ba334c-8465-4e93-92e0-eeaddb651565")
 		)
 		(pad "" np_thru_hole circle
@@ -17879,7 +17851,7 @@
 			(uuid "6c025ab2-de54-479a-b6e9-d1fd4471737f")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/abdul/OneDrive/Documents/EAGLE/projects/pcb/libs/easyeda2kicad.3dshapes/IND-SMD_L6.7-W6.6.wrl"
+		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/IND-SMD_L6.7-W6.6.wrl"
 			(offset
 				(xyz 0 -0 0)
 			)
@@ -18824,7 +18796,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 1644703456)
 			(uuid "2028cfa2-3e22-46bf-80e7-1add247962d0")
 		)
 		(fp_rect
@@ -18836,7 +18807,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 1644703456)
 			(uuid "2a7c37b7-bbdf-4232-a29b-66ff4eba5278")
 		)
 		(pad "" np_thru_hole circle
@@ -18926,7 +18896,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 6357096)
 			(uuid "273dc757-dcfc-405b-9156-f4a45c084c31")
 		)
 		(fp_rect
@@ -18938,7 +18907,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 6357096)
 			(uuid "6fe7aa0e-e757-4e18-b013-96b5b255a64d")
 		)
 		(pad "" np_thru_hole circle
@@ -19827,7 +19795,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 2097218)
 			(uuid "67eff8a3-ec88-4e56-80b0-c39b0fc32ee1")
 		)
 		(fp_rect
@@ -19839,7 +19806,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 2097218)
 			(uuid "1864d305-f3d0-4645-bbea-0f76a8617218")
 		)
 		(pad "" np_thru_hole circle
@@ -20154,7 +20120,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 1644703456)
 			(uuid "8f3bf457-17a0-478a-bb72-afa2b9298c19")
 		)
 		(fp_rect
@@ -20166,7 +20131,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 1644703456)
 			(uuid "b3808946-65db-4cfb-acd7-141362a4e161")
 		)
 		(pad "" np_thru_hole circle
@@ -22757,7 +22721,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 2097218)
 			(uuid "a7e8e0c0-f97b-437e-8ad2-75652aa14cd2")
 		)
 		(fp_rect
@@ -22769,7 +22732,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 2097218)
 			(uuid "fa73d2b2-d594-4159-89b0-5e64edff58d5")
 		)
 		(pad "" np_thru_hole circle
@@ -23444,7 +23406,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 1644703456)
 			(uuid "28953d6a-afa6-49fc-aab5-e1a6681bea51")
 		)
 		(fp_rect
@@ -23456,7 +23417,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 1644703456)
 			(uuid "69e85cc7-e179-4bdc-b63b-2655401e4bc5")
 		)
 		(pad "" np_thru_hole circle
@@ -24111,7 +24071,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 6357096)
 			(uuid "81ce9e81-fa86-4f3b-ab3a-409ca9604d65")
 		)
 		(fp_rect
@@ -24123,7 +24082,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 6357096)
 			(uuid "3e4a329f-e1c7-43a5-a87d-b28eb858e88d")
 		)
 		(pad "" np_thru_hole circle
@@ -25746,7 +25704,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 1644703456)
 			(uuid "de8875a4-2d01-44c5-b6ee-de85a2f60e7a")
 		)
 		(fp_rect
@@ -25758,7 +25715,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 1644703456)
 			(uuid "d5a79dfd-baf9-46f2-9305-4e4347b0eef2")
 		)
 		(pad "" np_thru_hole circle
@@ -28318,7 +28274,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 2097218)
 			(uuid "4d7a221b-3847-4c15-bb69-97101af8f44a")
 		)
 		(fp_rect
@@ -28330,7 +28285,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 2097218)
 			(uuid "5eb0914a-72c6-49b3-a9f8-ce2a952d4534")
 		)
 		(pad "" np_thru_hole circle
@@ -29253,7 +29207,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 6488178)
 			(uuid "ff402170-72f9-42dc-94b3-9d140b322583")
 		)
 		(fp_rect
@@ -29265,7 +29218,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 6488178)
 			(uuid "1fc5ce86-9072-4c78-84a6-a7a8de31df3f")
 		)
 		(pad "" np_thru_hole circle
@@ -29355,7 +29307,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 2097218)
 			(uuid "42c1775b-a479-4be8-b440-24d0ef12011f")
 		)
 		(fp_rect
@@ -29367,7 +29318,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 2097218)
 			(uuid "a5597720-896d-44e2-813a-a3cb37516647")
 		)
 		(pad "" np_thru_hole circle
@@ -30915,7 +30865,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 6488178)
 			(uuid "51f9e31c-787c-48db-ad49-143a33aca417")
 		)
 		(fp_rect
@@ -30927,7 +30876,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 6488178)
 			(uuid "9a2fe5ee-e9eb-4a1c-aad2-fba934b87faf")
 		)
 		(pad "" np_thru_hole circle
@@ -31382,7 +31330,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 7471218)
 			(uuid "15bda224-ff5e-48be-b8ec-7c9d62e408a8")
 		)
 		(fp_rect
@@ -31394,7 +31341,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 7471218)
 			(uuid "fd9cee62-29c9-4a0a-a202-45bbf033f591")
 		)
 		(pad "" np_thru_hole circle
@@ -31484,7 +31430,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 6488178)
 			(uuid "09539571-ad6a-43fd-b8fb-3c65c2524acb")
 		)
 		(fp_rect
@@ -31496,7 +31441,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 6488178)
 			(uuid "a5c517ad-4fb6-4003-8e20-fd2de90a9f4d")
 		)
 		(pad "" np_thru_hole circle
@@ -31767,7 +31711,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 7471218)
 			(uuid "1849acce-3da5-4b25-b196-c399efb88a94")
 		)
 		(fp_rect
@@ -31779,7 +31722,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 7471218)
 			(uuid "d582cf4e-cf44-409f-bac9-2847a2c35a93")
 		)
 		(pad "" np_thru_hole circle
@@ -33656,7 +33598,7 @@
 			(uuid "e51711ee-6305-4fad-9de9-644d225c6d33")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/abdul/OneDrive/Documents/EAGLE/projects/pcb/libs/easyeda2kicad.3dshapes/HDR-TH_20P-P2.54-V-M-R2-C10-S2.54-1.wrl"
+		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/HDR-TH_20P-P2.54-V-M-R2-C10-S2.54-1.wrl"
 			(offset
 				(xyz 0 -1.5 4)
 			)
@@ -35448,7 +35390,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 6357096)
 			(uuid "7c0fb7ee-06fb-4d7b-b3a4-a66fb1e0ed2d")
 		)
 		(fp_rect
@@ -35460,7 +35401,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 6357096)
 			(uuid "ca43e389-ee75-4cc0-95b5-aba224f28323")
 		)
 		(pad "" np_thru_hole circle
@@ -36487,7 +36427,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 6750305)
 			(uuid "da333a45-5110-47d0-b59b-782fb263909e")
 		)
 		(fp_rect
@@ -36499,7 +36438,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 6750305)
 			(uuid "9bd75b4a-5b2f-42bf-b453-8242f9b0df7c")
 		)
 		(pad "" np_thru_hole circle
@@ -37658,7 +37596,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 1644703456)
 			(uuid "7e2aa4d0-720d-496d-bb1b-a5e42a5062c1")
 		)
 		(fp_rect
@@ -37670,7 +37607,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 1644703456)
 			(uuid "68dc8b36-7f7e-438c-a579-89e0294bb60f")
 		)
 		(pad "" np_thru_hole circle
@@ -42850,7 +42786,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 7471218)
 			(uuid "87ea15aa-c38c-4f64-956e-08d9a3c42aa2")
 		)
 		(fp_rect
@@ -42862,7 +42797,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 7471218)
 			(uuid "9e20b5e6-8ef6-4b6c-aa87-b6ee1d7e6ba8")
 		)
 		(pad "" np_thru_hole circle
@@ -44546,7 +44480,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 7471218)
 			(uuid "81bb7bef-be1e-4c44-b478-17fec4a95bb9")
 		)
 		(fp_rect
@@ -44558,7 +44491,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 7471218)
 			(uuid "0b237562-a439-4677-89ed-fba6fc923b45")
 		)
 		(pad "" np_thru_hole circle
@@ -45985,7 +45917,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 2097218)
 			(uuid "0f801145-0a9f-49d3-8a0e-dc0d1aafe5da")
 		)
 		(fp_rect
@@ -45997,7 +45928,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 2097218)
 			(uuid "08f4cca7-9fb6-493c-b626-fea861b33871")
 		)
 		(pad "" np_thru_hole circle
@@ -46856,7 +46786,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 6357096)
 			(uuid "70842970-63b0-4d51-ab4c-ec398562293d")
 		)
 		(fp_rect
@@ -46868,7 +46797,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 6357096)
 			(uuid "87e82810-66f9-42fd-b70f-bad0e6214efd")
 		)
 		(pad "" np_thru_hole circle
@@ -48114,7 +48042,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 6488178)
 			(uuid "5d30f3e4-72a3-4ca6-9ed3-0f31d15b2fbf")
 		)
 		(fp_rect
@@ -48126,7 +48053,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 6488178)
 			(uuid "db35ff07-6ff2-4611-b067-788d7357232e")
 		)
 		(pad "" np_thru_hole circle
@@ -49046,7 +48972,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 7471218)
 			(uuid "e40d8b0c-59cf-40fe-857f-fda681e19d4c")
 		)
 		(fp_rect
@@ -49058,7 +48983,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 7471218)
 			(uuid "53da9c08-1d64-4c14-9fcb-9c55977f82b5")
 		)
 		(pad "" np_thru_hole circle
@@ -49502,7 +49426,7 @@
 			(uuid "2ef36396-00cd-4f97-a29f-76b3da5ca016")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/abdul/OneDrive/Documents/EAGLE/projects/pcb/libs/easyeda2kicad.3dshapes/VQFN-24_L4.0-W4.0-H1.0-P0.50.wrl"
+		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/VQFN-24_L4.0-W4.0-H1.0-P0.50.wrl"
 			(offset
 				(xyz -0 0 -0)
 			)
@@ -49578,7 +49502,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 7471218)
 			(uuid "bfdfffe0-5a6d-4802-b7d2-897618bc8f7c")
 		)
 		(fp_rect
@@ -49590,7 +49513,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 7471218)
 			(uuid "ed74034b-a9e5-4244-a8f2-a952019e48c7")
 		)
 		(pad "" np_thru_hole circle
@@ -50587,7 +50509,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 6357096)
 			(uuid "bde217d0-183d-4dfd-89c9-0747b15253a7")
 		)
 		(fp_rect
@@ -50599,7 +50520,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 6357096)
 			(uuid "a6f3ee08-e343-49e4-9091-3f0330e3e3df")
 		)
 		(pad "" np_thru_hole circle
@@ -51439,7 +51359,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 6750305)
 			(uuid "7090d45c-2b96-4653-bda5-99526ac7a1f2")
 		)
 		(fp_rect
@@ -51451,7 +51370,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 6750305)
 			(uuid "8844826b-58c4-4644-b690-23e533ea783c")
 		)
 		(pad "" np_thru_hole circle
@@ -53360,7 +53278,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 1644703456)
 			(uuid "29a0b254-281a-4d58-81e3-b9ac144cf6e2")
 		)
 		(fp_rect
@@ -53372,7 +53289,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 1644703456)
 			(uuid "cbb7a323-d0b5-4cb9-a4d5-90a5b818abaa")
 		)
 		(pad "" np_thru_hole circle
@@ -54027,7 +53943,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 1644703456)
 			(uuid "5137b2ae-4a7e-40d4-a2df-270bfcaf29fe")
 		)
 		(fp_rect
@@ -54039,7 +53954,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 1644703456)
 			(uuid "ce0481da-18f3-47d8-900b-480f6786ae1f")
 		)
 		(pad "" np_thru_hole circle
@@ -54998,7 +54912,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 2097218)
 			(uuid "89ade865-917b-4553-bdb6-c5fc90cf7b52")
 		)
 		(fp_rect
@@ -55010,7 +54923,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 2097218)
 			(uuid "b2c28382-f1c4-4aba-9618-c518a41f8791")
 		)
 		(pad "" np_thru_hole circle
@@ -55100,7 +55012,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 6357096)
 			(uuid "ae692c64-fac7-4ab9-9bda-0e45e4d1b523")
 		)
 		(fp_rect
@@ -55112,7 +55023,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 6357096)
 			(uuid "16c7f45f-d6f0-4245-9670-6511e348fcb3")
 		)
 		(pad "" np_thru_hole circle
@@ -56801,7 +56711,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 6357096)
 			(uuid "e80436ee-e3e3-4438-9e5b-e3e587f4e3f5")
 		)
 		(fp_rect
@@ -56813,7 +56722,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 6357096)
 			(uuid "af7843ff-aad2-4bd2-a3ab-edfd254e3f50")
 		)
 		(pad "" np_thru_hole circle
@@ -59022,7 +58930,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 7471218)
 			(uuid "d7a90457-97fb-4284-8345-cd2a52502b75")
 		)
 		(fp_rect
@@ -59034,7 +58941,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 7471218)
 			(uuid "7e41949b-ff18-43b4-a25a-ff795b3f2ed6")
 		)
 		(pad "" np_thru_hole circle
@@ -67017,7 +66923,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 86920000)
 			(uuid "e4851002-501d-4aa0-9cfa-a896c00ab533")
 		)
 		(fp_rect
@@ -67029,7 +66934,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 86920000)
 			(uuid "dc5179c5-dbf8-4c96-bfe7-eade6906ea5b")
 		)
 		(pad "" np_thru_hole circle
@@ -67709,7 +67613,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 1644703456)
 			(uuid "9b4a8874-d33f-4f59-8740-cac82d522dec")
 		)
 		(fp_rect
@@ -67721,7 +67624,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 1644703456)
 			(uuid "e8a1b0d1-7600-4199-9ecc-79f4cc3ea468")
 		)
 		(pad "" np_thru_hole circle
@@ -69435,7 +69337,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 6357096)
 			(uuid "49b8b22a-0255-45c9-a59a-b7bc5451106e")
 		)
 		(fp_rect
@@ -69447,7 +69348,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 6357096)
 			(uuid "3ea0f7a1-54ae-4f81-8dc3-871751f2b53f")
 		)
 		(pad "" np_thru_hole circle
@@ -69537,7 +69437,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 1644703456)
 			(uuid "e6c7795f-62ff-4f8f-874a-c8deaa42c3e7")
 		)
 		(fp_rect
@@ -69549,7 +69448,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 1644703456)
 			(uuid "041659ac-6a9f-43b5-b7b8-4174392d66a2")
 		)
 		(pad "" np_thru_hole circle
@@ -69639,7 +69537,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 1644703456)
 			(uuid "b1b868c3-57b7-43c4-866e-971b6300b6bc")
 		)
 		(fp_rect
@@ -69651,7 +69548,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 1644703456)
 			(uuid "fa422b0f-e48e-4527-83dd-4378409963a9")
 		)
 		(pad "" np_thru_hole circle
@@ -72310,7 +72206,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 7471218)
 			(uuid "04311d2b-c9de-4825-8944-b728a79988c3")
 		)
 		(fp_rect
@@ -72322,7 +72217,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 7471218)
 			(uuid "67358158-df92-4f9c-b957-957359ac5c40")
 		)
 		(pad "" np_thru_hole circle
@@ -73380,7 +73274,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 1644703456)
 			(uuid "d79185c0-d6d0-4022-98dd-b4eeccf5fb4e")
 		)
 		(fp_rect
@@ -73392,7 +73285,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 1644703456)
 			(uuid "e8efe3d3-4e18-4365-b554-24a721a0368b")
 		)
 		(pad "" np_thru_hole circle
@@ -74769,7 +74661,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 7471218)
 			(uuid "8b780bc6-f884-4a1a-ad0e-d44dd8dfd96f")
 		)
 		(fp_rect
@@ -74781,7 +74672,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 7471218)
 			(uuid "8f549797-035e-40b0-ba32-703d2f1a2d74")
 		)
 		(pad "" np_thru_hole circle
@@ -75319,7 +75209,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 1644703456)
 			(uuid "b7a4207d-b5e8-469c-a68f-3bda9a3e0412")
 		)
 		(fp_rect
@@ -75331,7 +75220,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 1644703456)
 			(uuid "b84be756-ef03-4e56-80c5-55c6189e7554")
 		)
 		(pad "" np_thru_hole circle
@@ -75687,7 +75575,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 86920000)
 			(uuid "6a71b2cf-0f25-4e24-9f47-7c3102f54c1e")
 		)
 		(fp_rect
@@ -75699,7 +75586,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 86920000)
 			(uuid "4410a72d-8557-40ca-a732-73c6b31ff8cd")
 		)
 		(pad "" np_thru_hole circle
@@ -76781,7 +76667,6 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(net 2097218)
 			(uuid "4ddc248a-15d2-481b-be1d-f50dd56100ae")
 		)
 		(fp_rect
@@ -76793,7 +76678,6 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(net 2097218)
 			(uuid "a948499e-3dce-464e-92cb-d4489155ba50")
 		)
 		(pad "" np_thru_hole circle
