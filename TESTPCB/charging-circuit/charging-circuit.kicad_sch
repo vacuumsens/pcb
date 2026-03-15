@@ -32507,7 +32507,7 @@
 		(uuid "50509d19-cfd3-4e39-8089-3a113a6551c2")
 	)
 	(label "VBUS1"
-		(at -194.31 81.28 0)
+		(at -195.58 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -34047,7 +34047,7 @@
 		(uuid "cf66a862-8ebf-4290-96c6-3685aaa7c245")
 	)
 	(label "VBUS1"
-		(at -161.29 81.28 0)
+		(at -160.02 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43801,7 +43801,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3a9e4609-cff8-41db-b140-cf7d29f20e74")
 		(property "Reference" "C13"
 			(at -158.75 77.47 0)
@@ -43812,7 +43811,7 @@
 			)
 		)
 		(property "Value" "22uf"
-			(at -158.75 80.01 0)
+			(at -151.892 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
