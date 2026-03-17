@@ -24249,12 +24249,6 @@
 		(uuid "3b950554-96ff-4f77-9ad0-ade481f6d72b")
 	)
 	(junction
-		(at -140.97 93.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3bccd646-f8d6-4994-9a6f-038b77946712")
-	)
-	(junction
 		(at 514.35 -74.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -24355,6 +24349,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "54caaa76-f8bc-4377-9069-f23ed9480f7a")
+	)
+	(junction
+		(at -140.97 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "559f3447-42fd-49e4-a927-e1b812789a88")
 	)
 	(junction
 		(at 304.8 -127)
@@ -49838,82 +49838,6 @@
 		)
 	)
 	(symbol
-		(lib_id "easyeda2kicad:SRP4020TA-1R0M")
-		(at -146.05 93.98 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5e9b59ad-f50d-4ad5-8238-b45e1fecad53")
-		(property "Reference" "U18"
-			(at -145.796 96.012 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SRP4020TA-1R0M"
-			(at -146.05 91.948 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "easyeda2kicad:IND-SMD_L4.5-W4.1_SRP4020TA"
-			(at -146.05 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at -146.05 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at -146.05 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C913245"
-			(at -146.05 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "60a460c1-2d37-45ad-b535-f574ebec41b2")
-		)
-		(pin "2"
-			(uuid "403f4d19-ca7f-442f-baff-7ec3362128c1")
-		)
-		(instances
-			(project ""
-				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
-					(reference "U18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "easyeda2kicad:1.27mm_1*3p")
 		(at 24.13 -158.75 0)
 		(unit 1)
@@ -64324,6 +64248,83 @@
 			(project "charging-circuit"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
 					(reference "C26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:SRP4020TA-1R0M")
+		(at -146.05 93.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bd85f33d-d939-405b-bc39-cfc05ce06e8f")
+		(property "Reference" "U22"
+			(at -146.05 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SRP4020TA-1R0M"
+			(at -146.05 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:IND-SMD_L4.5-W4.1_SRP4020TA"
+			(at -146.05 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -146.05 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at -146.05 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C913245"
+			(at -146.05 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b4d63df9-9ab5-46f3-b2da-c8dc94125090")
+		)
+		(pin "1"
+			(uuid "de2fc22b-46eb-492a-bd7b-5951b65bd83f")
+		)
+		(instances
+			(project ""
+				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
+					(reference "U22")
 					(unit 1)
 				)
 			)
