@@ -5448,7 +5448,7 @@
 			(at 0 -6.47 90)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "c2f54b21-b7b9-4477-8df3-f8cb646fdbb9")
+			(uuid "b40a165f-a0dc-49d9-9e3d-27f0e6295d64")
 			(effects
 				(font
 					(size 1 1)
@@ -5459,7 +5459,7 @@
 		(property "Value" "TYPE-C-31-M-12"
 			(at 0 6.47 90)
 			(layer "F.Fab")
-			(uuid "8c6746c8-97c8-4a21-9f9a-0dc7f4dda131")
+			(uuid "aea044d9-646f-4e36-a53b-47d9e826dd45")
 			(effects
 				(font
 					(size 1 1)
@@ -5471,7 +5471,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "eb96e0ed-7631-4c41-957a-4b318b1f024e")
+			(uuid "842ffa8b-b8a2-4caf-9c94-435569cb27fb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5483,7 +5483,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a286e4be-c210-4100-b8e4-7c6f2fca22f6")
+			(uuid "4f8502af-8b3a-48eb-92e5-ff6261d8af2d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40563,65 +40563,6 @@
 				(xyz 0 0 0)
 			)
 		)
-	)
-	(footprint ""
-		(layer "F.Cu")
-		(uuid "7b21b6d0-03bb-480f-9e1f-21c756b68d2d")
-		(at 72.675 31.45 90)
-		(property "Reference" ""
-			(at 0 0 90)
-			(layer "F.SilkS")
-			(uuid "8219187d-3ffc-42ee-ba97-f51efb7ab2a6")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" ""
-			(at 0 0 90)
-			(layer "F.Fab")
-			(uuid "b6ba6ae1-8a72-41d2-953c-f89390a0c379")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 90)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8f8b7a0c-10c6-46f7-b76c-ae6d8906f958")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 90)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8d204718-b384-4ecd-a731-dc4018bbf25f")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0 180)
-			(size 0.5 0.5)
-			(drill oval 0.5 23)
-			(layers "*.Cu" "*.Mask")
-			(uuid "121a3f1a-8af9-4996-8f05-3699a90d9769")
-		)
-		(embedded_fonts no)
 	)
 	(footprint ""
 		(layer "F.Cu")
@@ -78947,16 +78888,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "5fdae179-d62c-4b70-8a5f-ac35742e12d3")
-	)
-	(gr_line
-		(start 109.79 114.18)
-		(end 27.15 114.18)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "a1b486bd-254e-4191-b3d1-326aca753402")
 	)
 	(gr_line
 		(start 109.79 114.18)
