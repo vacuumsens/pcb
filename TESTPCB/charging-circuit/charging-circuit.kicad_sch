@@ -1607,6 +1607,69 @@
 			(uuid "b22b63d7-19de-42a4-85bd-5910fcc5a930")
 		)
 	)
+	(sheet
+		(at 282.54 113.74)
+		(size 110 22)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9dddee0f-db6b-4d06-95d5-93553e494b2c")
+		(property "Sheetname" "LM2596 BUCK"
+			(at 284.54 115.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/18_lm2596_adj_buck.kicad_sch"
+			(at 284.54 133.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+
+
+		(pin "LM2596_VIN" passive
+			(at 282.54 115.94 0)
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+			(uuid "d3d1ca56-38e8-4802-ace4-4e33f8db3595")
+		)
+		(pin "GND" passive
+			(at 282.54 133.54 0)
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+			(uuid "dd944f42-94ef-49ed-b9db-b0bf7bcd28be")
+		)
+		(pin "LM2596_VOUT" passive
+			(at 392.54 124.74 180)
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+			(uuid "c45f0d81-4273-4368-a790-58a01a07d3d1")
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
