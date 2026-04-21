@@ -616,6 +616,10 @@
       "Root"
     ],
     [
+      "e6612f6f-e131-40dc-9b50-f62250179b84",
+      "LM2596 5V Buck"
+    ],
+    [
       "f47ce17a-bd34-40a6-9fc8-6e8969ff10cc",
       "USBC-PD"
     ],
@@ -682,6 +686,10 @@
     [
       "cebc8927-3eb9-4228-bd64-eb01f991daf3",
       "DSUB+RS232"
+    ],
+    [
+      "9dddee0f-db6b-4d06-95d5-93553e494b2c",
+      "LM2596 BUCK"
     ]
   ],
   "text_variables": {}

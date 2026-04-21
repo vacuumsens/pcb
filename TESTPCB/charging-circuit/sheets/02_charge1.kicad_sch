@@ -4756,6 +4756,15 @@
 			(justify right bottom)
 		)
 		(uuid "0e8948a7-835a-400e-a801-444c5c6b17f9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 99.06 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "VBUS1"
 		(shape bidirectional)
@@ -4767,6 +4776,15 @@
 			(justify left bottom)
 		)
 		(uuid "140863c7-ec9d-4620-b27c-b3156a29d174")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 100.33 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "GND1"
 		(shape bidirectional)
@@ -4778,6 +4796,15 @@
 			(justify left bottom)
 		)
 		(uuid "1659354b-876a-4dff-bc9a-5754edf3e5c7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 154.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "GND1"
 		(shape bidirectional)
@@ -4789,6 +4816,15 @@
 			(justify left bottom)
 		)
 		(uuid "17aa9d6f-5f32-4dc1-a5f3-f494d4ee1773")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 140.97 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "VBUS1"
 		(shape bidirectional)
@@ -4800,6 +4836,15 @@
 			(justify left bottom)
 		)
 		(uuid "34ad6a87-9b7e-4c31-9e16-5738f3120cf0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.09 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "VSYS1"
 		(shape bidirectional)
@@ -4811,6 +4856,15 @@
 			(justify left bottom)
 		)
 		(uuid "3aa5296b-d10c-4eaf-ae68-eaa74d675bb3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 69.85 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "VBAT1"
 		(shape bidirectional)
@@ -4822,6 +4876,15 @@
 			(justify left bottom)
 		)
 		(uuid "41624133-cf07-43bf-86fa-33a31c0e7706")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 138.43 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "GND1"
 		(shape bidirectional)
@@ -4833,6 +4896,15 @@
 			(justify left bottom)
 		)
 		(uuid "4176a8c0-dde1-4357-af65-f718e8761430")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 162.56 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "1D-"
 		(shape bidirectional)
@@ -4844,6 +4916,15 @@
 			(justify left bottom)
 		)
 		(uuid "46be6bb2-5893-4be8-beb4-6ff2b2aa4273")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 107.95 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "1D+"
 		(shape bidirectional)
@@ -4855,6 +4936,15 @@
 			(justify left bottom)
 		)
 		(uuid "552807d9-5160-4bf6-868f-c1ec5bc25a79")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.09 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "VBUS1"
 		(shape bidirectional)
@@ -4866,6 +4956,15 @@
 			(justify left bottom)
 		)
 		(uuid "611ad093-0fa1-42df-9b2f-d335829b0524")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 135.89 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "VBUS1"
 		(shape bidirectional)
@@ -4877,6 +4976,15 @@
 			(justify right bottom)
 		)
 		(uuid "68112a9c-b9f2-42d7-bbe9-945e8cb1181b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 147.32 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "GND1"
 		(shape bidirectional)
@@ -4888,6 +4996,15 @@
 			(justify left bottom)
 		)
 		(uuid "68275ffb-ce90-4bfc-adf7-c27640477d8e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 137.16 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "GND1"
 		(shape bidirectional)
@@ -4899,6 +5016,15 @@
 			(justify left bottom)
 		)
 		(uuid "6af4cc6c-7a79-418a-a400-adbc890b0091")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 134.62 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "VSYS1"
 		(shape bidirectional)
@@ -4910,6 +5036,15 @@
 			(justify left bottom)
 		)
 		(uuid "7efdc4a1-8f1f-4d24-8afd-c9d2aa98d22c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.09 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "1D-"
 		(shape bidirectional)
@@ -4921,6 +5056,15 @@
 			(justify left bottom)
 		)
 		(uuid "82abefa5-13f1-4f13-be61-04590a891cc6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.09 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "GND1"
 		(shape bidirectional)
@@ -4932,6 +5076,15 @@
 			(justify left bottom)
 		)
 		(uuid "97f61f7b-7bda-408e-96c4-a3ec0a4bbae2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.09 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "REGN1"
 		(shape bidirectional)
@@ -4943,6 +5096,15 @@
 			(justify right bottom)
 		)
 		(uuid "a5b8097e-faff-4c6a-9e12-0d2cbcbd0d5d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 78.74 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "VSYS1"
 		(shape bidirectional)
@@ -4954,6 +5116,15 @@
 			(justify left bottom)
 		)
 		(uuid "b6cbedf9-3c66-488f-b5e3-4fa0d0bed261")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 156.21 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "REGN1"
 		(shape bidirectional)
@@ -4965,6 +5136,15 @@
 			(justify left bottom)
 		)
 		(uuid "c11da59c-76b0-4422-981b-cb02d375e74c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 142.24 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "GND1"
 		(shape bidirectional)
@@ -4976,6 +5156,15 @@
 			(justify left bottom)
 		)
 		(uuid "c8446698-a36a-4b21-9fec-ef5bc2cb039f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 100.33 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "GND1"
 		(shape bidirectional)
@@ -4987,6 +5176,15 @@
 			(justify left bottom)
 		)
 		(uuid "ca80afc8-03c9-42a0-8d14-2c8c5ce962f6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 138.43 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "VBAT1"
 		(shape bidirectional)
@@ -4998,6 +5196,15 @@
 			(justify left bottom)
 		)
 		(uuid "cf3f6f04-b1a5-4d41-9988-00b72cc1be39")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.09 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "GND1"
 		(shape bidirectional)
@@ -5009,6 +5216,15 @@
 			(justify right bottom)
 		)
 		(uuid "d8c5e7ac-b574-4eb0-a091-0a73fe460428")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 147.32 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "1D+"
 		(shape bidirectional)
@@ -5020,6 +5236,15 @@
 			(justify left bottom)
 		)
 		(uuid "d902c686-45dd-4966-91a5-bf8ac1e409a5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 107.95 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "GND1"
 		(shape bidirectional)
@@ -5031,6 +5256,15 @@
 			(justify left bottom)
 		)
 		(uuid "d96c1e89-1b95-45db-9c55-f250354f39fb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 107.95 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "GND1"
 		(shape bidirectional)
@@ -5042,6 +5276,15 @@
 			(justify right bottom)
 		)
 		(uuid "e040723d-bb83-4145-9450-a58d6874f15e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 106.68 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "GND1"
 		(shape bidirectional)
@@ -5053,6 +5296,15 @@
 			(justify right bottom)
 		)
 		(uuid "f619f6fb-2609-47c4-9e6b-02eea296c787")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 110.49 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "GND1"
 		(shape bidirectional)
@@ -5064,6 +5316,15 @@
 			(justify right bottom)
 		)
 		(uuid "f90a7770-61a7-4e08-9839-973b496a7a78")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.87 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "GND1"
 		(shape bidirectional)
@@ -5075,6 +5336,15 @@
 			(justify left bottom)
 		)
 		(uuid "f90d7ee3-263b-4784-a80b-b8e4a470f90b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 90.17 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "PCM_JLCPCB-Diodes:LED,0805,Red")

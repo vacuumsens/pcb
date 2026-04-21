@@ -3048,6 +3048,15 @@
 			(justify left bottom)
 		)
 		(uuid "181214ba-4fda-4759-97ed-bd4d84647ace")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 120.65 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "12BGND"
 		(shape bidirectional)
@@ -3059,6 +3068,15 @@
 			(justify right bottom)
 		)
 		(uuid "23977d5e-b989-4a75-a19c-4c91f0586a64")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 140.97 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "12BVOUT"
 		(shape bidirectional)
@@ -3070,6 +3088,15 @@
 			(justify left bottom)
 		)
 		(uuid "26fcffab-4906-45f9-a659-d9762f0025dc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 67.31 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "12BGND"
 		(shape bidirectional)
@@ -3081,6 +3108,15 @@
 			(justify left bottom)
 		)
 		(uuid "485e5f9a-6624-4865-af0a-fbbf758f8022")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 67.31 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "12BGND"
 		(shape bidirectional)
@@ -3092,6 +3128,15 @@
 			(justify right bottom)
 		)
 		(uuid "4ba17484-b130-45e6-9a63-87cbfeb4b8e0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 81.28 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "12BGND"
 		(shape bidirectional)
@@ -3103,6 +3148,15 @@
 			(justify right bottom)
 		)
 		(uuid "8587691f-c0f1-4aec-b319-5feaa44139be")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 148.59 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "12BOOT"
 		(shape bidirectional)
@@ -3114,6 +3168,15 @@
 			(justify left bottom)
 		)
 		(uuid "8b5c486e-c21e-436f-9e3b-4dbfea77d930")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 129.54 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "12BGND"
 		(shape bidirectional)
@@ -3125,6 +3188,15 @@
 			(justify right bottom)
 		)
 		(uuid "b00e4316-76ed-480c-89d8-79691ea98e44")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 93.98 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "12BVOUT"
 		(shape bidirectional)
@@ -3136,6 +3208,15 @@
 			(justify left bottom)
 		)
 		(uuid "b6eb0804-c9ce-4ac2-b1d3-42eaef4932d1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 157.48 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "12FB"
 		(shape bidirectional)
@@ -3147,6 +3228,15 @@
 			(justify right bottom)
 		)
 		(uuid "baea10de-bc45-42e6-b691-100e45239ca6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 152.4 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "12BVSYS"
 		(shape bidirectional)
@@ -3158,6 +3248,15 @@
 			(justify left bottom)
 		)
 		(uuid "e27505ff-f0b1-472f-a00f-80247fde686d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 67.31 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "12BVSYS"
 		(shape bidirectional)
@@ -3169,6 +3268,15 @@
 			(justify right bottom)
 		)
 		(uuid "f31da009-1729-462e-982a-360c7c7b4dcd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 81.28 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "12BGND"
 		(shape bidirectional)
@@ -3180,6 +3288,15 @@
 			(justify left bottom)
 		)
 		(uuid "f3e75cb2-8642-4669-bea5-758267ddd6b3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 92.71 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "12BOOT"
 		(shape bidirectional)
@@ -3191,6 +3308,15 @@
 			(justify right bottom)
 		)
 		(uuid "fc2468dd-51b1-4d4f-9db1-a4e0f8ab519a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 95.25 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "PCM_JLCPCB-Capacitors:0603,22uF")

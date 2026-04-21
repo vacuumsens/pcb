@@ -1824,6 +1824,15 @@
 			(justify right bottom)
 		)
 		(uuid "86921da6-56ff-45c0-a237-5f1df468afd9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 57.15 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "3V3GND"
 		(shape bidirectional)
@@ -1835,6 +1844,15 @@
 			(justify left bottom)
 		)
 		(uuid "9a7bf956-c4b5-4abd-af93-a300ea442e8b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 72.39 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "3V3VSYS"
 		(shape bidirectional)
@@ -1846,6 +1864,15 @@
 			(justify right bottom)
 		)
 		(uuid "a3b1b69d-1d6b-4d5a-9ff4-b5e7ec295d0f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 59.69 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "3V3VSYS"
 		(shape bidirectional)
@@ -1857,6 +1884,15 @@
 			(justify left bottom)
 		)
 		(uuid "c61f0da9-9099-475d-83e5-87f883213a24")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 62.23 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "3V3GND"
 		(shape bidirectional)
@@ -1868,6 +1904,15 @@
 			(justify left bottom)
 		)
 		(uuid "c7400871-6519-4b83-b99e-329955e19c43")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 62.23 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "3V3VOUT"
 		(shape bidirectional)
@@ -1879,6 +1924,15 @@
 			(justify left bottom)
 		)
 		(uuid "ce9486bb-ccc9-4505-a5c8-5ad3b239f50d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 111.76 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "3V3GND"
 		(shape bidirectional)
@@ -1890,6 +1944,15 @@
 			(justify left bottom)
 		)
 		(uuid "d24cfa64-4d58-4d15-8490-a385919141d5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 92.71 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "3V3GND"
 		(shape bidirectional)
@@ -1901,6 +1964,15 @@
 			(justify right bottom)
 		)
 		(uuid "d5b4cf1e-388d-4f80-84c8-adaf6fcea481")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 59.69 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "3V3VOUT"
 		(shape bidirectional)
@@ -1912,6 +1984,15 @@
 			(justify left bottom)
 		)
 		(uuid "d85265ce-8cd0-4078-85e1-0d7ff26681cd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 62.23 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "easyeda2kicad:1.27mm_1*3p")

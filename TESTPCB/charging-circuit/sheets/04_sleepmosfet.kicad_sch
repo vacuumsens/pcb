@@ -2021,6 +2021,15 @@
 			(justify left bottom)
 		)
 		(uuid "08da3d68-2f95-458d-9d83-320d11059588")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 186.69 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "SLEEPSIG"
 		(shape bidirectional)
@@ -2032,6 +2041,15 @@
 			(justify left bottom)
 		)
 		(uuid "22f601fa-20f5-47ad-a36b-997e737f4fa4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 166.37 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "SLEEPVSYS"
 		(shape bidirectional)
@@ -2043,6 +2061,15 @@
 			(justify left bottom)
 		)
 		(uuid "231b9161-7e2c-44bf-a908-e5f4ec230220")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 107.95 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "SLEEPGND"
 		(shape bidirectional)
@@ -2054,6 +2081,15 @@
 			(justify left bottom)
 		)
 		(uuid "3c254b33-1b24-4d91-a5d8-ca9655f744c4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 107.95 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "SLEEPGND"
 		(shape bidirectional)
@@ -2065,6 +2101,15 @@
 			(justify right bottom)
 		)
 		(uuid "3dd33109-5f5a-4e44-8c54-b0693b024fa1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 120.65 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "SLEEPSIG"
 		(shape bidirectional)
@@ -2076,6 +2121,15 @@
 			(justify left bottom)
 		)
 		(uuid "60d180d5-d7d8-47f5-8982-a76011fc3655")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 107.95 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "SLEEPGND"
 		(shape bidirectional)
@@ -2087,6 +2141,15 @@
 			(justify left bottom)
 		)
 		(uuid "73a28772-a418-40c5-9c9f-8280c90bf12c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 125.73 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "SLEEPVSYS"
 		(shape bidirectional)
@@ -2098,6 +2161,15 @@
 			(justify right bottom)
 		)
 		(uuid "7f1ade5f-46a5-43de-9232-80c493ac1c17")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 125.73 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "SLEEPGND"
 		(shape bidirectional)
@@ -2109,6 +2181,15 @@
 			(justify left bottom)
 		)
 		(uuid "90e6d899-7643-4d4e-9da0-04dacdaf8d5a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 162.56 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "SLEEPGND"
 		(shape bidirectional)
@@ -2120,6 +2201,15 @@
 			(justify left bottom)
 		)
 		(uuid "9e73b261-3bab-4eba-835e-6d20a4472ba7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 166.37 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "SLEEPVSYS"
 		(shape bidirectional)
@@ -2131,6 +2221,15 @@
 			(justify left bottom)
 		)
 		(uuid "fbef0095-bad3-41aa-b803-955622917baf")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 186.69 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "PCM_JLCPCB-Resistors:0603,10kΩ")

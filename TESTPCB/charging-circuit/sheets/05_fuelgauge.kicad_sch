@@ -540,6 +540,15 @@
 			(justify left bottom)
 		)
 		(uuid "0e2cfd9e-a636-43e2-8e96-ba738a535f50")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 173.99 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "FUELGND"
 		(shape bidirectional)
@@ -551,6 +560,15 @@
 			(justify left bottom)
 		)
 		(uuid "0f9adfc5-c419-4ad2-9509-39b786537550")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.38 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "FUELBAT"
 		(shape bidirectional)
@@ -562,6 +580,15 @@
 			(justify right bottom)
 		)
 		(uuid "13f57649-acf5-42ad-9d18-853f90f3a6fb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 139.7 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "FUELGND"
 		(shape bidirectional)
@@ -573,6 +600,15 @@
 			(justify left bottom)
 		)
 		(uuid "2b570ff2-6c87-4437-a4ed-5f6b9ce3c21e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 173.99 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "FUELGND"
 		(shape bidirectional)
@@ -584,6 +620,15 @@
 			(justify right bottom)
 		)
 		(uuid "6b95050f-1380-45dd-9e19-6940a7c1a71f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 142.24 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "FUELBAT"
 		(shape bidirectional)
@@ -595,6 +640,15 @@
 			(justify left bottom)
 		)
 		(uuid "780fd496-2b64-4d05-b53c-8dbb61608131")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.38 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "FUELGND"
 		(shape bidirectional)
@@ -606,6 +660,15 @@
 			(justify left bottom)
 		)
 		(uuid "91a3be71-f528-480f-ada8-630d5e033f8c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 171.45 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "FUELSDA"
 		(shape bidirectional)
@@ -617,6 +680,15 @@
 			(justify left bottom)
 		)
 		(uuid "93ff81dd-953a-4e6b-996a-3e17ff107de4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.53 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "FUELGND"
 		(shape bidirectional)
@@ -628,6 +700,15 @@
 			(justify right bottom)
 		)
 		(uuid "9906257f-4bd4-46c0-bacd-1e33e15d164b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 143.51 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "FUELSDA"
 		(shape bidirectional)
@@ -639,6 +720,15 @@
 			(justify right bottom)
 		)
 		(uuid "cb6eca41-c958-4173-98e0-a63ef1d5c61a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 104.14 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "FUELSCL"
 		(shape bidirectional)
@@ -650,6 +740,15 @@
 			(justify left bottom)
 		)
 		(uuid "d35b1413-7b11-4010-88b8-592517fb9c4d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.53 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "FUELSCL"
 		(shape bidirectional)
@@ -661,6 +760,15 @@
 			(justify right bottom)
 		)
 		(uuid "d38d4301-eb05-49fc-8b63-b19217300979")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 104.14 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "easyeda2kicad:MAX17048G+T10")
