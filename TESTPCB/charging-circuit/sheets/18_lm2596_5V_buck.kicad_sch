@@ -1058,21 +1058,19 @@
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "U18"
-				(at 1.2701 -16.51 90)
+				(at 0 10.16 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify right)
 				)
 			)
 			(property "Value" "LM2596SX-5.0/NOPB"
-				(at -1.2699 -16.51 90)
+				(at 0 7.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify right)
 				)
 			)
 			(property "Footprint" "easyeda2kicad:TO-263-5_L10.2-W8.9-P1.70-TL"
@@ -1189,7 +1187,7 @@
 					)
 				)
 				(pin power_in line
-					(at 0 -7.62 90)
+					(at -2.54 -7.62 90)
 					(length 2.54)
 					(name "GND"
 						(effects
@@ -1199,6 +1197,24 @@
 						)
 					)
 					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 2.54 -7.62 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1408,6 +1424,12 @@
 		(uuid "7532e499-beda-44ee-ad77-d63575dd5cd7")
 	)
 	(junction
+		(at 132.08 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "78f8007e-212a-4262-85da-e031cb917248")
+	)
+	(junction
 		(at 148.59 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1440,6 +1462,16 @@
 			(type default)
 		)
 		(uuid "07deb323-cd7c-4628-8e0d-0ea2085bd0be")
+	)
+	(wire
+		(pts
+			(xy 129.54 99.06) (xy 132.08 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18d03746-b24d-47b0-b9cd-ce9a2d6dc4ce")
 	)
 	(wire
 		(pts
@@ -1550,6 +1582,16 @@
 			(type default)
 		)
 		(uuid "54c9a9b7-1124-4d39-a3ca-06e3f4779f2f")
+	)
+	(wire
+		(pts
+			(xy 132.08 99.06) (xy 134.62 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b0ea1ef-1bc9-4824-bf60-c1e197da39d1")
 	)
 	(wire
 		(pts
@@ -2333,6 +2375,9 @@
 		)
 		(pin "1"
 			(uuid "f9caaf6c-4142-482d-b704-585d11231cad")
+		)
+		(pin "6"
+			(uuid "f8e63090-dae5-4066-96da-1f192b59a54d")
 		)
 		(instances
 			(project ""
