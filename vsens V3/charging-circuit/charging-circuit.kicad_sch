@@ -1,0 +1,1711 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "529bc8a5-ffae-43ac-972d-caccc3afab85")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 142.54 78.74)
+		(size 110 22)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "07a6b8a4-da69-424e-a9b1-d867fdd85117")
+		(property "Sheetname" "12BUCK"
+			(at 144.54 80.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/11_12v_buck.kicad_sch"
+			(at 144.54 98.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "12FB" passive
+			(at 252.54 80.94 0)
+			(uuid "0e4189cc-41f1-45b0-884b-8451bd680ce5")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "12BGND" passive
+			(at 252.54 89.74 0)
+			(uuid "41d79dfc-91cb-4068-b088-8393814a3186")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "12BVOUT" passive
+			(at 252.54 98.54 0)
+			(uuid "48f40507-fdf5-4f9f-b2cc-17c4e50b3f22")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "12BOOT" passive
+			(at 142.54 80.94 180)
+			(uuid "9f7ec99d-5cec-460e-a8cd-0a01e6a62377")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "12BVSYS" passive
+			(at 142.54 98.54 180)
+			(uuid "bad84cbc-e574-4b1f-84f6-8b92113c3ed5")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 2.54 183.74)
+		(size 110 22)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "18b9eebe-215b-4696-a0de-5832208702d9")
+		(property "Sheetname" "IC2 breakout"
+			(at 4.54 185.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/07_ic2_breakout.kicad_sch"
+			(at 4.54 203.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "VAC2" passive
+			(at 112.54 185.94 0)
+			(uuid "a27f4605-063f-4da7-a014-375b88aa616a")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "VSET2" passive
+			(at 112.54 187.9 0)
+			(uuid "4a10c4de-e779-4a26-ac84-a937f9f61e22")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "TS2" passive
+			(at 112.54 189.85 0)
+			(uuid "b33c964d-b2a6-4bec-b54c-8dac76426cae")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "STAT2" passive
+			(at 112.54 191.81 0)
+			(uuid "16d03721-e4cc-4cf4-9e90-6dd8886802ae")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "ICHG2" passive
+			(at 112.54 193.76 0)
+			(uuid "846f16f9-b342-4f1e-b854-fb4f6f5b4b15")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "BTST" passive
+			(at 112.54 195.72 0)
+			(uuid "5b77711f-8090-43a7-81ee-20619352ce1f")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "SW2" passive
+			(at 112.54 197.67 0)
+			(uuid "3be5ef92-3236-4aef-b7bd-36f3976b2ab8")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "VBUS2" passive
+			(at 112.54 199.63 0)
+			(uuid "4a24257b-737b-465d-8dd6-d693866182f5")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "PMID2" passive
+			(at 112.54 201.58 0)
+			(uuid "17b0bcf6-18ff-492a-b862-216ada1c0999")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "SYS2" passive
+			(at 112.54 203.54 0)
+			(uuid "cac521ca-c473-4685-9b81-99a40d5ba53f")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "OTG2" passive
+			(at 2.54 185.94 180)
+			(uuid "8ad4a3a5-4116-480a-a135-077ec89fb3bd")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "BAT2" passive
+			(at 2.54 188.14 180)
+			(uuid "27854ead-239c-4b28-b1e9-6256902550b3")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "CE2" passive
+			(at 2.54 190.34 180)
+			(uuid "7725b38a-f5f2-44f8-95cb-93a02f84e56e")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "GND2" passive
+			(at 2.54 192.54 180)
+			(uuid "fb804083-1c49-42b4-a5a4-5692ebd533f0")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "2D+" passive
+			(at 2.54 194.74 180)
+			(uuid "cbe889b9-f9a0-4688-8279-1abe32f329e6")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "2D-" passive
+			(at 2.54 196.94 180)
+			(uuid "6b0d6c7e-0b0b-4f2c-9588-9232586a9774")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "PG2" passive
+			(at 2.54 199.14 180)
+			(uuid "fab53e09-748a-42b8-a57c-8f9b635345dd")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "ILIM2" passive
+			(at 2.54 201.34 180)
+			(uuid "b6eb7149-adcc-4050-9179-38b73a2effe0")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "REGN2" passive
+			(at 2.54 203.54 180)
+			(uuid "5329e6fb-7c60-4493-bf2d-8ce81390fe09")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 2.54 8.74)
+		(size 110 22)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1cdad32b-da08-469d-bcec-61a095378c47")
+		(property "Sheetname" "CHARGE1"
+			(at 4.54 10.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/02_charge1.kicad_sch"
+			(at 4.54 28.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "GND1" passive
+			(at 112.54 10.94 0)
+			(uuid "8a593f50-9798-4b48-ab97-2cf0339d281f")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "VBUS1" passive
+			(at 112.54 16.81 0)
+			(uuid "b501e375-d047-491b-bc75-bea3f7558139")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "VSYS1" passive
+			(at 112.54 22.67 0)
+			(uuid "d2168523-d9cc-4cae-853b-f6003a439767")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "VBAT1" passive
+			(at 112.54 28.54 0)
+			(uuid "cfb07ec3-5e59-417d-b637-e5d2b844d3b3")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "1D-" passive
+			(at 2.54 10.94 180)
+			(uuid "f801ce2f-a560-498a-81a7-f4db87e06017")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "1D+" passive
+			(at 2.54 19.74 180)
+			(uuid "fac357e6-1840-4b23-945c-a2cf667362e7")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "REGN1" passive
+			(at 2.54 28.54 180)
+			(uuid "4fa2c2cc-dc0d-41a0-af19-14f149b21ed3")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 2.54 78.74)
+		(size 110 22)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "46234f0e-61f2-45bf-9df2-e52d6b9d2e9e")
+		(property "Sheetname" "SLEEPMOSFET"
+			(at 4.54 80.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/04_sleepmosfet.kicad_sch"
+			(at 4.54 98.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SLEEPGND" passive
+			(at 112.54 80.94 0)
+			(uuid "b98f0b70-ffdf-41ce-b14d-eb0dd8691d7a")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "SLEEPSIG" passive
+			(at 112.54 98.54 0)
+			(uuid "7f7376d9-74e6-4509-9eda-7aebe54e8133")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "SLEEPVSYS" passive
+			(at 2.54 89.74 180)
+			(uuid "0699b194-179d-4f1c-b66b-a1f38a69067f")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 2.54 148.74)
+		(size 110 22)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "597d89a7-745a-4d69-ac8e-8c676997c7ec")
+		(property "Sheetname" "V1 IC"
+			(at 4.54 150.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/06_v1_ic.kicad_sch"
+			(at 4.54 168.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "V1GND" passive
+			(at 112.54 150.94 0)
+			(uuid "c3b89a85-8b46-424f-8382-c52d127cb771")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "V1VBUS" passive
+			(at 112.54 168.54 0)
+			(uuid "2e81b129-62c4-40dd-86e4-64fce9008a12")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "V1VSYS" passive
+			(at 2.54 150.94 180)
+			(uuid "7d48f617-688a-4ab8-b4f6-c10ba1449c98")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "V1VBAT" passive
+			(at 2.54 168.54 180)
+			(uuid "e41a1965-7676-4c8f-a381-0d364df56ce7")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 142.54 8.74)
+		(size 110 22)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5f952912-5a9d-401f-96a9-cd68a5ccd13d")
+		(property "Sheetname" "5VLDO"
+			(at 144.54 10.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/09_5v_ldo.kicad_sch"
+			(at 144.54 28.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "5VSYS" passive
+			(at 252.54 10.94 0)
+			(uuid "93942a75-b424-456a-b588-ce9fa45745db")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "5VOUT" passive
+			(at 252.54 28.54 0)
+			(uuid "6b3e2ee1-9e7f-4e0a-afde-cd73ebc4d3f1")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "5GND" passive
+			(at 142.54 19.74 180)
+			(uuid "1c4680f7-10de-4721-8508-9a5b0988bc4a")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 142.54 113.74)
+		(size 110 22)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8385f483-277a-4779-9645-659df1f13e8f")
+		(property "Sheetname" "5BUCK"
+			(at 144.54 115.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/12_5v_buck.kicad_sch"
+			(at 144.54 133.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "5BGND" passive
+			(at 252.54 115.94 0)
+			(uuid "919f581f-4c53-42d9-a2e2-4bc67e3d863c")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "5BVSYS" passive
+			(at 252.54 124.74 0)
+			(uuid "b3a0fba0-cc50-4db6-ac36-6cf649813e47")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "5BOOT" passive
+			(at 252.54 133.54 0)
+			(uuid "fda9b8f3-03e8-464b-98fc-e12198555d56")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "5BVOUT" passive
+			(at 142.54 115.94 180)
+			(uuid "42353da7-048a-48ae-b3e9-faea893139a2")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "5FB" passive
+			(at 142.54 133.54 180)
+			(uuid "365cdc5e-e410-40ef-b370-1fe38f3c71a8")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 142.54 43.74)
+		(size 110 22)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8630c231-6ef0-4238-aca8-49e5c9c6954b")
+		(property "Sheetname" "3.3VLDO"
+			(at 144.54 45.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/10_3v3_ldo.kicad_sch"
+			(at 144.54 63.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "3V3VSYS" passive
+			(at 252.54 45.94 0)
+			(uuid "ee3acea9-d257-4f41-bbad-f8bfd18fc91c")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "3V3GND" passive
+			(at 252.54 63.54 0)
+			(uuid "21d73578-8974-465c-958e-466de7f798ba")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "3V3VOUT" passive
+			(at 142.54 54.74 180)
+			(uuid "3500ed18-c65d-4721-a4e0-33486f894f98")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 2.54 113.74)
+		(size 110 22)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8c3d0b7d-92b0-403f-802a-8a5a7d9fa34c")
+		(property "Sheetname" "FUELGAUGE"
+			(at 4.54 115.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/05_fuelgauge.kicad_sch"
+			(at 4.54 133.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "FUELGND" passive
+			(at 112.54 115.94 0)
+			(uuid "d1ada4f2-5823-4be2-aa44-3fd5aab0eda9")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "FUELBAT" passive
+			(at 112.54 133.54 0)
+			(uuid "57d54f85-24d8-47f3-9fbf-2ad0a1f4f68c")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "FUELSDA" passive
+			(at 2.54 115.94 180)
+			(uuid "64ad22c2-e64b-420b-91fe-f23f4e124969")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "FUELSCL" passive
+			(at 2.54 133.54 180)
+			(uuid "116abcee-e1ec-491f-8f1a-65c0e5b89d25")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 282.54 113.74)
+		(size 110 22)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9dddee0f-db6b-4d06-95d5-93553e494b2c")
+		(property "Sheetname" "LM2596 BUCK"
+			(at 284.54 115.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/18_lm2596_adj_buck.kicad_sch"
+			(at 284.54 133.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "LM2596_VIN" passive
+			(at 392.54 115.94 0)
+			(uuid "d3d1ca56-38e8-4802-ace4-4e33f8db3595")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "GND" passive
+			(at 392.54 133.54 0)
+			(uuid "dd944f42-94ef-49ed-b9db-b0bf7bcd28be")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "LM2596_VOUT" passive
+			(at 282.54 124.74 180)
+			(uuid "c45f0d81-4273-4368-a790-58a01a07d3d1")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 2.54 43.74)
+		(size 110 22)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a1887c91-7879-4c06-808e-b1dac328dc40")
+		(property "Sheetname" "USB+BAT"
+			(at 4.54 45.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/03_usb_bat.kicad_sch"
+			(at 4.54 63.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "D-" passive
+			(at 112.54 45.94 0)
+			(uuid "2044cfcb-7200-4910-af20-e7190a0dfbf6")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "USBGND" passive
+			(at 112.54 54.74 0)
+			(uuid "01ba3e34-3671-4908-92f5-5b102efec537")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "VBAT" passive
+			(at 112.54 63.54 0)
+			(uuid "936433bb-12e3-4312-a0dd-532311390dba")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "VBUS" passive
+			(at 2.54 45.94 180)
+			(uuid "229c48d1-4f64-4cc3-8525-42d02ace0cc7")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "D+" passive
+			(at 2.54 63.54 180)
+			(uuid "8ed56534-46c8-4a3f-87a6-00db7403f03a")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 282.54 43.74)
+		(size 110 22)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c2b703a4-2e88-4383-8b77-8614951a81a3")
+		(property "Sheetname" "TEMP+HEATER"
+			(at 284.54 45.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/16_temp_heater.kicad_sch"
+			(at 284.54 63.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Temp3.3V" passive
+			(at 392.54 45.94 0)
+			(uuid "454e6bce-1c62-474a-a3f4-1aedcdbbb743")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "TEMPSCL" passive
+			(at 392.54 49.46 0)
+			(uuid "47f140cb-a6cc-4b2a-ab27-c450372d6de4")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "TEMPGND" passive
+			(at 392.54 52.98 0)
+			(uuid "38cb7991-83f8-4151-adb8-4065ff8c03cd")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "A0" passive
+			(at 392.54 56.5 0)
+			(uuid "89cab521-ece3-4de1-a677-47bd1fecb55c")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "A2" passive
+			(at 392.54 60.02 0)
+			(uuid "3e566c8f-7a83-4100-8d19-54a38d7d9e03")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "A1" passive
+			(at 392.54 63.54 0)
+			(uuid "2d87f935-1771-40cb-8f24-4197b29aa24b")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "TEMP12V" passive
+			(at 282.54 45.94 180)
+			(uuid "91efeffa-22b6-4508-8a37-c403ad0ebe0d")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "base" passive
+			(at 282.54 49.46 180)
+			(uuid "1f91ceeb-cb41-4255-814d-98221927d8c5")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "Address" passive
+			(at 282.54 52.98 180)
+			(uuid "22c2dc3c-659e-4130-8b98-0b4b8ea5bde4")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "PWMSIG" passive
+			(at 282.54 56.5 180)
+			(uuid "3a45a7d0-3e9e-40d7-b8d9-67c145e365e3")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "TEMPSDA" passive
+			(at 282.54 60.02 180)
+			(uuid "19f0b32a-8898-49c0-9dd1-5b53eeb8f3a8")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "A3" passive
+			(at 282.54 63.54 180)
+			(uuid "33d5e201-a02f-4df5-beee-4ca2b8b572c1")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 282.54 78.74)
+		(size 110 22)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cebc8927-3eb9-4228-bd64-eb01f991daf3")
+		(property "Sheetname" "DSUB+RS232"
+			(at 284.54 80.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/17_dsub_rs232.kicad_sch"
+			(at 284.54 98.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DSUBGND" passive
+			(at 392.54 80.94 0)
+			(uuid "8fee6501-443e-46f5-a427-8ebee4352fee")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "UART_RX_13V" passive
+			(at 392.54 86.81 0)
+			(uuid "3410159d-159f-4ddd-9f7d-96d0595c4524")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "TX" passive
+			(at 392.54 92.67 0)
+			(uuid "42b41837-389b-43ce-bf39-4fbc12735699")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "DSUB3.3V" passive
+			(at 392.54 98.54 0)
+			(uuid "b02ef0b2-0cd4-408f-a346-dd6628f729e3")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "RX" passive
+			(at 282.54 80.94 180)
+			(uuid "76c06206-73ed-428e-9458-28e475aa973b")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "UART_TX_13V" passive
+			(at 282.54 89.74 180)
+			(uuid "c6e71648-dbd2-4a14-afa2-453bc551a174")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "DSUB12V" passive
+			(at 282.54 98.54 180)
+			(uuid "656c2cb5-ec3f-43f2-9f12-45ad0905dfd8")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 282.54 8.74)
+		(size 110 22)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cff05046-5666-496e-bdc0-c674fdf4f5c2")
+		(property "Sheetname" "3S Balancer"
+			(at 284.54 10.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/15_3s_balancer.kicad_sch"
+			(at 284.54 28.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PROTECT-" passive
+			(at 392.54 10.94 0)
+			(uuid "9dfe904e-1c34-433d-82a5-5e7835a59cf8")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "PACK-" passive
+			(at 392.54 13.45 0)
+			(uuid "18bb2232-efa6-4f87-8fb1-87093dc99aeb")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "GND" passive
+			(at 392.54 15.97 0)
+			(uuid "de7ce59a-aa38-4f7f-82b1-aeff682639c6")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "ALERT-2-RASPI" passive
+			(at 392.54 18.48 0)
+			(uuid "70247c94-702a-458f-a7e0-94d79a375f48")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "BAT_1 (-)" passive
+			(at 392.54 21 0)
+			(uuid "8afe6f85-355e-4a4f-8267-ca659d0b9e90")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "VC1" passive
+			(at 392.54 23.51 0)
+			(uuid "8bfc16d6-383b-453d-be8d-c3306ae4d4d4")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "VCC" passive
+			(at 392.54 26.03 0)
+			(uuid "81de12a2-d33c-4982-87b5-271c93699d3a")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "BAT_1 (+)" passive
+			(at 392.54 28.54 0)
+			(uuid "ba4d6076-4b70-4072-9527-e7a41cd1b14b")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "PACK+" passive
+			(at 282.54 10.94 180)
+			(uuid "6d84b3a0-fe4f-44c9-9c07-1b9146ca43f3")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "SCL-2-RASPI" passive
+			(at 282.54 13.87 180)
+			(uuid "15185a71-199f-4ca9-830d-60ed8661c5b0")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "BAT_3 (+)" passive
+			(at 282.54 16.81 180)
+			(uuid "7b778e35-bd50-49cb-953d-9a90644eadea")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "BAT_2 (-)" passive
+			(at 282.54 19.74 180)
+			(uuid "90d82b02-65a1-42e3-9581-78452cbb7771")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "BAT_2 (+)" passive
+			(at 282.54 22.67 180)
+			(uuid "88c14e4b-0d89-49ec-bfc7-1674e351c73f")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "BAT_3 (-)" passive
+			(at 282.54 25.61 180)
+			(uuid "f83381b8-ce74-46c3-8723-6be55d5fb6db")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "SDA-2-RASPI" passive
+			(at 282.54 28.54 180)
+			(uuid "ada53b78-aa0e-4f78-a175-1e587530c0ad")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 282.54 -26.26)
+		(size 110 22)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d817ed9f-d5ed-4b76-b785-ec99fd1fec7f")
+		(property "Sheetname" "3S IC"
+			(at 284.54 -24.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/14_3s_ic.kicad_sch"
+			(at 284.54 -6.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "VREF" passive
+			(at 392.54 -24.06 0)
+			(uuid "7c3fb98e-4316-468b-9848-8da0a12afe25")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "CHG_GND" passive
+			(at 392.54 -6.46 0)
+			(uuid "4cc0be92-bb89-4a0a-8650-a84e6829d2d2")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "12V_Adapter" passive
+			(at 282.54 -24.06 180)
+			(uuid "b623d912-97d7-430d-be38-d58fdb948398")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "CHG_VBAT" passive
+			(at 282.54 -6.46 180)
+			(uuid "a8f23512-18bd-4c2a-9a43-7a5fb083ffd0")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 281.94 143.51)
+		(size 110 22)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e6612f6f-e131-40dc-9b50-f62250179b84")
+		(property "Sheetname" "LM2596 5V Buck"
+			(at 283.94 145.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/18_lm2596_5V_buck.kicad_sch"
+			(at 283.94 163.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "LM2596_5V_VIN" passive
+			(at 391.94 145.71 0)
+			(uuid "f2dc9352-f479-4742-b4dc-46ab51e9387c")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "GND" passive
+			(at 391.94 163.31 0)
+			(uuid "7d1cdd1c-0246-4969-91a6-b2edd8e94c7b")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "LM2596_5V_VOUT" passive
+			(at 281.94 154.51 180)
+			(uuid "09fd1d65-199e-4d80-9eae-a77bfb85a5fa")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(instances
+			(project "charging-circuit"
+				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 142.54 148.74)
+		(size 110 22)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e6da0a18-c557-4b69-82a7-c228bcc0d3f4")
+		(property "Sheetname" "3.3BUCK"
+			(at 144.54 150.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/13_3v3_buck.kicad_sch"
+			(at 144.54 168.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "3V3FB" passive
+			(at 252.54 150.94 0)
+			(uuid "9c917356-274c-403d-a038-4dddf621b7b3")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "3V3BGND" passive
+			(at 252.54 159.74 0)
+			(uuid "510ea567-7b07-467f-9235-9ddd5aabcdea")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "3V3BVSYS" passive
+			(at 252.54 168.54 0)
+			(uuid "b368ae6a-531d-4f8f-be75-5dd7d8f3e01b")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "3V3BVOUT" passive
+			(at 142.54 150.94 180)
+			(uuid "950d5dc7-ab75-4c0c-b65e-20edbf5bbb8f")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "3V3BOOT" passive
+			(at 142.54 168.54 180)
+			(uuid "1ad30a56-b1c3-4c61-a63d-d73e22d55da8")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 142.54 -26.26)
+		(size 110 22)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ee8485ed-d45e-4f6a-8840-30a1dc736938")
+		(property "Sheetname" "12VLDO"
+			(at 144.54 -24.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/08_12v_ldo.kicad_sch"
+			(at 144.54 -6.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "12VOUT" passive
+			(at 252.54 -24.06 0)
+			(uuid "ba4cf64e-e55b-47f5-84da-f22da2e473b2")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "12GND" passive
+			(at 252.54 -6.46 0)
+			(uuid "219df6c6-f768-4e46-a146-b77ee88f590e")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "12VSYS" passive
+			(at 142.54 -15.26 180)
+			(uuid "10ce182a-b04d-4b80-908a-ea7caeb7e9fd")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 2.54 -26.26)
+		(size 110 22)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f47ce17a-bd34-40a6-9fc8-6e8969ff10cc")
+		(property "Sheetname" "USBC-PD"
+			(at 4.54 -24.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/01_usbc_pd.kicad_sch"
+			(at 4.54 -6.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PDGND" passive
+			(at 112.54 -24.06 0)
+			(uuid "6ceed353-12f0-4fd2-ac83-3fb59eaeb0bb")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "VSET" passive
+			(at 112.54 -15.26 0)
+			(uuid "b1c0063d-b4e3-4202-9913-ab09d31480ed")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "ISET" passive
+			(at 112.54 -6.46 0)
+			(uuid "9096fa36-aaa1-4a31-807d-9340987d7109")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "CC1" passive
+			(at 2.54 -24.06 180)
+			(uuid "3578b425-608b-4d93-bdcc-92f3627b4b94")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "PDVOUT" passive
+			(at 2.54 -15.26 180)
+			(uuid "016f1bdc-a9ad-41a6-894d-94374011a87c")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(pin "CC2" passive
+			(at 2.54 -6.46 180)
+			(uuid "b22b63d7-19de-42a4-85bd-5910fcc5a930")
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
