@@ -1791,7 +1791,7 @@
 		)
 		(uuid "5ba257ac-90c0-477b-a94b-c408c7785477")
 	)
-	(global_label "LM2596_VOUT"
+	(global_label "LM2596_5V_VOUT"
 		(shape bidirectional)
 		(at 207.01 93.98 0)
 		(effects
@@ -1811,7 +1811,7 @@
 			)
 		)
 	)
-	(global_label "LM2596_VIN"
+	(global_label "LM2596_5V_VIN"
 		(shape bidirectional)
 		(at 81.28 88.9 0)
 		(effects
