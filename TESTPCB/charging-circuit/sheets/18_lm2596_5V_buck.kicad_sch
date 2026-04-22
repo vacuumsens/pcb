@@ -903,170 +903,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:R_Potentiometer"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "RV"
-				(at -4.445 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "R_Potentiometer"
-				(at -2.54 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Potentiometer"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "resistor variable"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Potentiometer*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "R_Potentiometer_0_1"
-				(rectangle
-					(start 1.016 2.54)
-					(end -1.016 -2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.143 0) (xy 2.286 0.508) (xy 2.286 -0.508) (xy 1.143 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 0) (xy 1.524 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "R_Potentiometer_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 1.27)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Diode:SS34"
 			(pin_numbers
 				(hide yes)
@@ -1200,6 +1036,198 @@
 					(at 3.81 0 180)
 					(length 2.54)
 					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "easyeda2kicad:LM2596SX-5.0_NOPB"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U18"
+				(at 1.2701 -16.51 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right)
+				)
+			)
+			(property "Value" "LM2596SX-5.0/NOPB"
+				(at -1.2699 -16.51 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:TO-263-5_L10.2-W8.9-P1.70-TL"
+				(at 0 -17.78 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/DC-DC-Converters_TI_LM2596SX-5-0-NOPB_LM2596SX-5-0-NOPB_C10002.html"
+				(at 0 -20.32 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "TI(德州仪器)"
+				(at 0 -22.86 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "LM2596SX-5.0/NOPB"
+				(at 0 -25.4 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C10002"
+				(at 0 -27.94 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "DC-DC Converters"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "LM2596SX-5.0_NOPB_0_1"
+				(rectangle
+					(start -10.16 5.08)
+					(end 10.16 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "LM2596SX-5.0_NOPB_1_1"
+				(pin power_in line
+					(at -12.7 2.54 0)
+					(length 2.54)
+					(name "VIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -12.7 -2.54 0)
+					(length 2.54)
+					(name "~{ON}/OFF"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -7.62 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 12.7 2.54 180)
+					(length 2.54)
+					(name "FB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 12.7 -2.54 180)
+					(length 2.54)
+					(name "OUT"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1392,34 +1420,16 @@
 		(uuid "99b0f14d-0339-4465-afcd-bbaffd728b98")
 	)
 	(junction
-		(at 219.71 119.38)
+		(at 207.01 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c4d4a24e-4228-4620-87c6-43b067c91df0")
 	)
 	(junction
-		(at 204.47 119.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d057b06b-94a0-47cd-a501-72787905345e")
-	)
-	(junction
-		(at 204.47 93.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d4c857a3-d4a6-4747-aa8e-5b86ba77adf7")
-	)
-	(junction
-		(at 219.71 93.98)
+		(at 207.01 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "de8e8d87-30f0-4309-89fa-6a694acb0e7b")
-	)
-	(junction
-		(at 204.47 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ed07432e-0ec2-405a-b17d-2d5da7a12228")
 	)
 	(wire
 		(pts
@@ -1433,23 +1443,13 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 93.98) (xy 204.47 93.98)
+			(xy 186.69 93.98) (xy 207.01 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "1ba78f3b-01d5-410b-834e-f4277a44cde9")
-	)
-	(wire
-		(pts
-			(xy 208.28 102.87) (xy 208.28 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1caf1d4f-f10b-402b-ae71-a4a4ac0858b0")
 	)
 	(wire
 		(pts
@@ -1473,16 +1473,6 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 88.9) (xy 198.12 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "30e9e6a6-c69d-459d-9eaf-363e0aad9a0f")
-	)
-	(wire
-		(pts
 			(xy 148.59 93.98) (xy 148.59 100.33)
 		)
 		(stroke
@@ -1493,13 +1483,23 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 119.38) (xy 234.95 119.38)
+			(xy 207.01 119.38) (xy 222.25 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "37252f17-a4f3-4433-8a2f-492de6857463")
+	)
+	(wire
+		(pts
+			(xy 186.69 88.9) (xy 186.69 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37e20a73-8bc0-409f-8730-1bc71fe4be52")
 	)
 	(wire
 		(pts
@@ -1543,7 +1543,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 119.38) (xy 186.69 119.38)
+			(xy 186.69 119.38) (xy 207.01 119.38)
 		)
 		(stroke
 			(width 0)
@@ -1573,16 +1573,6 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 88.9) (xy 198.12 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "644072c7-2ac6-4790-a0e1-2d184170b2f5")
-	)
-	(wire
-		(pts
 			(xy 166.37 100.33) (xy 166.37 93.98)
 		)
 		(stroke
@@ -1593,17 +1583,17 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 107.95) (xy 204.47 109.22)
+			(xy 144.78 88.9) (xy 186.69 88.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "688d5a54-9313-45d5-abae-5ae1d60efb4b")
+		(uuid "6f86a01c-02cb-43c6-b99f-44d9b5d890a5")
 	)
 	(wire
 		(pts
-			(xy 219.71 97.79) (xy 219.71 93.98)
+			(xy 207.01 97.79) (xy 207.01 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1620,26 +1610,6 @@
 			(type default)
 		)
 		(uuid "722728b4-ed29-47ac-b319-b28ac14c0273")
-	)
-	(wire
-		(pts
-			(xy 208.28 107.95) (xy 204.47 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "738a925b-2243-4165-8b96-039e22b8b6a4")
-	)
-	(wire
-		(pts
-			(xy 204.47 99.06) (xy 204.47 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7b3b8460-b192-44ff-b92a-f4ef4c7145f2")
 	)
 	(wire
 		(pts
@@ -1673,53 +1643,13 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 106.68) (xy 204.47 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "982f1dce-259c-46e9-aae5-c7f1cfe56ee6")
-	)
-	(wire
-		(pts
-			(xy 198.12 107.95) (xy 204.47 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "998c91d8-8bef-4c67-857e-3972ae527259")
-	)
-	(wire
-		(pts
-			(xy 204.47 116.84) (xy 204.47 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "99cbd450-f7e4-4b07-8d4d-97f0acef476b")
-	)
-	(wire
-		(pts
-			(xy 219.71 105.41) (xy 219.71 109.22)
+			(xy 207.01 105.41) (xy 207.01 109.22)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "a864ba9f-7ba7-476e-9f31-ef4d7b1c164b")
-	)
-	(wire
-		(pts
-			(xy 132.08 99.06) (xy 132.08 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aa3b311f-5be2-447c-90ed-7bfe0be62be3")
 	)
 	(wire
 		(pts
@@ -1733,7 +1663,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 116.84) (xy 219.71 119.38)
+			(xy 207.01 116.84) (xy 207.01 119.38)
 		)
 		(stroke
 			(width 0)
@@ -1753,6 +1683,16 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 93.98) (xy 119.38 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4539030-8729-418e-8dd5-3be38708b3fc")
+	)
+	(wire
+		(pts
 			(xy 81.28 119.38) (xy 101.6 119.38)
 		)
 		(stroke
@@ -1763,17 +1703,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 119.38) (xy 204.47 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c437c6aa-a38c-40db-be04-6da47816dae1")
-	)
-	(wire
-		(pts
-			(xy 219.71 93.98) (xy 233.68 93.98)
+			(xy 207.01 93.98) (xy 220.98 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1813,13 +1743,13 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 93.98) (xy 119.38 119.38)
+			(xy 132.08 99.06) (xy 132.08 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "dc9c5114-b3d3-4947-88b2-ed14ebe952d9")
+		(uuid "dd9fc26c-2d8e-4e89-b088-2393bcabda5b")
 	)
 	(wire
 		(pts
@@ -1851,16 +1781,6 @@
 		)
 		(uuid "fba38714-d0cd-4a05-85b2-f2267996b06d")
 	)
-	(wire
-		(pts
-			(xy 204.47 93.98) (xy 219.71 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd83eed5-719f-4266-baea-c4f6caebbcf4")
-	)
 	(label "SW"
 		(at 148.59 93.98 0)
 		(effects
@@ -1873,7 +1793,7 @@
 	)
 	(global_label "LM2596_VOUT"
 		(shape bidirectional)
-		(at 219.71 93.98 0)
+		(at 207.01 93.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1882,7 +1802,7 @@
 		)
 		(uuid "58700534-7630-4569-8f22-84bcdf417ac9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 219.71 93.98 0)
+			(at 207.01 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1971,10 +1891,6 @@
 		)
 		(instances
 			(project "charging-circuit"
-				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/9dddee0f-db6b-4d06-95d5-93553e494b2c"
-					(reference "L20")
-					(unit 1)
-				)
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/e6612f6f-e131-40dc-9b50-f62250179b84"
 					(reference "L4")
 					(unit 1)
@@ -2045,10 +1961,6 @@
 		)
 		(instances
 			(project "charging-circuit"
-				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/9dddee0f-db6b-4d06-95d5-93553e494b2c"
-					(reference "D201")
-					(unit 1)
-				)
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/e6612f6f-e131-40dc-9b50-f62250179b84"
 					(reference "D15")
 					(unit 1)
@@ -2119,10 +2031,6 @@
 		)
 		(instances
 			(project "charging-circuit"
-				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/9dddee0f-db6b-4d06-95d5-93553e494b2c"
-					(reference "C901")
-					(unit 1)
-				)
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/e6612f6f-e131-40dc-9b50-f62250179b84"
 					(reference "C62")
 					(unit 1)
@@ -2132,7 +2040,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Pin")
-		(at 240.03 119.38 180)
+		(at 227.33 119.38 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2141,7 +2049,7 @@
 		(fields_autoplaced yes)
 		(uuid "2a05dd24-e1a2-45e0-9724-f44f438d9d77")
 		(property "Reference" "J6"
-			(at 239.395 114.3 0)
+			(at 226.695 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2149,7 +2057,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01_Pin"
-			(at 239.395 116.84 0)
+			(at 226.695 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2157,7 +2065,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
-			(at 240.03 119.38 0)
+			(at 227.33 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2166,7 +2074,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 240.03 119.38 0)
+			(at 227.33 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2175,7 +2083,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 240.03 119.38 0)
+			(at 227.33 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2188,10 +2096,6 @@
 		)
 		(instances
 			(project "charging-circuit"
-				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/9dddee0f-db6b-4d06-95d5-93553e494b2c"
-					(reference "J23")
-					(unit 1)
-				)
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/e6612f6f-e131-40dc-9b50-f62250179b84"
 					(reference "J6")
 					(unit 1)
@@ -2258,10 +2162,6 @@
 		)
 		(instances
 			(project "charging-circuit"
-				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/9dddee0f-db6b-4d06-95d5-93553e494b2c"
-					(reference "#PWR01")
-					(unit 1)
-				)
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/e6612f6f-e131-40dc-9b50-f62250179b84"
 					(reference "#PWR02")
 					(unit 1)
@@ -2332,12 +2232,112 @@
 		)
 		(instances
 			(project "charging-circuit"
-				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/9dddee0f-db6b-4d06-95d5-93553e494b2c"
-					(reference "C902")
-					(unit 1)
-				)
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/e6612f6f-e131-40dc-9b50-f62250179b84"
 					(reference "C63")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:LM2596SX-5.0_NOPB")
+		(at 132.08 91.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4a32d342-b727-4b1e-b0f5-065755ab91f5")
+		(property "Reference" "U18"
+			(at 132.08 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LM2596SX-5.0/NOPB"
+			(at 132.08 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:TO-263-5_L10.2-W8.9-P1.70-TL"
+			(at 132.08 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/DC-DC-Converters_TI_LM2596SX-5-0-NOPB_LM2596SX-5-0-NOPB_C10002.html"
+			(at 132.08 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 132.08 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TI(德州仪器)"
+			(at 132.08 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "LM2596SX-5.0/NOPB"
+			(at 132.08 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C10002"
+			(at 132.08 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4258cbad-0039-45f1-bb57-3c3e1cd6d2a2")
+		)
+		(pin "3"
+			(uuid "4157d38d-4b06-4157-aea7-c291c66e7712")
+		)
+		(pin "4"
+			(uuid "4181ff9d-4c36-4e1a-ad0d-3a10f3ac6d3d")
+		)
+		(pin "5"
+			(uuid "54f9e967-d19d-4a2c-9709-f8d8dbbc4d82")
+		)
+		(pin "1"
+			(uuid "f9caaf6c-4142-482d-b704-585d11231cad")
+		)
+		(instances
+			(project ""
+				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/e6612f6f-e131-40dc-9b50-f62250179b84"
+					(reference "U18")
 					(unit 1)
 				)
 			)
@@ -2401,10 +2401,6 @@
 		)
 		(instances
 			(project "charging-circuit"
-				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/9dddee0f-db6b-4d06-95d5-93553e494b2c"
-					(reference "J20")
-					(unit 1)
-				)
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/e6612f6f-e131-40dc-9b50-f62250179b84"
 					(reference "J3")
 					(unit 1)
@@ -2413,84 +2409,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Potentiometer")
-		(at 204.47 102.87 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "64cf01b6-25cd-4399-9c1e-6bb9154c6ef1")
-		(property "Reference" "RV1"
-			(at 202.946 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10K"
-			(at 212.344 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
-			(at 204.47 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 204.47 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Potentiometer"
-			(at 204.47 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "a84a57f8-42b6-425b-b970-e385828e45dc")
-		)
-		(pin "1"
-			(uuid "f12a6cb5-5cec-418d-9625-9436b939d1eb")
-		)
-		(pin "3"
-			(uuid "8394acc2-3333-4da1-8029-ccfecac0a848")
-		)
-		(instances
-			(project "charging-circuit"
-				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/9dddee0f-db6b-4d06-95d5-93553e494b2c"
-					(reference "RV20")
-					(unit 1)
-				)
-				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/e6612f6f-e131-40dc-9b50-f62250179b84"
-					(reference "RV1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED")
-		(at 219.71 113.03 90)
+		(at 207.01 113.03 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2499,7 +2419,7 @@
 		(fields_autoplaced yes)
 		(uuid "83da0331-2e0f-4290-93f4-74e2839a356d")
 		(property "Reference" "D16"
-			(at 223.52 113.3474 90)
+			(at 210.82 113.3474 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2508,7 +2428,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 223.52 115.8874 90)
+			(at 210.82 115.8874 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2517,7 +2437,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 219.71 113.03 0)
+			(at 207.01 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2526,7 +2446,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 219.71 113.03 0)
+			(at 207.01 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2535,7 +2455,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 219.71 113.03 0)
+			(at 207.01 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2544,7 +2464,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 219.71 113.03 0)
+			(at 207.01 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2560,10 +2480,6 @@
 		)
 		(instances
 			(project "charging-circuit"
-				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/9dddee0f-db6b-4d06-95d5-93553e494b2c"
-					(reference "D200")
-					(unit 1)
-				)
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/e6612f6f-e131-40dc-9b50-f62250179b84"
 					(reference "D16")
 					(unit 1)
@@ -2573,7 +2489,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 219.71 101.6 0)
+		(at 207.01 101.6 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2582,7 +2498,7 @@
 		(fields_autoplaced yes)
 		(uuid "9c3628dc-2d3d-49b4-9a18-d950e9bcb7f9")
 		(property "Reference" "R67"
-			(at 222.25 100.3299 0)
+			(at 209.55 100.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2591,7 +2507,7 @@
 			)
 		)
 		(property "Value" "4K7"
-			(at 222.25 102.8699 0)
+			(at 209.55 102.8699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2600,7 +2516,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 217.932 101.6 90)
+			(at 205.232 101.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2609,7 +2525,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 219.71 101.6 0)
+			(at 207.01 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2618,7 +2534,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 219.71 101.6 0)
+			(at 207.01 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2634,10 +2550,6 @@
 		)
 		(instances
 			(project "charging-circuit"
-				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/9dddee0f-db6b-4d06-95d5-93553e494b2c"
-					(reference "R80")
-					(unit 1)
-				)
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/e6612f6f-e131-40dc-9b50-f62250179b84"
 					(reference "R67")
 					(unit 1)
@@ -2646,82 +2558,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 204.47 113.03 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bc6b5af1-d8e1-403f-be0c-f529768e2aa0")
-		(property "Reference" "R23"
-			(at 207.01 111.7599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1K"
-			(at 207.01 114.2999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 202.692 113.03 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 204.47 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 204.47 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e921031e-a639-4587-8256-5a4d7e7fcb14")
-		)
-		(pin "1"
-			(uuid "2905fe21-6c8e-478f-b1b1-49a97e88e704")
-		)
-		(instances
-			(project "charging-circuit"
-				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/9dddee0f-db6b-4d06-95d5-93553e494b2c"
-					(reference "R81")
-					(unit 1)
-				)
-				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/e6612f6f-e131-40dc-9b50-f62250179b84"
-					(reference "R23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:Conn_01x01_Pin")
-		(at 238.76 93.98 180)
+		(at 226.06 93.98 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2730,7 +2568,7 @@
 		(fields_autoplaced yes)
 		(uuid "c6b47a0e-e99d-4b78-8ce3-84148dc952cf")
 		(property "Reference" "J5"
-			(at 238.125 88.9 0)
+			(at 225.425 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2738,7 +2576,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01_Pin"
-			(at 238.125 91.44 0)
+			(at 225.425 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2746,7 +2584,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
-			(at 238.76 93.98 0)
+			(at 226.06 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2755,7 +2593,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 238.76 93.98 0)
+			(at 226.06 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2764,7 +2602,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 238.76 93.98 0)
+			(at 226.06 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2777,10 +2615,6 @@
 		)
 		(instances
 			(project "charging-circuit"
-				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/9dddee0f-db6b-4d06-95d5-93553e494b2c"
-					(reference "J22")
-					(unit 1)
-				)
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/e6612f6f-e131-40dc-9b50-f62250179b84"
 					(reference "J5")
 					(unit 1)
@@ -2851,10 +2685,6 @@
 		)
 		(instances
 			(project "charging-circuit"
-				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/9dddee0f-db6b-4d06-95d5-93553e494b2c"
-					(reference "C903")
-					(unit 1)
-				)
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/e6612f6f-e131-40dc-9b50-f62250179b84"
 					(reference "C64")
 					(unit 1)
@@ -2925,10 +2755,6 @@
 		)
 		(instances
 			(project "charging-circuit"
-				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/9dddee0f-db6b-4d06-95d5-93553e494b2c"
-					(reference "C900")
-					(unit 1)
-				)
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/e6612f6f-e131-40dc-9b50-f62250179b84"
 					(reference "C60")
 					(unit 1)
@@ -2994,10 +2820,6 @@
 		)
 		(instances
 			(project "charging-circuit"
-				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/9dddee0f-db6b-4d06-95d5-93553e494b2c"
-					(reference "J21")
-					(unit 1)
-				)
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/e6612f6f-e131-40dc-9b50-f62250179b84"
 					(reference "J4")
 					(unit 1)
