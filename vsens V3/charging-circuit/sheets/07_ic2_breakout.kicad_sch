@@ -2111,7 +2111,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9eb6c6fa-7155-43b3-881a-9df235ac897d")
-		(property "Reference" "U5"
+		(property "Reference" "U4"
 			(at 115.57 60.96 0)
 			(effects
 				(font
@@ -2241,7 +2241,7 @@
 		(instances
 			(project "charging-circuit"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/18b9eebe-215b-4696-a0de-5832208702d9"
-					(reference "U5")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -2263,7 +2263,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5b4c2cd-8f7b-4aeb-86c7-134ef21674d0")
-		(property "Reference" "U7"
+		(property "Reference" "U3"
 			(at 77.47 66.04 0)
 			(effects
 				(font
@@ -2378,7 +2378,7 @@
 		(instances
 			(project "charging-circuit"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/18b9eebe-215b-4696-a0de-5832208702d9"
-					(reference "U7")
+					(reference "U3")
 					(unit 1)
 				)
 			)

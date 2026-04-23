@@ -1588,7 +1588,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "480ffdc7-8abc-4976-87b0-b0c0d2955727")
-		(property "Reference" "C17"
+		(property "Reference" "C37"
 			(at 121.666 89.662 90)
 			(effects
 				(font
@@ -1765,7 +1765,7 @@
 		(instances
 			(project "charging-circuit"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cebc8927-3eb9-4228-bd64-eb01f991daf3"
-					(reference "C17")
+					(reference "C37")
 					(unit 1)
 				)
 			)
@@ -1786,7 +1786,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "76543f8b-5a9b-4b6b-a5aa-df6cd1b4837b")
-		(property "Reference" "C19"
+		(property "Reference" "C38"
 			(at 122.428 86.106 90)
 			(effects
 				(font
@@ -1963,7 +1963,7 @@
 		(instances
 			(project "charging-circuit"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cebc8927-3eb9-4228-bd64-eb01f991daf3"
-					(reference "C19")
+					(reference "C38")
 					(unit 1)
 				)
 			)
@@ -1985,7 +1985,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "845e91c3-a75a-451e-8c80-a871d86fff99")
-		(property "Reference" "H11"
+		(property "Reference" "H7"
 			(at 139.7 63.5 0)
 			(effects
 				(font
@@ -2055,7 +2055,7 @@
 		(instances
 			(project "charging-circuit"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cebc8927-3eb9-4228-bd64-eb01f991daf3"
-					(reference "H11")
+					(reference "H7")
 					(unit 1)
 				)
 			)
@@ -2076,7 +2076,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "88213ded-9839-4224-94e4-f8a0ccefb1e0")
-		(property "Reference" "C20"
+		(property "Reference" "C34"
 			(at 76.708 87.376 90)
 			(effects
 				(font
@@ -2253,7 +2253,7 @@
 		(instances
 			(project "charging-circuit"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cebc8927-3eb9-4228-bd64-eb01f991daf3"
-					(reference "C20")
+					(reference "C34")
 					(unit 1)
 				)
 			)
@@ -2274,7 +2274,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "96d823a9-e38c-4b64-9a4e-f9073ec3575e")
-		(property "Reference" "C18"
+		(property "Reference" "C35"
 			(at 71.374 95.758 90)
 			(effects
 				(font
@@ -2451,7 +2451,7 @@
 		(instances
 			(project "charging-circuit"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cebc8927-3eb9-4228-bd64-eb01f991daf3"
-					(reference "C18")
+					(reference "C35")
 					(unit 1)
 				)
 			)
@@ -2473,7 +2473,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "99a71b64-d7b8-4e16-854b-19691fb692e8")
-		(property "Reference" "U8"
+		(property "Reference" "U12"
 			(at 96.52 59.69 0)
 			(effects
 				(font
@@ -2576,7 +2576,7 @@
 		(instances
 			(project "charging-circuit"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cebc8927-3eb9-4228-bd64-eb01f991daf3"
-					(reference "U8")
+					(reference "U12")
 					(unit 1)
 				)
 			)
@@ -2597,7 +2597,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a3c63222-375f-4031-a6d5-409a352cb421")
-		(property "Reference" "C21"
+		(property "Reference" "C36"
 			(at 81.788 110.236 90)
 			(effects
 				(font
@@ -2774,7 +2774,7 @@
 		(instances
 			(project "charging-circuit"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cebc8927-3eb9-4228-bd64-eb01f991daf3"
-					(reference "C21")
+					(reference "C36")
 					(unit 1)
 				)
 			)
@@ -2796,7 +2796,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "be13e91d-8e77-41b7-952d-727336ccc91d")
-		(property "Reference" "P1"
+		(property "Reference" "P3"
 			(at 135.89 105.41 0)
 			(effects
 				(font
@@ -2863,7 +2863,7 @@
 		(instances
 			(project "charging-circuit"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cebc8927-3eb9-4228-bd64-eb01f991daf3"
-					(reference "P1")
+					(reference "P3")
 					(unit 1)
 				)
 			)
