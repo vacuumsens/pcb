@@ -2954,7 +2954,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://lcsc.com/product-detail/C1329596.html"
 			(at 156.21 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -2965,7 +2965,18 @@
 				)
 			)
 		)
-		(property "Description" "Inductor"
+		(property "Description" "47uH 2.2A 85mΩ SMD Fixed Inductor, 12.7x12.7mm"
+			(at 156.21 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1329596"
 			(at 156.21 93.98 0)
 			(hide yes)
 			(show_name no)
