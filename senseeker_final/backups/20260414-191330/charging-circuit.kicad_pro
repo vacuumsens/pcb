@@ -616,6 +616,18 @@
       "Root"
     ],
     [
+      "f47ce17a-bd34-40a6-9fc8-6e8969ff10cc",
+      "USBC-PD"
+    ],
+    [
+      "1cdad32b-da08-469d-bcec-61a095378c47",
+      "CHARGE1"
+    ],
+    [
+      "a1887c91-7879-4c06-808e-b1dac328dc40",
+      "USB+BAT"
+    ],
+    [
       "46234f0e-61f2-45bf-9df2-e52d6b9d2e9e",
       "SLEEPMOSFET"
     ],
@@ -624,8 +636,36 @@
       "FUELGAUGE"
     ],
     [
-      "e6612f6f-e131-40dc-9b50-f62250179b84",
-      "LM2596 5V Buck"
+      "597d89a7-745a-4d69-ac8e-8c676997c7ec",
+      "V1 IC"
+    ],
+    [
+      "18b9eebe-215b-4696-a0de-5832208702d9",
+      "IC2 breakout"
+    ],
+    [
+      "ee8485ed-d45e-4f6a-8840-30a1dc736938",
+      "12VLDO"
+    ],
+    [
+      "5f952912-5a9d-401f-96a9-cd68a5ccd13d",
+      "5VLDO"
+    ],
+    [
+      "8630c231-6ef0-4238-aca8-49e5c9c6954b",
+      "3.3VLDO"
+    ],
+    [
+      "07a6b8a4-da69-424e-a9b1-d867fdd85117",
+      "12BUCK"
+    ],
+    [
+      "8385f483-277a-4779-9645-659df1f13e8f",
+      "5BUCK"
+    ],
+    [
+      "e6da0a18-c557-4b69-82a7-c228bcc0d3f4",
+      "3.3BUCK"
     ],
     [
       "d817ed9f-d5ed-4b76-b785-ec99fd1fec7f",
@@ -642,10 +682,6 @@
     [
       "cebc8927-3eb9-4228-bd64-eb01f991daf3",
       "DSUB+RS232"
-    ],
-    [
-      "9dddee0f-db6b-4d06-95d5-93553e494b2c",
-      "LM2596 BUCK"
     ]
   ],
   "text_variables": {}
