@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20250114)
+	(version 20260306)
 	(generator "eeschema")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(uuid "529bc8a5-ffae-43ac-972d-caccc3afab85")
 	(paper "A4")
 	(lib_symbols)
@@ -17,11 +17,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "46234f0e-61f2-45bf-9df2-e52d6b9d2e9e")
 		(property "Sheetname" "SLEEPMOSFET"
 			(at 4.54 80.24 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31,6 +33,8 @@
 		)
 		(property "Sheetfile" "sheets/04_sleepmosfet.kicad_sch"
 			(at 4.54 98.74 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -58,11 +62,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "8c3d0b7d-92b0-403f-802a-8a5a7d9fa34c")
 		(property "Sheetname" "FUELGAUGE"
 			(at 4.54 115.24 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72,6 +78,8 @@
 		)
 		(property "Sheetfile" "sheets/05_fuelgauge.kicad_sch"
 			(at 4.54 133.74 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -99,11 +107,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "9dddee0f-db6b-4d06-95d5-93553e494b2c")
 		(property "Sheetname" "LM2596 BUCK"
 			(at 284.54 115.24 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -113,6 +123,8 @@
 		)
 		(property "Sheetfile" "sheets/18_lm2596_adj_buck.kicad_sch"
 			(at 284.54 133.74 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -140,11 +152,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "c2b703a4-2e88-4383-8b77-8614951a81a3")
 		(property "Sheetname" "TEMP+HEATER"
 			(at 284.54 45.24 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -154,6 +168,8 @@
 		)
 		(property "Sheetfile" "sheets/16_temp_heater.kicad_sch"
 			(at 284.54 63.74 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -181,11 +197,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "cebc8927-3eb9-4228-bd64-eb01f991daf3")
 		(property "Sheetname" "DSUB+RS232"
 			(at 284.54 80.24 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -195,6 +213,8 @@
 		)
 		(property "Sheetfile" "sheets/17_dsub_rs232.kicad_sch"
 			(at 284.54 98.74 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -222,11 +242,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "cff05046-5666-496e-bdc0-c674fdf4f5c2")
 		(property "Sheetname" "3S Balancer"
 			(at 284.54 10.24 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -236,6 +258,8 @@
 		)
 		(property "Sheetfile" "sheets/15_3s_balancer.kicad_sch"
 			(at 284.54 28.74 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -263,11 +287,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "d817ed9f-d5ed-4b76-b785-ec99fd1fec7f")
 		(property "Sheetname" "3S IC"
 			(at 284.54 -24.76 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -277,6 +303,8 @@
 		)
 		(property "Sheetfile" "sheets/14_3s_ic.kicad_sch"
 			(at 284.54 -6.26 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -304,11 +332,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "e6612f6f-e131-40dc-9b50-f62250179b84")
 		(property "Sheetname" "LM2596 5V Buck"
 			(at 131.54 124.69 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -318,6 +348,8 @@
 		)
 		(property "Sheetfile" "sheets/18_lm2596_5V_buck.kicad_sch"
 			(at 131.54 143.19 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
