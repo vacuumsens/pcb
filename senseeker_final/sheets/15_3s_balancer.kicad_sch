@@ -6252,7 +6252,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "14c7ae23-e5dd-4f16-bc4a-113abcb4da8b")
-		(property "Reference" "R32"
+		(property "Reference" "R20"
 			(at 130.81 87.6299 0)
 			(effects
 				(font
@@ -6459,7 +6459,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cff05046-5666-496e-bdc0-c674fdf4f5c2"
-					(reference "R32")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -6480,7 +6480,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1572412d-778a-4733-ab39-f1a2908ece9b")
-		(property "Reference" "J10"
+		(property "Reference" "J1"
 			(at 52.07 49.53 90)
 			(effects
 				(font
@@ -6543,7 +6543,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cff05046-5666-496e-bdc0-c674fdf4f5c2"
-					(reference "J10")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -6565,7 +6565,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1e9bfc9e-862d-423f-b191-ba420a4b2cc9")
-		(property "Reference" "C71"
+		(property "Reference" "C27"
 			(at 179.07 111.7599 0)
 			(effects
 				(font
@@ -6745,7 +6745,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cff05046-5666-496e-bdc0-c674fdf4f5c2"
-					(reference "C71")
+					(reference "C27")
 					(unit 1)
 				)
 			)
@@ -7162,7 +7162,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2e524e0e-ff27-4a3a-81dc-ea75d8c2c6b4")
-		(property "Reference" "C30"
+		(property "Reference" "C1"
 			(at 72.39 123.19 90)
 			(effects
 				(font
@@ -7339,7 +7339,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cff05046-5666-496e-bdc0-c674fdf4f5c2"
-					(reference "C30")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -7361,7 +7361,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f766219-53ad-4a6c-b073-275a4ee4d00a")
-		(property "Reference" "R16"
+		(property "Reference" "R6"
 			(at 83.82 106.68 90)
 			(effects
 				(font
@@ -7567,7 +7567,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cff05046-5666-496e-bdc0-c674fdf4f5c2"
-					(reference "R16")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -7589,7 +7589,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30aa082d-2b0c-4926-8eed-7d6875f765e9")
-		(property "Reference" "R15"
+		(property "Reference" "R3"
 			(at 73.66 134.62 90)
 			(effects
 				(font
@@ -7795,7 +7795,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cff05046-5666-496e-bdc0-c674fdf4f5c2"
-					(reference "R15")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -7817,7 +7817,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37e266eb-0157-4442-a4e7-ed2d2205ebb5")
-		(property "Reference" "Rc1"
+		(property "Reference" "Rc3"
 			(at 187.96 114.3 90)
 			(effects
 				(font
@@ -8023,7 +8023,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cff05046-5666-496e-bdc0-c674fdf4f5c2"
-					(reference "Rc1")
+					(reference "Rc3")
 					(unit 1)
 				)
 			)
@@ -8445,7 +8445,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "47b9b026-f5c3-49b7-8643-cc06648a5603")
-		(property "Reference" "C23"
+		(property "Reference" "C17"
 			(at 137.16 100.3299 0)
 			(effects
 				(font
@@ -8625,7 +8625,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cff05046-5666-496e-bdc0-c674fdf4f5c2"
-					(reference "C23")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -8876,7 +8876,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5a4114ba-6bcd-4a22-8a6d-1428353aff9b")
-		(property "Reference" "D1"
+		(property "Reference" "D3"
 			(at 73.66 142.24 0)
 			(effects
 				(font
@@ -8946,7 +8946,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cff05046-5666-496e-bdc0-c674fdf4f5c2"
-					(reference "D1")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -9195,7 +9195,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5e85e9a7-4068-4347-af26-3f4e9308b6ce")
-		(property "Reference" "C70"
+		(property "Reference" "C26"
 			(at 179.07 104.1399 0)
 			(effects
 				(font
@@ -9375,7 +9375,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cff05046-5666-496e-bdc0-c674fdf4f5c2"
-					(reference "C70")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -9626,7 +9626,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "66e5a48e-440d-402d-b9f5-696d3c24f039")
-		(property "Reference" "Cc0"
+		(property "Reference" "Cc2"
 			(at 177.8 132.0799 0)
 			(effects
 				(font
@@ -9806,7 +9806,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cff05046-5666-496e-bdc0-c674fdf4f5c2"
-					(reference "Cc0")
+					(reference "Cc2")
 					(unit 1)
 				)
 			)
@@ -9910,7 +9910,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c155b7e-4873-4fa5-8b36-c75d7e44c9b3")
-		(property "Reference" "R11"
+		(property "Reference" "R1"
 			(at 50.8 152.3999 0)
 			(effects
 				(font
@@ -10117,7 +10117,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cff05046-5666-496e-bdc0-c674fdf4f5c2"
-					(reference "R11")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -10139,7 +10139,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "82502582-2cfb-4fc3-b755-baea88b7948f")
-		(property "Reference" "C31"
+		(property "Reference" "C9"
 			(at 109.22 81.2799 0)
 			(effects
 				(font
@@ -10319,7 +10319,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cff05046-5666-496e-bdc0-c674fdf4f5c2"
-					(reference "C31")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -10341,7 +10341,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "92a22a39-93f6-42d7-92da-49261d270875")
-		(property "Reference" "Rc3"
+		(property "Reference" "Rc1"
 			(at 187.96 99.06 90)
 			(effects
 				(font
@@ -10547,7 +10547,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cff05046-5666-496e-bdc0-c674fdf4f5c2"
-					(reference "Rc3")
+					(reference "Rc1")
 					(unit 1)
 				)
 			)
@@ -10569,7 +10569,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "92fcc3c7-ecb6-4eb7-a873-4e68c63d14e8")
-		(property "Reference" "R26"
+		(property "Reference" "R7"
 			(at 87.63 152.3999 0)
 			(effects
 				(font
@@ -10776,7 +10776,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cff05046-5666-496e-bdc0-c674fdf4f5c2"
-					(reference "R26")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -10798,7 +10798,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "966cd260-1afc-4a70-86dd-106c8dd9810b")
-		(property "Reference" "C8"
+		(property "Reference" "C15"
 			(at 125.73 100.3299 0)
 			(effects
 				(font
@@ -10978,7 +10978,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cff05046-5666-496e-bdc0-c674fdf4f5c2"
-					(reference "C8")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -10999,7 +10999,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a2ef2313-af19-4486-8182-b668c4dbbcc5")
-		(property "Reference" "U15"
+		(property "Reference" "U4"
 			(at 106.68 91.694 0)
 			(effects
 				(font
@@ -11107,7 +11107,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cff05046-5666-496e-bdc0-c674fdf4f5c2"
-					(reference "U15")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -11129,7 +11129,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c34faca7-1418-4bdd-8649-a65509c74b6a")
-		(property "Reference" "J11"
+		(property "Reference" "J6"
 			(at 67.31 50.8 90)
 			(effects
 				(font
@@ -11196,7 +11196,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cff05046-5666-496e-bdc0-c674fdf4f5c2"
-					(reference "J11")
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -11218,7 +11218,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c3c64e99-9404-4b99-ab12-c2bf96676a02")
-		(property "Reference" "Q5"
+		(property "Reference" "Q1"
 			(at 78.74 162.56 90)
 			(effects
 				(font
@@ -11300,7 +11300,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cff05046-5666-496e-bdc0-c674fdf4f5c2"
-					(reference "Q5")
+					(reference "Q1")
 					(unit 2)
 				)
 			)
@@ -11322,7 +11322,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c888ca69-d6b8-4ddc-9759-a9a57b53d4fc")
-		(property "Reference" "Rc0"
+		(property "Reference" "Rc4"
 			(at 187.96 121.92 90)
 			(effects
 				(font
@@ -11528,7 +11528,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cff05046-5666-496e-bdc0-c674fdf4f5c2"
-					(reference "Rc0")
+					(reference "Rc4")
 					(unit 1)
 				)
 			)
@@ -11550,7 +11550,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d31de295-e51e-4b3c-aaa2-c8cb473e70f0")
-		(property "Reference" "H9"
+		(property "Reference" "H3"
 			(at 224.79 113.0299 0)
 			(effects
 				(font
@@ -11625,7 +11625,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cff05046-5666-496e-bdc0-c674fdf4f5c2"
-					(reference "H9")
+					(reference "H3")
 					(unit 1)
 				)
 			)
@@ -11647,7 +11647,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "de36c68f-5ba4-4d85-aef4-0e1362765de6")
-		(property "Reference" "Q5"
+		(property "Reference" "Q1"
 			(at 54.61 162.56 90)
 			(effects
 				(font
@@ -11729,7 +11729,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cff05046-5666-496e-bdc0-c674fdf4f5c2"
-					(reference "Q5")
+					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -11752,7 +11752,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f8a8f1b8-ecc9-44c5-806c-9effe69c0fed")
-		(property "Reference" "Q4"
+		(property "Reference" "Q2"
 			(at 62.23 132.08 90)
 			(effects
 				(font
@@ -11819,7 +11819,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cff05046-5666-496e-bdc0-c674fdf4f5c2"
-					(reference "Q4")
+					(reference "Q2")
 					(unit 1)
 				)
 			)
@@ -11840,7 +11840,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fe780675-9b68-4daa-90c8-6a136e675a8c")
-		(property "Reference" "U14"
+		(property "Reference" "U1"
 			(at 85.09 113.03 0)
 			(effects
 				(font
@@ -11901,7 +11901,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/cff05046-5666-496e-bdc0-c674fdf4f5c2"
-					(reference "U14")
+					(reference "U1")
 					(unit 1)
 				)
 			)

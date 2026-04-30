@@ -660,7 +660,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "90aca6fb-7058-424f-9d82-a52103f444bb")
-		(property "Reference" "U1"
+		(property "Reference" "U9"
 			(at 158.75 71.12 0)
 			(effects
 				(font
@@ -742,7 +742,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/8c3d0b7d-92b0-403f-802a-8a5a7d9fa34c"
-					(reference "U1")
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -764,7 +764,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e57be6c0-980e-45a7-b41d-412654068508")
-		(property "Reference" "P2"
+		(property "Reference" "P3"
 			(at 111.76 73.66 0)
 			(effects
 				(font
@@ -831,7 +831,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/8c3d0b7d-92b0-403f-802a-8a5a7d9fa34c"
-					(reference "P2")
+					(reference "P3")
 					(unit 1)
 				)
 			)

@@ -293,8 +293,8 @@
 		)
 	)
 	(sheet
-		(at 281.94 143.51)
-		(size 110 22)
+		(at 129.54 123.19)
+		(size 48.26 22)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -308,7 +308,7 @@
 		)
 		(uuid "e6612f6f-e131-40dc-9b50-f62250179b84")
 		(property "Sheetname" "LM2596 5V Buck"
-			(at 283.94 145.01 0)
+			(at 131.54 124.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -317,12 +317,42 @@
 			)
 		)
 		(property "Sheetfile" "sheets/18_lm2596_5V_buck.kicad_sch"
-			(at 283.94 163.51 0)
+			(at 131.54 143.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "~{ON}{slash}OFF" input
+			(at 129.54 134.62 180)
+			(uuid "32b299a0-4722-462a-bea8-e1dc35c94ec6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Vin (+)" input
+			(at 129.54 127 180)
+			(uuid "94d14c88-f224-477e-b566-808924030c68")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Vout (+)" input
+			(at 177.8 128.27 0)
+			(uuid "b436cb48-5e15-427b-a4de-086657ec6396")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
