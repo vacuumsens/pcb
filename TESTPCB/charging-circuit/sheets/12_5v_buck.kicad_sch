@@ -2493,8 +2493,7 @@
 		)
 		(uuid "ec3dbc7a-5ab2-4f5a-9a8a-0df474d292e3")
 	)
-	(global_label "5BGND"
-		(shape bidirectional)
+	(label "5BGND"
 		(at 187.96 104.14 0)
 		(effects
 			(font
@@ -2503,18 +2502,8 @@
 			(justify left bottom)
 		)
 		(uuid "021e316d-37c6-4685-a1bb-7f7a30da0718")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 187.96 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 	)
-	(global_label "5BVSYS"
-		(shape bidirectional)
+	(label "5BVSYS"
 		(at 99.06 77.47 0)
 		(effects
 			(font
@@ -2523,18 +2512,8 @@
 			(justify left bottom)
 		)
 		(uuid "07840a2b-f781-4f0c-8c4b-7eacc785e1b2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 99.06 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 	)
-	(global_label "5BOOT"
-		(shape bidirectional)
+	(label "5BOOT"
 		(at 161.29 78.74 90)
 		(effects
 			(font
@@ -2543,18 +2522,8 @@
 			(justify left bottom)
 		)
 		(uuid "1b5da4d7-c6e9-4097-b4a2-1ddba8001c3d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 161.29 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 	)
-	(global_label "5BOOT"
-		(shape bidirectional)
+	(label "5BOOT"
 		(at 127 81.28 180)
 		(effects
 			(font
@@ -2563,18 +2532,8 @@
 			(justify right bottom)
 		)
 		(uuid "3ee84d4e-31c5-4317-965f-d9f168d96a23")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 127 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 	)
-	(global_label "5BVOUT"
-		(shape bidirectional)
+	(label "5BVOUT"
 		(at 189.23 78.74 0)
 		(effects
 			(font
@@ -2583,18 +2542,8 @@
 			(justify left bottom)
 		)
 		(uuid "44ba5931-0781-4a8b-b260-f200781aa400")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 189.23 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 	)
-	(global_label "5BVSYS"
-		(shape bidirectional)
+	(label "5BVSYS"
 		(at 113.03 83.82 180)
 		(effects
 			(font
@@ -2603,18 +2552,8 @@
 			(justify right bottom)
 		)
 		(uuid "609f4dd0-46ed-4b84-b0cc-9bb478509daa")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 113.03 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 	)
-	(global_label "5BGND"
-		(shape bidirectional)
+	(label "5BGND"
 		(at 99.06 82.55 0)
 		(effects
 			(font
@@ -2623,18 +2562,8 @@
 			(justify left bottom)
 		)
 		(uuid "6921bac9-fdec-4a61-b898-9bcb59d11dee")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 99.06 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 	)
-	(global_label "5BVOUT"
-		(shape bidirectional)
+	(label "5BVOUT"
 		(at 99.06 80.01 0)
 		(effects
 			(font
@@ -2643,18 +2572,8 @@
 			(justify left bottom)
 		)
 		(uuid "845cc265-cc0a-48ed-8050-d8cb38cd27bf")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 99.06 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 	)
-	(global_label "5BGND"
-		(shape bidirectional)
+	(label "5BGND"
 		(at 172.72 87.63 270)
 		(effects
 			(font
@@ -2663,18 +2582,8 @@
 			(justify right bottom)
 		)
 		(uuid "99b4e0fa-64ed-4d7a-91d8-86e4d4eafe15")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 172.72 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 	)
-	(global_label "5BGND"
-		(shape bidirectional)
+	(label "5BGND"
 		(at 125.73 78.74 180)
 		(effects
 			(font
@@ -2683,18 +2592,8 @@
 			(justify right bottom)
 		)
 		(uuid "a76c561d-c35a-49d8-8e19-88034cedd39c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 125.73 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 	)
-	(global_label "5FB"
-		(shape bidirectional)
+	(label "5FB"
 		(at 152.4 83.82 0)
 		(effects
 			(font
@@ -2703,18 +2602,8 @@
 			(justify left bottom)
 		)
 		(uuid "cb476c1a-3548-44c6-91b7-2408feac80f1")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 152.4 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 	)
-	(global_label "5BGND"
-		(shape bidirectional)
+	(label "5BGND"
 		(at 124.46 104.14 0)
 		(effects
 			(font
@@ -2723,18 +2612,8 @@
 			(justify left bottom)
 		)
 		(uuid "cc231d4c-0026-4f52-960b-a3ca4c709875")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 124.46 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 	)
-	(global_label "5BGND"
-		(shape bidirectional)
+	(label "5BGND"
 		(at 113.03 91.44 270)
 		(effects
 			(font
@@ -2743,18 +2622,8 @@
 			(justify right bottom)
 		)
 		(uuid "f1e83a4e-0e02-4097-b917-888030e2e228")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 113.03 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 	)
-	(global_label "5FB"
-		(shape bidirectional)
+	(label "5FB"
 		(at 184.15 93.98 270)
 		(effects
 			(font
@@ -2763,15 +2632,6 @@
 			(justify right bottom)
 		)
 		(uuid "f9190abf-0723-481a-bea0-556e4970b440")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 184.15 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 	)
 	(symbol
 		(lib_id "PCM_JLCPCB-Capacitors:0603,100nF")

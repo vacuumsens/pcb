@@ -1219,7 +1219,8 @@
 		)
 		(uuid "fc2dd5da-c53f-4544-b9be-c0b12269358b")
 	)
-	(label "DSUBGND"
+	(global_label "DSUBGND"
+		(shape bidirectional)
 		(at 127 92.71 0)
 		(effects
 			(font
@@ -1228,8 +1229,18 @@
 			(justify left bottom)
 		)
 		(uuid "080a2afa-4ca3-49fd-bdab-63ab14d0fc59")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 127 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "UART_RX_13V"
+	(global_label "UART_RX_13V"
+		(shape bidirectional)
 		(at 128.27 115.57 180)
 		(effects
 			(font
@@ -1238,8 +1249,18 @@
 			(justify right bottom)
 		)
 		(uuid "170689ae-5fca-4974-8396-01fbaca89013")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 128.27 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "DSUBGND"
+	(global_label "DSUBGND"
+		(shape bidirectional)
 		(at 146.05 77.47 0)
 		(effects
 			(font
@@ -1248,8 +1269,18 @@
 			(justify left bottom)
 		)
 		(uuid "43379465-c4b4-4f90-b8a2-3c4a613937e9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 146.05 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "TX"
+	(global_label "TX"
+		(shape bidirectional)
 		(at 146.05 69.85 0)
 		(effects
 			(font
@@ -1258,8 +1289,18 @@
 			(justify left bottom)
 		)
 		(uuid "4896304f-d032-461a-bf94-662188a64d4e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 146.05 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "DSUBGND"
+	(global_label "DSUBGND"
+		(shape bidirectional)
 		(at 143.51 113.03 0)
 		(effects
 			(font
@@ -1268,8 +1309,18 @@
 			(justify left bottom)
 		)
 		(uuid "4c277c23-52ad-46da-92ab-1645b7d2629c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 143.51 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "DSUB3.3V"
+	(global_label "DSUB3.3V"
+		(shape bidirectional)
 		(at 146.05 80.01 0)
 		(effects
 			(font
@@ -1278,8 +1329,18 @@
 			(justify left bottom)
 		)
 		(uuid "50c01eed-d2c0-4a3d-beae-a0d79d26444f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 146.05 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "RX"
+	(global_label "RX"
+		(shape bidirectional)
 		(at 81.28 69.85 180)
 		(effects
 			(font
@@ -1288,8 +1349,18 @@
 			(justify right bottom)
 		)
 		(uuid "5716d845-c7ed-4f08-90d6-3f8253f09e59")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 81.28 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "UART_TX_13V"
+	(global_label "UART_TX_13V"
+		(shape bidirectional)
 		(at 127 67.31 180)
 		(effects
 			(font
@@ -1298,8 +1369,18 @@
 			(justify right bottom)
 		)
 		(uuid "67cbe3ae-6cf3-43b7-aa65-a1f55e2ae317")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 127 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "TX"
+	(global_label "TX"
+		(shape bidirectional)
 		(at 81.28 67.31 180)
 		(effects
 			(font
@@ -1308,8 +1389,18 @@
 			(justify right bottom)
 		)
 		(uuid "68b2d8bb-3634-4e8f-b037-c54ec3853420")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 81.28 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "DSUBGND"
+	(global_label "DSUBGND"
+		(shape bidirectional)
 		(at 64.77 92.71 0)
 		(effects
 			(font
@@ -1318,8 +1409,18 @@
 			(justify left bottom)
 		)
 		(uuid "6ec7a4b2-363b-4af1-a2ad-5d562d1c551b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 64.77 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "DSUB12V"
+	(global_label "DSUB12V"
+		(shape bidirectional)
 		(at 143.51 115.57 0)
 		(effects
 			(font
@@ -1328,8 +1429,18 @@
 			(justify left bottom)
 		)
 		(uuid "7191400b-95e9-44e1-9af1-6bd93405edce")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 143.51 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "UART_TX_13V"
+	(global_label "UART_TX_13V"
+		(shape bidirectional)
 		(at 128.27 113.03 180)
 		(effects
 			(font
@@ -1338,8 +1449,18 @@
 			(justify right bottom)
 		)
 		(uuid "71b8a376-2a14-4b98-9404-975b6f06d561")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 128.27 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "DSUBGND"
+	(global_label "DSUBGND"
+		(shape bidirectional)
 		(at 114.3 97.79 0)
 		(effects
 			(font
@@ -1348,8 +1469,18 @@
 			(justify left bottom)
 		)
 		(uuid "906a1c64-cf48-4cac-abf4-484f41b6ee41")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 114.3 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "DSUB3.3V"
+	(global_label "DSUB3.3V"
+		(shape bidirectional)
 		(at 72.39 100.33 0)
 		(effects
 			(font
@@ -1358,8 +1489,18 @@
 			(justify left bottom)
 		)
 		(uuid "b3a8bbfe-2b49-4a84-8945-ba61447d0775")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 72.39 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "UART_RX_13V"
+	(global_label "UART_RX_13V"
+		(shape bidirectional)
 		(at 127 69.85 180)
 		(effects
 			(font
@@ -1368,8 +1509,18 @@
 			(justify right bottom)
 		)
 		(uuid "b8466e36-7e47-491f-a709-8c68d0e6e690")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 127 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "RX"
+	(global_label "RX"
+		(shape bidirectional)
 		(at 146.05 72.39 0)
 		(effects
 			(font
@@ -1378,8 +1529,18 @@
 			(justify left bottom)
 		)
 		(uuid "b8b10c5e-1792-43d3-8600-4a5d17c2a00f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 146.05 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "DSUBGND"
+	(global_label "DSUBGND"
+		(shape bidirectional)
 		(at 78.74 114.3 0)
 		(effects
 			(font
@@ -1388,8 +1549,18 @@
 			(justify left bottom)
 		)
 		(uuid "bdad8566-bd8a-49e7-b702-04f3d47c0010")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 78.74 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "DSUB12V"
+	(global_label "DSUB12V"
+		(shape bidirectional)
 		(at 146.05 74.93 0)
 		(effects
 			(font
@@ -1398,6 +1569,15 @@
 			(justify left bottom)
 		)
 		(uuid "ff03aea9-1796-4656-abf1-de523f3a6687")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 146.05 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "PCM_JLCPCB-Capacitors:0603,100nF")

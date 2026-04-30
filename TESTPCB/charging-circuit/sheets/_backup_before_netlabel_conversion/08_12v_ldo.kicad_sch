@@ -1386,7 +1386,8 @@
 		)
 		(uuid "f6e0ddf3-5500-492f-b027-054d5e28473c")
 	)
-	(label "12VOUT"
+	(global_label "12VOUT"
+		(shape bidirectional)
 		(at 139.7 83.82 0)
 		(effects
 			(font
@@ -1395,8 +1396,18 @@
 			(justify left bottom)
 		)
 		(uuid "11239df0-a3f1-452b-bfdf-f511f2da611c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 139.7 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "12GND"
+	(global_label "12GND"
+		(shape bidirectional)
 		(at 93.98 93.98 270)
 		(effects
 			(font
@@ -1405,8 +1416,18 @@
 			(justify right bottom)
 		)
 		(uuid "16330658-92ca-49c8-b815-d8dda0e4042d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 93.98 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "12VSYS"
+	(global_label "12VSYS"
+		(shape bidirectional)
 		(at 96.52 66.04 0)
 		(effects
 			(font
@@ -1415,8 +1436,18 @@
 			(justify left bottom)
 		)
 		(uuid "331178d2-17c4-4e52-bf4e-11c10a4706ba")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 96.52 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "12GND"
+	(global_label "12GND"
+		(shape bidirectional)
 		(at 127 115.57 270)
 		(effects
 			(font
@@ -1425,8 +1456,18 @@
 			(justify right bottom)
 		)
 		(uuid "53150e38-8ae6-4ffd-8f7e-32611ef40bb6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 127 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "12GND"
+	(global_label "12GND"
+		(shape bidirectional)
 		(at 110.49 104.14 270)
 		(effects
 			(font
@@ -1435,8 +1476,18 @@
 			(justify right bottom)
 		)
 		(uuid "59018d1d-6294-409a-a4e3-9c4e2baab2dd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 110.49 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "12GND"
+	(global_label "12GND"
+		(shape bidirectional)
 		(at 96.52 71.12 0)
 		(effects
 			(font
@@ -1445,8 +1496,18 @@
 			(justify left bottom)
 		)
 		(uuid "59930d99-51f5-4a18-897d-d4915105e0c6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 96.52 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "12VOUT"
+	(global_label "12VOUT"
+		(shape bidirectional)
 		(at 96.52 68.58 0)
 		(effects
 			(font
@@ -1455,8 +1516,18 @@
 			(justify left bottom)
 		)
 		(uuid "8255df19-0a72-40de-900f-eb485a3e70a7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 96.52 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "12VSYS"
+	(global_label "12VSYS"
+		(shape bidirectional)
 		(at 91.44 83.82 180)
 		(effects
 			(font
@@ -1465,8 +1536,18 @@
 			(justify right bottom)
 		)
 		(uuid "c429f557-18bc-4692-a4ea-3d89efa5276f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 91.44 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "12VSYS"
+	(global_label "12VSYS"
+		(shape bidirectional)
 		(at 97.79 99.06 0)
 		(effects
 			(font
@@ -1475,6 +1556,15 @@
 			(justify left bottom)
 		)
 		(uuid "ea705b28-9882-46e2-88ba-3e8d3a42e6f8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.79 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "easyeda2kicad:CL21A226MAQNNNE")

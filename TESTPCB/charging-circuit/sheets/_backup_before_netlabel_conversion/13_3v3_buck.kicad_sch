@@ -2778,7 +2778,8 @@
 		)
 		(uuid "fe842117-613f-448d-841f-48ba6d4c4836")
 	)
-	(label "3V3FB"
+	(global_label "3V3FB"
+		(shape bidirectional)
 		(at 165.1 92.71 270)
 		(effects
 			(font
@@ -2787,8 +2788,18 @@
 			(justify right bottom)
 		)
 		(uuid "00ef183f-8b2a-4be9-8bc4-f7c3de6026ac")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 165.1 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "3V3BGND"
+	(global_label "3V3BGND"
+		(shape bidirectional)
 		(at 168.91 100.33 0)
 		(effects
 			(font
@@ -2797,8 +2808,18 @@
 			(justify left bottom)
 		)
 		(uuid "257a455f-5685-45eb-974a-8696509cb4ce")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 168.91 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "3V3BVSYS"
+	(global_label "3V3BVSYS"
+		(shape bidirectional)
 		(at 80.01 76.2 0)
 		(effects
 			(font
@@ -2807,8 +2828,18 @@
 			(justify left bottom)
 		)
 		(uuid "2a23cb7b-bda7-4928-aa48-c1c2ffe87883")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 80.01 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "3V3BVOUT"
+	(global_label "3V3BVOUT"
+		(shape bidirectional)
 		(at 80.01 78.74 0)
 		(effects
 			(font
@@ -2817,8 +2848,18 @@
 			(justify left bottom)
 		)
 		(uuid "2c607692-be0a-4ae4-9282-34013bbd97c2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 80.01 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "3V3BOOT"
+	(global_label "3V3BOOT"
+		(shape bidirectional)
 		(at 107.95 80.01 180)
 		(effects
 			(font
@@ -2827,8 +2868,18 @@
 			(justify right bottom)
 		)
 		(uuid "3ddf3186-41f3-47cd-9a25-2a338a1671f5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 107.95 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "3V3BOOT"
+	(global_label "3V3BOOT"
+		(shape bidirectional)
 		(at 142.24 77.47 90)
 		(effects
 			(font
@@ -2837,8 +2888,18 @@
 			(justify left bottom)
 		)
 		(uuid "402baedd-458f-4e4b-b213-fc701b20382b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 142.24 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "3V3BGND"
+	(global_label "3V3BGND"
+		(shape bidirectional)
 		(at 106.68 77.47 180)
 		(effects
 			(font
@@ -2847,8 +2908,18 @@
 			(justify right bottom)
 		)
 		(uuid "4cdf685b-8ded-4711-91ce-e28f2132dbc2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 106.68 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "3V3BGND"
+	(global_label "3V3BGND"
+		(shape bidirectional)
 		(at 153.67 86.36 270)
 		(effects
 			(font
@@ -2857,8 +2928,18 @@
 			(justify right bottom)
 		)
 		(uuid "65a80fc8-f743-457b-aa7b-145e328f793d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 153.67 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "3V3FB"
+	(global_label "3V3FB"
+		(shape bidirectional)
 		(at 133.35 82.55 0)
 		(effects
 			(font
@@ -2867,8 +2948,18 @@
 			(justify left bottom)
 		)
 		(uuid "77fbe73e-7329-4a7a-bdc5-5a18a2acb90a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 133.35 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "3V3BGND"
+	(global_label "3V3BGND"
+		(shape bidirectional)
 		(at 105.41 102.87 0)
 		(effects
 			(font
@@ -2877,8 +2968,18 @@
 			(justify left bottom)
 		)
 		(uuid "8a932626-279f-4507-a0e5-22d8769b68c8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 105.41 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "3V3BGND"
+	(global_label "3V3BGND"
+		(shape bidirectional)
 		(at 93.98 90.17 270)
 		(effects
 			(font
@@ -2887,8 +2988,18 @@
 			(justify right bottom)
 		)
 		(uuid "ac5f0ab8-b7bc-4d42-8418-e857e00ce240")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 93.98 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "3V3BGND"
+	(global_label "3V3BGND"
+		(shape bidirectional)
 		(at 80.01 81.28 0)
 		(effects
 			(font
@@ -2897,8 +3008,18 @@
 			(justify left bottom)
 		)
 		(uuid "b80df9f6-4eeb-4841-a4b1-8d983472d95e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 80.01 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "3V3BVSYS"
+	(global_label "3V3BVSYS"
+		(shape bidirectional)
 		(at 93.98 82.55 180)
 		(effects
 			(font
@@ -2907,8 +3028,18 @@
 			(justify right bottom)
 		)
 		(uuid "cf41884e-68a5-4086-a63b-536d235404e0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 93.98 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "3V3BVOUT"
+	(global_label "3V3BVOUT"
+		(shape bidirectional)
 		(at 170.18 77.47 0)
 		(effects
 			(font
@@ -2917,6 +3048,15 @@
 			(justify left bottom)
 		)
 		(uuid "ef736daf-3ec5-46bb-9655-85a59193aada")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 170.18 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "PCM_JLCPCB-Capacitors:0603,100nF")

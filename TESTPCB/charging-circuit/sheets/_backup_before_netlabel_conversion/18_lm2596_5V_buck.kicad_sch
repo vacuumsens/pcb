@@ -1823,16 +1823,6 @@
 		)
 		(uuid "fba38714-d0cd-4a05-85b2-f2267996b06d")
 	)
-	(label "LM2596_5V_VOUT"
-		(at 207.01 93.98 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "58700534-7630-4569-8f22-84bcdf417ac9")
-	)
 	(label "SW"
 		(at 148.59 93.98 0)
 		(effects
@@ -1843,7 +1833,28 @@
 		)
 		(uuid "5ba257ac-90c0-477b-a94b-c408c7785477")
 	)
-	(label "LM2596_5V_VIN"
+	(global_label "LM2596_5V_VOUT"
+		(shape bidirectional)
+		(at 207.01 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "58700534-7630-4569-8f22-84bcdf417ac9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 207.01 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LM2596_5V_VIN"
+		(shape bidirectional)
 		(at 81.28 88.9 0)
 		(effects
 			(font
@@ -1852,6 +1863,15 @@
 			(justify left bottom)
 		)
 		(uuid "5ee64f5d-f2ef-42c0-b851-43abbf95ea3b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 81.28 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:L")

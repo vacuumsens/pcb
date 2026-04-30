@@ -4328,7 +4328,8 @@
 			)
 		)
 	)
-	(label "PDGND"
+	(global_label "PDGND"
+		(shape bidirectional)
 		(at 81.28 82.55 180)
 		(effects
 			(font
@@ -4337,8 +4338,18 @@
 			(justify right bottom)
 		)
 		(uuid "01e2c6ea-79f3-45a2-9a5c-30f57a72af4f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 81.28 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "VSET"
+	(global_label "VSET"
+		(shape bidirectional)
 		(at 128.27 86.36 0)
 		(effects
 			(font
@@ -4347,8 +4358,18 @@
 			(justify left bottom)
 		)
 		(uuid "038f2064-5034-400d-b102-869537da08eb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 128.27 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "ISET"
+	(global_label "ISET"
+		(shape bidirectional)
 		(at 140.97 86.36 180)
 		(effects
 			(font
@@ -4357,8 +4378,18 @@
 			(justify right bottom)
 		)
 		(uuid "17be6f9d-c476-4b67-9cf5-cc3e3ab85610")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 140.97 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "CC1"
+	(global_label "CC1"
+		(shape bidirectional)
 		(at 64.77 88.9 0)
 		(effects
 			(font
@@ -4367,8 +4398,18 @@
 			(justify left bottom)
 		)
 		(uuid "3c28515f-5761-457f-b6d9-11ec9e28b90e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 64.77 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "PDVOUT"
+	(global_label "PDVOUT"
+		(shape bidirectional)
 		(at 144.78 54.61 90)
 		(effects
 			(font
@@ -4377,8 +4418,18 @@
 			(justify left bottom)
 		)
 		(uuid "545b932e-2475-42bf-adbd-1ac55eb23f3d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 144.78 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "VSET"
+	(global_label "VSET"
+		(shape bidirectional)
 		(at 140.97 83.82 180)
 		(effects
 			(font
@@ -4387,8 +4438,18 @@
 			(justify right bottom)
 		)
 		(uuid "5c378b0c-6efa-463b-8477-282cb7b4917a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 140.97 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "CC2"
+	(global_label "CC2"
+		(shape bidirectional)
 		(at 64.77 91.44 0)
 		(effects
 			(font
@@ -4397,8 +4458,18 @@
 			(justify left bottom)
 		)
 		(uuid "5c4b4149-a190-4887-aab3-e638a27c2cbf")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 64.77 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "ISET"
+	(global_label "ISET"
+		(shape bidirectional)
 		(at 128.27 83.82 0)
 		(effects
 			(font
@@ -4407,8 +4478,18 @@
 			(justify left bottom)
 		)
 		(uuid "81259c3c-7010-47df-a525-50aacea6effb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 128.27 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "PDGND"
+	(global_label "PDGND"
+		(shape bidirectional)
 		(at 71.12 74.93 270)
 		(effects
 			(font
@@ -4417,8 +4498,18 @@
 			(justify right bottom)
 		)
 		(uuid "8d503d55-3231-4539-a85d-458b74ecf6e0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 71.12 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "PDGND"
+	(global_label "PDGND"
+		(shape bidirectional)
 		(at 128.27 109.22 180)
 		(effects
 			(font
@@ -4427,8 +4518,18 @@
 			(justify right bottom)
 		)
 		(uuid "9f75e261-410d-470e-84e4-70e7c39b5e6b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 128.27 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "PDGND"
+	(global_label "PDGND"
+		(shape bidirectional)
 		(at 41.91 101.6 270)
 		(effects
 			(font
@@ -4437,8 +4538,18 @@
 			(justify right bottom)
 		)
 		(uuid "c4f12962-c328-4284-8ecd-f2f3ca518898")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 41.91 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
-	(label "PDGND"
+	(global_label "PDGND"
+		(shape bidirectional)
 		(at 49.53 110.49 270)
 		(effects
 			(font
@@ -4447,6 +4558,15 @@
 			(justify right bottom)
 		)
 		(uuid "f617842d-aaa3-4456-93e1-e7ea342987fa")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 49.53 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "PCM_JLCPCB-Capacitors:0402,1uF")
