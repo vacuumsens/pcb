@@ -190,7 +190,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "EasyEDA:CS100UF50V167RV0146"
+		(symbol "EasyEDA:1N5825_C5338483"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -206,7 +206,7 @@
 					)
 				)
 			)
-			(property "Value" "CS100UF50V167RV0146"
+			(property "Value" "1N5825_C5338483"
 				(at 0 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -216,7 +216,7 @@
 					)
 				)
 			)
-			(property "Footprint" "EasyEDA:CAP-SMD_BD8.0-L8.3-W8.3-LS9.1-FD"
+			(property "Footprint" "EasyEDA:DO-201AD_BD5.0-L9.0-P13.00-D1.0"
 				(at 0 -7.62 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -227,7 +227,7 @@
 					)
 				)
 			)
-			(property "Datasheet" "https://www.lcsc.com/datasheet/C5250964.pdf"
+			(property "Datasheet" "https://www.lcsc.com/datasheet/C5338483.pdf"
 				(at 0 -10.16 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -249,7 +249,7 @@
 					)
 				)
 			)
-			(property "Manufacturer" "KNSCHA(科尼盛)"
+			(property "Manufacturer" "SUNMATE(森美特)"
 				(at 0 -12.7 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -260,7 +260,7 @@
 					)
 				)
 			)
-			(property "MPN" "CS100UF50V167RV0146"
+			(property "MPN" "1N5825"
 				(at 0 -15.24 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -271,222 +271,7 @@
 					)
 				)
 			)
-			(property "LCSC Part" "C5250964"
-				(at 0 -17.78 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "Aluminum Electrolytic Capacitors - SMD"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "CS100UF50V167RV0146_0_1"
-				(polyline
-					(pts
-						(xy -2.54 0.76) (xy -1.52 0.76)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.03 1.27) (xy -2.03 0.25)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 0) (xy -0.51 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.51 2.03) (xy -0.51 -2.03)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.51 0) (xy 1.27 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 1.21 -1.83)
-					(mid 0.51 0.09)
-					(end 1.33 1.95)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin input line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "EasyEDA:SS34_C8678"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "D"
-				(at 0 5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "SS34_C8678"
-				(at 0 -5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "EasyEDA:SMA_L4.3-W2.6-LS5.2-RD"
-				(at 0 -7.62 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" "https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_SS34_C8678.html"
-				(at 0 -10.16 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "SS34"
-				(at 0 -22.86 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer" "MDD(辰达半导体)"
-				(at 0 -12.7 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "MPN" "SS34"
-				(at 0 -15.24 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "LCSC Part" "C8678"
+			(property "LCSC Part" "C5338483"
 				(at 0 -17.78 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -508,10 +293,10 @@
 					)
 				)
 			)
-			(symbol "SS34_C8678_0_1"
+			(symbol "1N5825_C5338483_0_1"
 				(polyline
 					(pts
-						(xy -1.27 0) (xy -1.27 2.03) (xy -1.78 2.03) (xy -1.78 1.78)
+						(xy -1.27 -1.52) (xy -1.27 1.52)
 					)
 					(stroke
 						(width 0)
@@ -523,19 +308,7 @@
 				)
 				(polyline
 					(pts
-						(xy -1.27 0) (xy -1.27 -2.03) (xy -0.76 -2.03) (xy -0.76 -1.78)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 1.52) (xy -1.27 0) (xy 1.27 -1.78) (xy 1.27 1.52)
+						(xy 1.27 1.52) (xy -1.27 0) (xy 1.27 -1.52) (xy 1.27 1.52)
 					)
 					(stroke
 						(width 0)
@@ -548,7 +321,7 @@
 				(pin unspecified line
 					(at -5.08 0 0)
 					(length 3.81)
-					(name "K"
+					(name "C"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -584,13 +357,13 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "EasyEDA:VT220UF25V167RV160"
+		(symbol "EasyEDA:CS470UF35V167RV0136"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "U"
+			(property "Reference" "C"
 				(at 0 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -600,7 +373,7 @@
 					)
 				)
 			)
-			(property "Value" "VT220UF25V167RV160"
+			(property "Value" "CS470UF35V167RV0136"
 				(at 0 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -610,7 +383,7 @@
 					)
 				)
 			)
-			(property "Footprint" "EasyEDA:CAP-SMD_BD6.3-L6.6-W6.6-FD"
+			(property "Footprint" "EasyEDA:CAP-SMD_BD10.0-L10.3-W10.3-LS11.3-FD"
 				(at 0 -7.62 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -621,7 +394,7 @@
 					)
 				)
 			)
-			(property "Datasheet" "https://www.lcsc.com/datasheet/C5250961.pdf"
+			(property "Datasheet" "https://www.lcsc.com/datasheet/C5263875.pdf"
 				(at 0 -10.16 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -654,7 +427,7 @@
 					)
 				)
 			)
-			(property "MPN" "VT220UF25V167RV160"
+			(property "MPN" "CS470UF35V167RV0136"
 				(at 0 -15.24 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -665,7 +438,7 @@
 					)
 				)
 			)
-			(property "LCSC Part" "C5250961"
+			(property "LCSC Part" "C5263875"
 				(at 0 -17.78 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -676,18 +449,7 @@
 					)
 				)
 			)
-			(property "ki_keywords" "Aluminum Electrolytic Capacitors - SMD"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "VT220UF25V167RV160_0_1"
+			(symbol "CS470UF35V167RV0136_0_1"
 				(polyline
 					(pts
 						(xy -2.54 0) (xy -0.51 0)
@@ -1976,12 +1738,6 @@
 		(uuid "99b0f14d-0339-4465-afcd-bbaffd728b98")
 	)
 	(junction
-		(at 166.37 119.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bb4748ef-52c0-46ff-8d2c-01bd84aa0ba1")
-	)
-	(junction
 		(at 207.01 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2025,7 +1781,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 119.38) (xy 186.69 119.38)
+			(xy 148.59 119.38) (xy 186.69 119.38)
 		)
 		(stroke
 			(width 0)
@@ -2145,16 +1901,6 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 110.49) (xy 166.37 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "628c368e-51d2-4299-824b-54bf6998172f")
-	)
-	(wire
-		(pts
 			(xy 132.08 119.38) (xy 148.59 119.38)
 		)
 		(stroke
@@ -2215,23 +1961,13 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 102.87) (xy 81.28 119.38)
+			(xy 81.28 105.41) (xy 81.28 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "84995456-5d37-4b56-9117-112f4ee178bf")
-	)
-	(wire
-		(pts
-			(xy 148.59 119.38) (xy 166.37 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a3c8ceca-b3c3-4b30-ac33-437c269100e3")
+		(uuid "997c5103-9e02-40f7-addb-324f57764615")
 	)
 	(wire
 		(pts
@@ -2718,121 +2454,6 @@
 		)
 	)
 	(symbol
-		(lib_id "EasyEDA:SS34_C8678")
-		(at 148.59 105.41 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "621be415-a850-4f6e-acef-671cbf77e92e")
-		(property "Reference" "D10"
-			(at 152.4 103.8849 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SS34_C8678"
-			(at 152.4 106.4249 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "EasyEDA:SMA_L4.3-W2.6-LS5.2-RD"
-			(at 140.97 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_SS34_C8678.html"
-			(at 138.43 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "SS34"
-			(at 125.73 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "MDD(辰达半导体)"
-			(at 135.89 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "SS34"
-			(at 133.35 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part" "C8678"
-			(at 130.81 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1b07eac1-49a3-486b-aa6a-b572b664b637")
-		)
-		(pin "2"
-			(uuid "05ba60e4-e4a9-4bcf-803c-a4b904d6f5fc")
-		)
-		(instances
-			(project "senseeker_final"
-				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/e6612f6f-e131-40dc-9b50-f62250179b84"
-					(reference "D10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "PCM_JLCPCB-Capacitors:0603,100nF")
 		(at 101.6 99.06 0)
 		(unit 1)
@@ -3069,8 +2690,8 @@
 		)
 	)
 	(symbol
-		(lib_id "EasyEDA:VT220UF25V167RV160")
-		(at 166.37 105.41 270)
+		(lib_id "EasyEDA:1N5825_C5338483")
+		(at 148.59 105.41 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3079,9 +2700,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "7218daec-9b32-4953-b427-ecc893ca3df3")
-		(property "Reference" "U12"
-			(at 168.91 104.1399 90)
+		(uuid "88096bb5-ffd1-4756-98a1-18e5ce23040a")
+		(property "Reference" "U11"
+			(at 151.13 104.1399 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3091,8 +2712,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "VT220UF25V167RV160"
-			(at 168.91 106.6799 90)
+		(property "Value" "1N5825_C5338483"
+			(at 151.13 106.6799 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3102,8 +2723,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EasyEDA:CAP-SMD_BD6.3-L6.6-W6.6-FD"
-			(at 158.75 105.41 0)
+		(property "Footprint" "EasyEDA:DO-201AD_BD5.0-L9.0-P13.00-D1.0"
+			(at 140.97 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3113,8 +2734,8 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5250961.pdf"
-			(at 156.21 105.41 0)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C5338483.pdf"
+			(at 138.43 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3125,39 +2746,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 166.37 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "KNSCHA(科尼盛)"
-			(at 153.67 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "VT220UF25V167RV160"
-			(at 151.13 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part" "C5250961"
 			(at 148.59 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -3168,16 +2756,49 @@
 				)
 			)
 		)
-		(pin "1"
-			(uuid "ed4112e9-05e6-47d5-ab86-a26c607020c1")
+		(property "Manufacturer" "SUNMATE(森美特)"
+			(at 135.89 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "1N5825"
+			(at 133.35 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C5338483"
+			(at 130.81 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
 		(pin "2"
-			(uuid "27cdba79-f66e-4f96-9b3c-9ec395300c27")
+			(uuid "7814a001-86a8-4c80-a4db-786080fd0776")
+		)
+		(pin "1"
+			(uuid "9b6eaf07-4fa9-4b1e-88dc-655cbcca7355")
 		)
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/e6612f6f-e131-40dc-9b50-f62250179b84"
-					(reference "U12")
+					(reference "U11")
 					(unit 1)
 				)
 			)
@@ -3268,6 +2889,121 @@
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/e6612f6f-e131-40dc-9b50-f62250179b84"
 					(reference "L2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EasyEDA:CS470UF35V167RV0136")
+		(at 81.28 100.33 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b206a4c6-c819-4aaa-a1b3-8a4d6ebc6465")
+		(property "Reference" "C22"
+			(at 83.82 99.0599 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "CS470UF35V167RV0136"
+			(at 83.82 101.5999 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "EasyEDA:CAP-SMD_BD10.0-L10.3-W10.3-LS11.3-FD"
+			(at 73.66 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C5263875.pdf"
+			(at 71.12 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 81.28 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KNSCHA(科尼盛)"
+			(at 68.58 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CS470UF35V167RV0136"
+			(at 66.04 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C5263875"
+			(at 63.5 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e3de0d0f-eaef-4d4c-b2b6-12b52994ae00")
+		)
+		(pin "2"
+			(uuid "de8a0fb2-fb0e-4294-8cc2-fe2fac0e8fa3")
+		)
+		(instances
+			(project "senseeker_final"
+				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/e6612f6f-e131-40dc-9b50-f62250179b84"
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -3772,120 +3508,6 @@
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/e6612f6f-e131-40dc-9b50-f62250179b84"
 					(reference "R28")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "EasyEDA:CS100UF50V167RV0146")
-		(at 81.28 99.06 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "f1749165-46a9-4124-bae9-05defb85d872")
-		(property "Reference" "U11"
-			(at 85.09 97.1849 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "CS100UF50V167RV0146"
-			(at 60.96 101.092 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "EasyEDA:CAP-SMD_BD8.0-L8.3-W8.3-LS9.1-FD"
-			(at 73.66 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5250964.pdf"
-			(at 71.12 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 81.28 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "KNSCHA(科尼盛)"
-			(at 68.58 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "CS100UF50V167RV0146"
-			(at 66.04 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part" "C5250964"
-			(at 63.5 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "bf49920f-d04a-467d-93a7-e9c2a69fae2d")
-		)
-		(pin "1"
-			(uuid "6e462929-4667-46b2-9088-2291ebcdaff1")
-		)
-		(instances
-			(project "senseeker_final"
-				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/e6612f6f-e131-40dc-9b50-f62250179b84"
-					(reference "U11")
 					(unit 1)
 				)
 			)
