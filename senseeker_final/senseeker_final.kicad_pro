@@ -646,7 +646,7 @@
         "uuid": "529bc8a5-ffae-43ac-972d-caccc3afab85"
       }
     ],
-    "used_designators": "C34-37,L4,D10-11,R30,U11-12",
+    "used_designators": "C34-45,#PWR2-14,L4-5,D10-13,R30-40,U11-12",
     "variants": []
   },
   "sheets": [
@@ -689,6 +689,10 @@
     [
       "b4c3a0d1-ca7b-4720-8d12-20e46e9b3e38",
       "LM2596 3.3V Buck"
+    ],
+    [
+      "4d9fbfee-b855-4a6d-bcf3-11fe3d232fd1",
+      "IP2326 3S"
     ]
   ],
   "text_variables": {},

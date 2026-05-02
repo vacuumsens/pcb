@@ -51,6 +51,52 @@
 		)
 	)
 	(sheet
+		(at 140.97 78.74)
+		(size 48.26 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4d9fbfee-b855-4a6d-bcf3-11fe3d232fd1")
+		(property "Sheetname" "IP2326 3S"
+			(at 140.97 78.0284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "IP2326 .kicad_sch"
+			(at 140.97 104.7246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "senseeker_final"
+				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 2.54 113.74)
 		(size 110 22)
 		(exclude_from_sim no)
