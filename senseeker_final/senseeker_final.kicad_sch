@@ -77,7 +77,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "IP2326 .kicad_sch"
+		(property "Sheetfile" "IP2326.kicad_sch"
 			(at 140.97 104.7246 0)
 			(show_name no)
 			(do_not_autoplace no)
