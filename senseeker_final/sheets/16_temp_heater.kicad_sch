@@ -5367,7 +5367,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a70bbc0-7cd0-4037-a093-734083cfbaa6")
-		(property "Reference" "J7"
+		(property "Reference" "J5"
 			(at 148.59 72.6449 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5454,7 +5454,7 @@
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/c2b703a4-2e88-4383-8b77-8614951a81a3"
-					(reference "J7")
+					(reference "J5")
 					(unit 1)
 				)
 			)

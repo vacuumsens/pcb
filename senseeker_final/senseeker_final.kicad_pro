@@ -646,7 +646,7 @@
         "uuid": "529bc8a5-ffae-43ac-972d-caccc3afab85"
       }
     ],
-    "used_designators": "H4,C5,C8,C22,C34,U11-12,D6,D10,R28,R30",
+    "used_designators": "C_sense1-3,D1-9,#PWR1,Cc1-2,C1-33,Cin1,J1-7,H1-3,L1-3,P1-4,Q1-9,R1-29,R_AC1-2,R_sense1-2,Rc1-4,Rin1,RPROG1-2,Rsense1,RV1,SW1,U1-10",
     "variants": []
   },
   "sheets": [
