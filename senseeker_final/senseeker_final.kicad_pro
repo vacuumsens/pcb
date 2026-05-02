@@ -646,7 +646,7 @@
         "uuid": "529bc8a5-ffae-43ac-972d-caccc3afab85"
       }
     ],
-    "used_designators": "C_sense1-3,D1-9,#PWR1,Cc1-2,C1-33,Cin1,J1-7,H1-3,L1-3,P1-5,Q1-9,R1-29,R_AC1-2,R_sense1-2,Rc1-4,Rin1,RPROG1-2,TP1,Rsense1,RV1,SW1,U1-10",
+    "used_designators": "C34-37,L4,D10-11,R30,U11-12",
     "variants": []
   },
   "sheets": [
@@ -661,6 +661,10 @@
     [
       "8c3d0b7d-92b0-403f-802a-8a5a7d9fa34c",
       "FUELGAUGE"
+    ],
+    [
+      "9dddee0f-db6b-4d06-95d5-93553e494b2c",
+      "LM2596 BUCK"
     ],
     [
       "e6612f6f-e131-40dc-9b50-f62250179b84",
@@ -683,8 +687,8 @@
       "DSUB+RS232"
     ],
     [
-      "9dddee0f-db6b-4d06-95d5-93553e494b2c",
-      "LM2596 BUCK"
+      "b4c3a0d1-ca7b-4720-8d12-20e46e9b3e38",
+      "LM2596 3.3V Buck"
     ]
   ],
   "text_variables": {},

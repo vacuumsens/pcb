@@ -96,8 +96,8 @@
 		)
 	)
 	(sheet
-		(at 282.54 113.74)
-		(size 110 22)
+		(at 15.84 -11.99)
+		(size 48.93 22)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -111,7 +111,7 @@
 		)
 		(uuid "9dddee0f-db6b-4d06-95d5-93553e494b2c")
 		(property "Sheetname" "LM2596 BUCK"
-			(at 284.54 115.24 0)
+			(at 17.84 -10.49 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -122,7 +122,7 @@
 			)
 		)
 		(property "Sheetfile" "sheets/18_lm2596_adj_buck.kicad_sch"
-			(at 284.54 133.74 0)
+			(at 17.84 8.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -136,6 +136,81 @@
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 16.51 13.97)
+		(size 48.26 22)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "b4c3a0d1-ca7b-4720-8d12-20e46e9b3e38")
+		(property "Sheetname" "LM2596 3.3V Buck"
+			(at 18.51 15.47 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/18_lm2596_3.3V_buck.kicad_sch"
+			(at 18.51 33.97 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "~{ON}{slash}OFF" input
+			(at 16.51 25.4 180)
+			(uuid "6ea8b2a7-c181-4234-b0f1-ad7aef1917ce")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Vin (+)" input
+			(at 16.51 20.32 180)
+			(uuid "19e5059a-d413-4a73-b28a-a6154a4e31d6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Vout 3.3V (+)" input
+			(at 64.77 20.32 0)
+			(uuid "4b0a29b2-bf12-415c-aa33-536e9460c7e5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "senseeker_final"
+				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
+					(page "3")
 				)
 			)
 		)
@@ -321,7 +396,7 @@
 		)
 	)
 	(sheet
-		(at 129.54 123.19)
+		(at 16.51 41.91)
 		(size 48.26 22)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -336,7 +411,7 @@
 		)
 		(uuid "e6612f6f-e131-40dc-9b50-f62250179b84")
 		(property "Sheetname" "LM2596 5V Buck"
-			(at 131.54 124.69 0)
+			(at 18.51 43.41 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -347,7 +422,7 @@
 			)
 		)
 		(property "Sheetfile" "sheets/18_lm2596_5V_buck.kicad_sch"
-			(at 131.54 143.19 0)
+			(at 18.51 61.91 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -358,7 +433,7 @@
 			)
 		)
 		(pin "~{ON}{slash}OFF" input
-			(at 129.54 134.62 180)
+			(at 16.51 53.34 180)
 			(uuid "32b299a0-4722-462a-bea8-e1dc35c94ec6")
 			(effects
 				(font
@@ -368,7 +443,7 @@
 			)
 		)
 		(pin "Vin (+)" input
-			(at 129.54 127 180)
+			(at 16.51 45.72 180)
 			(uuid "94d14c88-f224-477e-b566-808924030c68")
 			(effects
 				(font
@@ -377,8 +452,8 @@
 				(justify left)
 			)
 		)
-		(pin "Vout (+)" input
-			(at 177.8 128.27 0)
+		(pin "Vout 5V (+)" input
+			(at 64.77 46.99 0)
 			(uuid "b436cb48-5e15-427b-a4de-086657ec6396")
 			(effects
 				(font
