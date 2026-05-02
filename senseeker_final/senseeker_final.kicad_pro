@@ -646,7 +646,7 @@
         "uuid": "529bc8a5-ffae-43ac-972d-caccc3afab85"
       }
     ],
-    "used_designators": "USB1,#PWR11,#PWR15-17,R41-42",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
@@ -669,10 +669,6 @@
     [
       "e6612f6f-e131-40dc-9b50-f62250179b84",
       "LM2596 5V Buck"
-    ],
-    [
-      "d817ed9f-d5ed-4b76-b785-ec99fd1fec7f",
-      "3S IC"
     ],
     [
       "cff05046-5666-496e-bdc0-c674fdf4f5c2",
