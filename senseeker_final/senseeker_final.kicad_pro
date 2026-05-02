@@ -646,7 +646,7 @@
         "uuid": "529bc8a5-ffae-43ac-972d-caccc3afab85"
       }
     ],
-    "used_designators": "C34-45,#PWR2-14,L4-5,D10-13,R30-40,U11-12",
+    "used_designators": "USB1,#PWR11,#PWR15-17,R41-42",
     "variants": []
   },
   "sheets": [
@@ -693,6 +693,10 @@
     [
       "4d9fbfee-b855-4a6d-bcf3-11fe3d232fd1",
       "IP2326 3S"
+    ],
+    [
+      "d2491b3c-721e-4823-a512-ce7ffde692b8",
+      "USBC"
     ]
   ],
   "text_variables": {},

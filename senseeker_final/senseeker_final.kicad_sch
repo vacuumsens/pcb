@@ -88,6 +88,46 @@
 				(justify left top)
 			)
 		)
+		(pin "DM" input
+			(at 140.97 88.9 180)
+			(uuid "f0994448-412c-4505-b8f2-5897bf72765a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DP" input
+			(at 140.97 85.09 180)
+			(uuid "998c857b-78da-4b2e-bba3-2871f0386c6b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VBUS" input
+			(at 140.97 100.33 180)
+			(uuid "3857cc7c-db1d-42db-ab01-b948ae4858d0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VBAT (+)" input
+			(at 189.23 82.55 0)
+			(uuid "57dd7ec4-c0e9-4740-a309-7dabd06006c7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
@@ -392,6 +432,82 @@
 			(project "senseeker_final"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 143.51 118.11)
+		(size 48.26 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d2491b3c-721e-4823-a512-ce7ffde692b8")
+		(property "Sheetname" "USBC"
+			(at 143.51 117.3984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USBC.kicad_sch"
+			(at 143.51 144.0946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DM" input
+			(at 143.51 124.46 180)
+			(uuid "3371a366-1c67-4cd6-998b-e5a971147e1f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DP" input
+			(at 143.51 120.65 180)
+			(uuid "c6008aac-3263-4503-913f-e932f163038c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VBUS" input
+			(at 143.51 132.08 180)
+			(uuid "ec1b21b8-0536-499e-8257-c89b16d3abe1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "senseeker_final"
+				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
+					(page "5")
 				)
 			)
 		)
