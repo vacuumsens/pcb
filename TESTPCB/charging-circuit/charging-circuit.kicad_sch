@@ -1,13 +1,13 @@
 (kicad_sch
-	(version 20250114)
+	(version 20260306)
 	(generator "eeschema")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(uuid "529bc8a5-ffae-43ac-972d-caccc3afab85")
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 2.54 78.74)
-		(size 110 22)
+		(at 21.59 67.31)
+		(size 58.42 22)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -17,11 +17,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "46234f0e-61f2-45bf-9df2-e52d6b9d2e9e")
 		(property "Sheetname" "SLEEPMOSFET"
-			(at 4.54 80.24 0)
+			(at 23.59 68.81 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30,12 +32,74 @@
 			)
 		)
 		(property "Sheetfile" "sheets/04_sleepmosfet.kicad_sch"
-			(at 4.54 98.74 0)
+			(at 23.59 87.31 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "5EN" input
+			(at 80.01 85.09 0)
+			(uuid "49c80e30-6b42-4e8a-b5c2-2b53b99224d9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "12VOUT" input
+			(at 80.01 81.28 0)
+			(uuid "80d10681-b203-4005-9120-820fb3d4e5d2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SLPRASPI" input
+			(at 21.59 78.74 180)
+			(uuid "75b01cd7-20e6-4ce9-b0c2-fc3768e7e262")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SLP12V" input
+			(at 54.61 67.31 90)
+			(uuid "a11b220b-dd95-455c-93e5-06586d04d1a5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SLPGND" input
+			(at 60.96 67.31 90)
+			(uuid "f4f29a52-a288-4c4f-af00-0bcd725f082e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SLP3V3" input
+			(at 48.26 67.31 90)
+			(uuid "f67715be-85b9-4b1e-b890-1c41ab57f5aa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
@@ -47,8 +111,8 @@
 		)
 	)
 	(sheet
-		(at 2.54 113.74)
-		(size 110 22)
+		(at 29.21 101.04)
+		(size 41.42 22)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -58,11 +122,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "8c3d0b7d-92b0-403f-802a-8a5a7d9fa34c")
 		(property "Sheetname" "FUELGAUGE"
-			(at 4.54 115.24 0)
+			(at 31.21 102.54 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -71,12 +137,64 @@
 			)
 		)
 		(property "Sheetfile" "sheets/05_fuelgauge.kicad_sch"
-			(at 4.54 133.74 0)
+			(at 31.21 121.04 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "FUEL3V3" input
+			(at 48.26 101.04 90)
+			(uuid "f26ba124-c8d1-4a9c-ad08-74360cb41ff5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "FUELBAT" input
+			(at 70.63 115.57 0)
+			(uuid "93598157-a9bf-4c92-96f1-ee1d86550eae")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "FUELGND" input
+			(at 58.42 101.04 90)
+			(uuid "189fdd5e-3956-477c-8c71-d28c153bfb9a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "FUELSCL" input
+			(at 29.21 110.49 180)
+			(uuid "7d0a74a3-b990-41a8-9767-ec9090880171")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "FUELSDA" input
+			(at 29.21 114.3 180)
+			(uuid "98644024-492a-484d-a667-2a21f72856cc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
@@ -99,11 +217,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "9dddee0f-db6b-4d06-95d5-93553e494b2c")
 		(property "Sheetname" "LM2596 BUCK"
 			(at 284.54 115.24 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -113,6 +233,8 @@
 		)
 		(property "Sheetfile" "sheets/18_lm2596_adj_buck.kicad_sch"
 			(at 284.54 133.74 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -140,11 +262,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "c2b703a4-2e88-4383-8b77-8614951a81a3")
 		(property "Sheetname" "TEMP+HEATER"
 			(at 284.54 45.24 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -154,6 +278,8 @@
 		)
 		(property "Sheetfile" "sheets/16_temp_heater.kicad_sch"
 			(at 284.54 63.74 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -181,11 +307,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "cebc8927-3eb9-4228-bd64-eb01f991daf3")
 		(property "Sheetname" "DSUB+RS232"
 			(at 284.54 80.24 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -195,6 +323,8 @@
 		)
 		(property "Sheetfile" "sheets/17_dsub_rs232.kicad_sch"
 			(at 284.54 98.74 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -211,8 +341,8 @@
 		)
 	)
 	(sheet
-		(at 282.54 8.74)
-		(size 110 22)
+		(at 19.65 140.82)
+		(size 52.74 22)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -222,11 +352,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "cff05046-5666-496e-bdc0-c674fdf4f5c2")
 		(property "Sheetname" "3S Balancer"
-			(at 284.54 10.24 0)
+			(at 21.65 142.32 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -235,12 +367,84 @@
 			)
 		)
 		(property "Sheetfile" "sheets/15_3s_balancer.kicad_sch"
-			(at 284.54 28.74 0)
+			(at 21.65 160.82 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "BALALERT" input
+			(at 19.65 149.86 180)
+			(uuid "6f4bfdf8-eedb-4f8a-90a8-7a2f44db296d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "BALSCL" input
+			(at 19.65 153.67 180)
+			(uuid "93f274ef-e070-4343-848f-062df7983dd2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "BALSDA" input
+			(at 19.65 157.48 180)
+			(uuid "205cc851-c4c7-4358-bea4-02b1c1298685")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "BAT1-" input
+			(at 72.39 153.67 0)
+			(uuid "433d122c-f4b2-4a1d-9f8c-4da67228ae98")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BAT3+" input
+			(at 72.39 149.86 0)
+			(uuid "74774529-425b-415c-99dc-15aa57120a9f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PACK+" input
+			(at 72.39 157.48 0)
+			(uuid "2a07408a-d056-4c84-98ef-cafc2068e73f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PACK-" input
+			(at 72.39 146.05 0)
+			(uuid "15e8409e-c5cd-48e1-a600-eedef53f2812")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
@@ -263,11 +467,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "d817ed9f-d5ed-4b76-b785-ec99fd1fec7f")
 		(property "Sheetname" "3S IC"
 			(at 284.54 -24.76 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -277,6 +483,8 @@
 		)
 		(property "Sheetfile" "sheets/14_3s_ic.kicad_sch"
 			(at 284.54 -6.26 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -304,11 +512,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "e6612f6f-e131-40dc-9b50-f62250179b84")
 		(property "Sheetname" "LM2596 5V Buck"
 			(at 283.94 145.01 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -318,6 +528,8 @@
 		)
 		(property "Sheetfile" "sheets/18_lm2596_5V_buck.kicad_sch"
 			(at 283.94 163.51 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
