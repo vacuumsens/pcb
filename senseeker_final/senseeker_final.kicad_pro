@@ -646,7 +646,7 @@
         "uuid": "529bc8a5-ffae-43ac-972d-caccc3afab85"
       }
     ],
-    "used_designators": "",
+    "used_designators": "U2,U15,R2,R4-5,R8-10,R12-13,R15-18,R24,R43-48,C11-12,C14,C16,C18-19,C21,C25,Q3,Q5,Q9-11,#PWR18-23,D1-2,D4,D7,D14-16",
     "variants": []
   },
   "sheets": [
@@ -693,6 +693,10 @@
     [
       "d2491b3c-721e-4823-a512-ce7ffde692b8",
       "USBC"
+    ],
+    [
+      "31044c0b-908e-4275-b963-f7b450fd643a",
+      "New 3S Balancer"
     ]
   ],
   "text_variables": {},

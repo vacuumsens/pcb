@@ -6,6 +6,52 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
+		(at 220.98 134.62)
+		(size 52.07 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "31044c0b-908e-4275-b963-f7b450fd643a")
+		(property "Sheetname" "New 3S Balancer"
+			(at 220.98 133.9084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "New3SBalancer.kicad_sch"
+			(at 220.98 161.8746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "senseeker_final"
+				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 2.54 78.74)
 		(size 110 22)
 		(exclude_from_sim no)
