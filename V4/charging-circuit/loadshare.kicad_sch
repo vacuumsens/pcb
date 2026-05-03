@@ -789,6 +789,16 @@
 		)
 		(uuid "6603c77a-3f89-4f0c-b266-a379549a869f")
 	)
+	(label "VSYS"
+		(at 147.32 81.915 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "901852da-9122-420c-81c9-f79cbd306d6a")
+	)
 	(hierarchical_label "LOADOUT"
 		(shape input)
 		(at 147.32 96.52 270)

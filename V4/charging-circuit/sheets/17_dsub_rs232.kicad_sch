@@ -303,719 +303,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "easyeda2kicad:DR-15P圆针公蓝色"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "DSub"
-				(at 0 12.7 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "DR-15P圆针公蓝色"
-				(at 0 -12.7 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "easyeda2kicad:D-SUB-TH_BOOMELE_DR-15P"
-				(at 0 -15.24 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" "https://www.lcsc.com/datasheet/C12113.pdf"
-				(at 0 -17.78 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer" "BOOMELE(博穆精密)"
-				(at 0 -20.32 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "MPN" "DR-15P圆针公蓝色"
-				(at 0 -22.86 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "LCSC Part" "C12113"
-				(at 0 -25.4 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "D-Sub/DVI/HDMI Connectors"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "DR-15P圆针公蓝色_0_1"
-				(polyline
-					(pts
-						(xy -14.48 2.54) (xy -13.97 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -13.97 0) (xy -13.21 -3.05)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -14.48 2.54)
-					(mid -14.21 3.61)
-					(end -13.21 4.06)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -13.21 4.06) (xy 13.21 4.06)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -11.94 -4.06)
-					(mid -12.75 -3.78)
-					(end -13.21 -3.05)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -11.94 -4.06) (xy 11.94 -4.06)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -12.19 1.52)
-					(mid -11.3 2.4061)
-					(end -10.41 1.52)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -10.41 -1.78)
-					(mid -11.3 -2.6661)
-					(end -12.19 -1.78)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -7.87 0.51)
-					(mid -8.76 -0.3762)
-					(end -9.65 0.51)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -7.11 1.52)
-					(mid -6.22 2.4061)
-					(end -5.33 1.52)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -5.33 -1.78)
-					(mid -6.22 -2.6661)
-					(end -7.11 -1.78)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -2.79 0.51)
-					(mid -3.68 -0.3762)
-					(end -4.57 0.51)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -2.03 1.52)
-					(mid -1.14 2.4061)
-					(end -0.25 1.52)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -0.25 -1.78)
-					(mid -1.14 -2.6661)
-					(end -2.03 -1.78)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 2.03 0.51)
-					(mid 1.27 -0.2467)
-					(end 0.51 0.51)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 2.79 1.52)
-					(mid 3.68 2.4061)
-					(end 4.57 1.52)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 4.57 -1.78)
-					(mid 3.68 -2.6661)
-					(end 2.79 -1.78)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 7.11 0.51)
-					(mid 6.22 -0.3762)
-					(end 5.33 0.51)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 7.87 1.52)
-					(mid 8.76 2.4061)
-					(end 9.65 1.52)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 9.65 -1.78)
-					(mid 8.76 -2.6661)
-					(end 7.87 -1.78)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 12.19 0.51)
-					(mid 11.3 -0.3762)
-					(end 10.41 0.51)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 13.21 -3.05)
-					(mid 12.7525 -3.7782)
-					(end 11.94 -4.06)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 13.21 4.06)
-					(mid 14.2125 3.6071)
-					(end 14.48 2.54)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 13.97 0) (xy 13.21 -3.05)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 14.48 2.54) (xy 13.97 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin unspecified line
-					(at 8.89 7.62 270)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 3.81 7.62 270)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -1.27 7.62 270)
-					(length 5.08)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -6.35 7.62 270)
-					(length 5.08)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -11.43 7.62 270)
-					(length 5.08)
-					(name "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 11.43 -7.62 90)
-					(length 7.62)
-					(name "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 6.35 -7.62 90)
-					(length 7.62)
-					(name "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 1.27 -7.62 90)
-					(length 7.62)
-					(name "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -3.81 -7.62 90)
-					(length 7.62)
-					(name "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -8.89 -7.62 90)
-					(length 7.62)
-					(name "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 8.89 -7.62 90)
-					(length 5.08)
-					(name "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 3.81 -7.62 90)
-					(length 5.08)
-					(name "12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -1.27 -7.62 90)
-					(length 5.08)
-					(name "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -6.35 -7.62 90)
-					(length 5.08)
-					(name "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -11.43 -7.62 90)
-					(length 5.08)
-					(name "15"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "15"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -21.59 0 0)
-					(length 7.62)
-					(name "16"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "16"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 21.59 0 180)
-					(length 7.62)
-					(name "17"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "17"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "easyeda2kicad:DS1038-15FBNSIA74-0CC"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -1863,7 +1150,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 165.1) (xy 107.95 165.1)
+			(xy 149.86 124.46) (xy 152.4 124.46)
 		)
 		(stroke
 			(width 0)
@@ -1973,7 +1260,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 142.24) (xy 107.95 142.24)
+			(xy 149.86 101.6) (xy 152.4 101.6)
 		)
 		(stroke
 			(width 0)
@@ -1993,7 +1280,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 77.47) (xy 148.59 77.47)
+			(xy 52.07 71.12) (xy 49.53 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2023,7 +1310,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 80.01) (xy 148.59 80.01)
+			(xy 52.07 68.58) (xy 49.53 68.58)
 		)
 		(stroke
 			(width 0)
@@ -2033,7 +1320,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 149.86) (xy 107.95 149.86)
+			(xy 149.86 109.22) (xy 152.4 109.22)
 		)
 		(stroke
 			(width 0)
@@ -2053,7 +1340,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 69.85) (xy 148.59 69.85)
+			(xy 52.07 78.74) (xy 49.53 78.74)
 		)
 		(stroke
 			(width 0)
@@ -2093,7 +1380,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 74.93) (xy 148.59 74.93)
+			(xy 52.07 73.66) (xy 49.53 73.66)
 		)
 		(stroke
 			(width 0)
@@ -2113,43 +1400,13 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 120.65) (xy 130.81 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d51abe02-7bcd-4c8b-8a8a-3134e6accda9")
-	)
-	(wire
-		(pts
-			(xy 105.41 157.48) (xy 107.95 157.48)
+			(xy 149.86 116.84) (xy 152.4 116.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "df428e83-8c6b-4523-bfc3-466006bf6c1c")
-	)
-	(wire
-		(pts
-			(xy 128.27 118.11) (xy 130.81 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e2173359-9211-4ea2-a890-1333cf2d0c7a")
-	)
-	(wire
-		(pts
-			(xy 128.27 113.03) (xy 130.81 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e23173c0-804d-40b1-948e-7d616a0c63cd")
 	)
 	(wire
 		(pts
@@ -2163,16 +1420,6 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 115.57) (xy 130.81 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eed3ab0d-5c2d-4b9d-bea6-fbc72d6da09b")
-	)
-	(wire
-		(pts
 			(xy 68.58 69.85) (xy 81.28 69.85)
 		)
 		(stroke
@@ -2183,7 +1430,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 72.39) (xy 148.59 72.39)
+			(xy 52.07 76.2) (xy 49.53 76.2)
 		)
 		(stroke
 			(width 0)
@@ -2212,7 +1459,7 @@
 		(uuid "fc2dd5da-c53f-4544-b9be-c0b12269358b")
 	)
 	(label "DSUB12V"
-		(at 105.41 157.48 180)
+		(at 149.86 116.84 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2232,17 +1479,7 @@
 		(uuid "080a2afa-4ca3-49fd-bdab-63ab14d0fc59")
 	)
 	(label "UART_RX_13V"
-		(at 128.27 115.57 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "170689ae-5fca-4974-8396-01fbaca89013")
-	)
-	(label "UART_RX_13V"
-		(at 105.41 142.24 180)
+		(at 149.86 101.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2252,42 +1489,32 @@
 		(uuid "18e6b892-fdad-4a8d-9b03-7329800124a2")
 	)
 	(label "DSUBGND"
-		(at 146.05 72.39 180)
+		(at 52.07 76.2 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "43379465-c4b4-4f90-b8a2-3c4a613937e9")
 	)
 	(label "TX"
-		(at 146.05 80.01 180)
+		(at 52.07 68.58 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "4896304f-d032-461a-bf94-662188a64d4e")
 	)
-	(label "DSUBGND"
-		(at 128.27 118.11 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4c277c23-52ad-46da-92ab-1645b7d2629c")
-	)
 	(label "DSUB3.3V"
-		(at 146.05 69.85 180)
+		(at 52.07 78.74 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "50c01eed-d2c0-4a3d-beae-a0d79d26444f")
 	)
@@ -2302,7 +1529,7 @@
 		(uuid "5716d845-c7ed-4f08-90d6-3f8253f09e59")
 	)
 	(label "DSUBGND"
-		(at 105.41 165.1 180)
+		(at 149.86 124.46 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2341,26 +1568,6 @@
 		)
 		(uuid "6ec7a4b2-363b-4af1-a2ad-5d562d1c551b")
 	)
-	(label "DSUB12V"
-		(at 128.27 120.65 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "7191400b-95e9-44e1-9af1-6bd93405edce")
-	)
-	(label "UART_TX_13V"
-		(at 128.27 113.03 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "71b8a376-2a14-4b98-9404-975b6f06d561")
-	)
 	(label "DSUBGND"
 		(at 114.3 97.79 0)
 		(effects
@@ -2392,12 +1599,12 @@
 		(uuid "b8466e36-7e47-491f-a709-8c68d0e6e690")
 	)
 	(label "RX"
-		(at 146.05 77.47 180)
+		(at 52.07 71.12 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "b8b10c5e-1792-43d3-8600-4a5d17c2a00f")
 	)
@@ -2412,7 +1619,7 @@
 		(uuid "bdad8566-bd8a-49e7-b702-04f3d47c0010")
 	)
 	(label "UART_TX_13V"
-		(at 105.41 149.86 180)
+		(at 149.86 109.22 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2422,73 +1629,73 @@
 		(uuid "c0d4172a-a1e6-4654-a3d3-a753ca1ab451")
 	)
 	(label "DSUB12V"
-		(at 146.05 74.93 180)
+		(at 52.07 73.66 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "ff03aea9-1796-4656-abf1-de523f3a6687")
 	)
 	(hierarchical_label "DSUB3V3"
 		(shape input)
-		(at 148.59 69.85 0)
+		(at 49.53 78.74 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "48980a8b-6280-42ec-ab75-130caa4b4f0a")
 	)
 	(hierarchical_label "DSUB12V"
 		(shape input)
-		(at 148.59 74.93 0)
+		(at 49.53 73.66 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "536ccd87-b23d-4520-8789-581d81e50cab")
 	)
 	(hierarchical_label "DSUBGND"
 		(shape input)
-		(at 148.59 72.39 0)
+		(at 49.53 76.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "912fa836-7e13-4773-9f9b-a747a7c489f3")
 	)
 	(hierarchical_label "RX"
 		(shape output)
-		(at 148.59 77.47 0)
+		(at 49.53 71.12 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "b2343b8d-22ed-474c-9af3-a372d8ebe02e")
 	)
 	(hierarchical_label "TX"
 		(shape output)
-		(at 148.59 80.01 0)
+		(at 49.53 68.58 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "e7bf747c-1805-45d3-8419-cba363ddcbdc")
 	)
 	(symbol
 		(lib_id "easyeda2kicad:DS1038-15FBNSIA74-0CC")
-		(at 115.57 160.02 0)
+		(at 160.02 119.38 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2499,7 +1706,7 @@
 		(fields_autoplaced yes)
 		(uuid "2a835133-f437-48b6-bff3-7568ceca2a6d")
 		(property "Reference" "DSub2"
-			(at 119.38 132.08 0)
+			(at 163.83 91.44 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2509,7 +1716,7 @@
 			)
 		)
 		(property "Value" "DS1038-15FBNSIA74-0CC"
-			(at 119.38 134.62 0)
+			(at 163.83 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2519,7 +1726,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:DSUB-TH_DS1038-15FBNSIA74-0CC"
-			(at 115.57 193.04 0)
+			(at 160.02 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2530,7 +1737,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/D-Sub-Connectors_D-SUB-15pin-three-rows-Female90degree-black-pitch2-29mm-Tin-plating-With-hex-screws4-8mm_C75754.html"
-			(at 115.57 195.58 0)
+			(at 160.02 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2541,7 +1748,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 115.57 160.02 0)
+			(at 160.02 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2552,7 +1759,7 @@
 			)
 		)
 		(property "LCSC Part" "C75754"
-			(at 115.57 198.12 0)
+			(at 160.02 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3910,166 +3117,6 @@
 			(project "charging-circuit"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/b2555034-0671-4d54-9747-cad620ff9682"
 					(reference "C33")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "easyeda2kicad:DR-15P圆针公蓝色")
-		(at 152.4 115.57 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a874309b-a72f-42b9-bebe-d41d999dcee2")
-		(property "Reference" "DSub1"
-			(at 154.5433 96.52 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "DR-15P圆针公蓝色"
-			(at 154.5433 99.06 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "easyeda2kicad:D-SUB-TH_BOOMELE_DR-15P"
-			(at 167.64 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C12113.pdf"
-			(at 170.18 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 152.4 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "BOOMELE(博穆精密)"
-			(at 172.72 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "DR-15P圆针公蓝色"
-			(at 175.26 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part" "C12113"
-			(at 177.8 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "8"
-			(uuid "2fc9cba5-5bc6-4d64-aca9-a92321afc461")
-		)
-		(pin "11"
-			(uuid "7189761e-5e67-4e64-be35-a2fa71b94d4a")
-		)
-		(pin "17"
-			(uuid "936ebfa2-8a7a-4894-babc-904dd03bd769")
-		)
-		(pin "1"
-			(uuid "9cb2bc31-6a6b-4c1a-abcc-de8a5c0cc296")
-		)
-		(pin "3"
-			(uuid "b1d27342-8428-4fcc-8b1a-46429a9d3b57")
-		)
-		(pin "13"
-			(uuid "89342ddc-1b94-46a7-9345-a1204087c5e5")
-		)
-		(pin "15"
-			(uuid "60478cbb-47ff-46c9-87fa-1a17c5b1dcbe")
-		)
-		(pin "12"
-			(uuid "953fdf60-03c8-4428-a493-3a7202c40a09")
-		)
-		(pin "2"
-			(uuid "84515a09-e1c8-410c-86df-8931819bfa4f")
-		)
-		(pin "14"
-			(uuid "9583a4a1-b870-451d-8fc1-89193a12bbbd")
-		)
-		(pin "6"
-			(uuid "4fdc6412-7f9a-4f35-98bd-21ca36c69d8a")
-		)
-		(pin "5"
-			(uuid "dda6df38-3c63-4d68-bf78-2ce35957a69f")
-		)
-		(pin "4"
-			(uuid "2d1324f4-8093-4926-911a-efdb411c8339")
-		)
-		(pin "10"
-			(uuid "1a733854-2bcd-4f7a-b964-6c691c3b22de")
-		)
-		(pin "16"
-			(uuid "4f93b113-968a-45b5-828e-f8d8764734c3")
-		)
-		(pin "9"
-			(uuid "1780e875-54ba-4fdf-9cf6-2bb2eadb1f63")
-		)
-		(pin "7"
-			(uuid "16d396d8-03a6-49ce-beb2-eb2251fb85c8")
-		)
-		(instances
-			(project "charging-circuit"
-				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85/b2555034-0671-4d54-9747-cad620ff9682"
-					(reference "DSub1")
 					(unit 1)
 				)
 			)

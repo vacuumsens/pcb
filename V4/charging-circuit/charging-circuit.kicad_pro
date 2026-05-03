@@ -646,7 +646,7 @@
         "uuid": "529bc8a5-ffae-43ac-972d-caccc3afab85"
       }
     ],
-    "used_designators": "C1-25,C29,C32-37,C60-65,C72-73,C900-903,DSub1-2,H10,H12-13,P1-10,P12,Q8-28,RPROG4,RPROG6-15,R1-9,R17-20,R22-25,R27-29,R31-34,R37-51,R56,R67-71,R80-81,U1-5,U7,U10,U12,U16,U18-22,U30,C_sense4-6,D1-5,D8-12,D15-16,D200-201,N2,Cc2-3,#PWR1-2,#PWR24,#PWR26,J3-7,J20-23,L1-5,L20,R_sense3-4,Rc4-7,Rsense2,RV20,SW2,USBC1",
+    "used_designators": "Rsense3,TP1-14,U5-6,U8,D3,D6-7,D11,D13-16,C_sense7-9,#PWR18-22,C14-18,C20,C26-27,C38-40,Q3,Q5,Q9-11,R2-3,R6-7,R9-19,R21-22,R24-26,R52-57,R_sense5-7,SW3",
     "variants": []
   },
   "sheets": [
@@ -680,7 +680,7 @@
     ],
     [
       "a6e7fb33-ccde-4aa0-aca2-b4375e72690f",
-      "LM2596 BUCK"
+      "LM2596 3V3 BUCK"
     ],
     [
       "44b87f9c-6d05-4626-813a-faa947122f49",
