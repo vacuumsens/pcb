@@ -5045,6 +5045,17 @@
 		)
 		(uuid "b38c8782-7964-45bb-aba7-6266c20ccd7d")
 	)
+	(hierarchical_label "GND"
+		(shape input)
+		(at 153.67 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "eaf9ebe2-c16a-487c-a667-9ae06851256e")
+	)
 	(symbol
 		(lib_id "easyeda2kicad:CL21B104KBCNNNC")
 		(at 156.21 107.95 0)

@@ -1352,12 +1352,6 @@
 		(uuid "2cebcfb5-6da4-430a-a948-3c1edb874753")
 	)
 	(junction
-		(at 229.87 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3053579b-85ae-487e-855b-7a4f248b47c0")
-	)
-	(junction
 		(at 104.14 168.91)
 		(diameter 1.016)
 		(color 0 0 0 0)
@@ -1398,6 +1392,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "58bfb61e-be6f-4ed5-8876-69e1d99d422d")
+	)
+	(junction
+		(at 229.87 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "88e3cad6-9d18-4e5c-8e10-29c552a1b8bd")
 	)
 	(junction
 		(at 320.04 81.28)
@@ -1652,7 +1652,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 68.58) (xy 231.14 68.58)
+			(xy 228.6 68.58) (xy 229.87 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1932,16 +1932,6 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 104.14) (xy 237.49 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "43b00e7f-209c-49b9-b7ee-e73eec91b14e")
-	)
-	(wire
-		(pts
 			(xy 111.76 92.71) (xy 111.76 90.17)
 		)
 		(stroke
@@ -2039,6 +2029,16 @@
 			(type default)
 		)
 		(uuid "542dc8f5-f3e7-48c4-8965-c06db31cfd64")
+	)
+	(wire
+		(pts
+			(xy 229.87 68.58) (xy 231.14 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55e0c0f7-5bce-49f3-915a-4f48229c7851")
 	)
 	(wire
 		(pts
@@ -2382,7 +2382,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.63 46.84) (xy 78.74 46.84)
+			(xy 138.43 46.84) (xy 78.74 46.84)
 		)
 		(stroke
 			(width 0)
@@ -2459,6 +2459,26 @@
 			(type default)
 		)
 		(uuid "97cc13e9-2515-4f3c-9b44-76dc76698bd2")
+	)
+	(wire
+		(pts
+			(xy 31.75 90.58) (xy 31.75 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "980ba653-2a92-4d17-bdcd-a6c93991402c")
+	)
+	(wire
+		(pts
+			(xy 218.44 104.14) (xy 237.49 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98832bfe-50b1-4cd5-b317-87a17ac93629")
 	)
 	(wire
 		(pts
@@ -2612,6 +2632,16 @@
 	)
 	(wire
 		(pts
+			(xy 90.17 85.09) (xy 90.17 82.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5927630-29fb-4863-9024-f3685e0abc4e")
+	)
+	(wire
+		(pts
 			(xy 313.69 81.28) (xy 320.04 81.28)
 		)
 		(stroke
@@ -2669,16 +2699,6 @@
 			(type default)
 		)
 		(uuid "bd146097-a0a7-472c-9cde-5f9904d8c3e4")
-	)
-	(wire
-		(pts
-			(xy 228.6 68.58) (xy 229.87 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bdcb8a86-5701-4e13-89ad-c1a965051136")
 	)
 	(wire
 		(pts
@@ -3070,6 +3090,16 @@
 		)
 		(uuid "01df0ff4-74a0-456b-9181-45f8d63db56f")
 	)
+	(label "GND"
+		(at 31.75 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "02c5a3b0-5b56-4458-a282-c9dec50a435f")
+	)
 	(label "GPIO2{slash}SDA1"
 		(at 297.18 109.22 180)
 		(effects
@@ -3410,6 +3440,16 @@
 		)
 		(uuid "7dd33756-2a1f-4cfc-8142-646fc2112fd2")
 	)
+	(label "GND"
+		(at 90.17 85.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "86f9857d-844e-4bc9-b08c-2fef12f99baa")
+	)
 	(label "GNDPWR"
 		(at 181.61 107.95 180)
 		(effects
@@ -3602,6 +3642,85 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
+		(at 384.81 73.66 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "12270294-d95e-456c-aed3-89b28ef26b21")
+		(property "Reference" "TP19"
+			(at 389.89 72.3899 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TX"
+			(at 389.89 74.9299 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+			(at 384.81 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 384.81 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 384.81 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6158cc4d-6b5d-42b4-aa00-da5ec4af6913")
+		)
+		(instances
+			(project "charging-circuit"
+				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
+					(reference "TP19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
 		(at 326.39 69.85 0)
 		(unit 1)
 		(body_style 1)
@@ -3611,8 +3730,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "18160704-da5e-4960-866d-977d26e73ef2")
-		(property "Reference" "TP1"
+		(uuid "1a1c00a1-ba34-4827-ba35-565ce9afc3d2")
+		(property "Reference" "TP17"
 			(at 328.93 65.2779 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3623,7 +3742,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "12V"
+		(property "Value" "12VOUT"
 			(at 328.93 67.8179 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3634,7 +3753,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 			(at 331.47 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -3668,12 +3787,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "5b4549f9-fbe9-4495-8b04-8a5981423c90")
+			(uuid "dc4c8b8f-2c7e-42fd-8420-f72e085f7d77")
 		)
 		(instances
 			(project "charging-circuit"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
-					(reference "TP1")
+					(reference "TP17")
 					(unit 1)
 				)
 			)
@@ -3986,6 +4105,83 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
+		(at 313.69 81.28 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "68a1e9f6-e4b3-4c2f-a32f-235a0730fd5e")
+		(property "Reference" "TP18"
+			(at 310.388 76.2 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "3V3"
+			(at 310.388 78.74 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+			(at 313.69 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 313.69 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 313.69 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0b36bc71-84e5-46d3-a3e6-a6e164ee1557")
+		)
+		(instances
+			(project "charging-circuit"
+				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
+					(reference "TP18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
 		(at 1.27 81.28 90)
 		(unit 1)
 		(body_style 1)
@@ -4218,85 +4414,6 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 384.81 77.47 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a4d8cd4c-30ba-4a2b-95d9-da3c7a024636")
-		(property "Reference" "TP14"
-			(at 389.89 76.1999 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "RX"
-			(at 389.89 78.7399 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 384.81 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 384.81 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 384.81 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "49a1f197-e160-4100-8201-6b08d49dd548")
-		)
-		(instances
-			(project "charging-circuit"
-				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
-					(reference "TP14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
 		(at 69.85 135.89 0)
 		(unit 1)
 		(body_style 1)
@@ -4455,85 +4572,6 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 229.87 68.58 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c628568e-4c60-41b8-ac04-4796531dce22")
-		(property "Reference" "TP12"
-			(at 232.41 64.0079 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "5V"
-			(at 232.41 66.5479 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 234.95 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 234.95 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 229.87 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "3e5f3ec4-34be-450b-b423-db90b5cea165")
-		)
-		(instances
-			(project "charging-circuit"
-				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
-					(reference "TP12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
 		(at -3.81 76.2 90)
 		(unit 1)
 		(body_style 1)
@@ -4604,85 +4642,6 @@
 			(project "charging-circuit"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
 					(reference "TP3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 384.81 73.66 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d9885c62-0e04-4014-8a9d-4cf9b33b75a1")
-		(property "Reference" "TP13"
-			(at 389.89 72.3899 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TX"
-			(at 389.89 74.9299 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 384.81 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 384.81 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 384.81 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "bf83fdff-ed1e-4513-bdeb-cbb99720c297")
-		)
-		(instances
-			(project "charging-circuit"
-				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
-					(reference "TP13")
 					(unit 1)
 				)
 			)
@@ -4769,6 +4728,85 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
+		(at 229.87 68.58 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "de519c67-5d1a-41b6-a37d-cc06de490f33")
+		(property "Reference" "TP21"
+			(at 232.41 64.0079 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "5V"
+			(at 232.41 66.5479 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+			(at 234.95 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 234.95 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 229.87 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d1532c3e-1eef-4c1f-bd65-3ade57bb0e03")
+		)
+		(instances
+			(project "charging-circuit"
+				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
+					(reference "TP21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
 		(at 52.07 138.43 90)
 		(unit 1)
 		(body_style 1)
@@ -4839,6 +4877,85 @@
 			(project "charging-circuit"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
 					(reference "TP16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 384.81 77.47 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e6c82fff-6363-496e-b7e8-adc2d75028d7")
+		(property "Reference" "TP20"
+			(at 389.89 76.1999 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "RX"
+			(at 389.89 78.7399 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+			(at 384.81 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 384.81 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 384.81 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2736028f-5a32-46f3-8a17-d401f4051bfa")
+		)
+		(instances
+			(project "charging-circuit"
+				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
+					(reference "TP20")
 					(unit 1)
 				)
 			)
@@ -4917,85 +5034,6 @@
 			(project "charging-circuit"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
 					(reference "TP9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 313.69 81.28 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f3118d4d-1426-43c7-a4f5-ab92149c6202")
-		(property "Reference" "TP11"
-			(at 316.23 76.7079 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "3V3"
-			(at 316.23 79.2479 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 318.77 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 318.77 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 313.69 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "42f6fa4f-de0d-4e56-aa07-64b4d0a26ee6")
-		)
-		(instances
-			(project "charging-circuit"
-				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
-					(reference "TP11")
 					(unit 1)
 				)
 			)
@@ -5460,6 +5498,16 @@
 				(justify right)
 			)
 		)
+		(pin "GND" input
+			(at 90.17 82.29 270)
+			(uuid "afa62e8c-4658-4461-93c8-aca2245b8970")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "charging-circuit"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
@@ -5747,8 +5795,8 @@
 		)
 	)
 	(sheet
-		(at 130.63 39.37)
-		(size 41.42 22)
+		(at 138.43 39.37)
+		(size 33.62 21.59)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -5762,7 +5810,7 @@
 		)
 		(uuid "c8cbdf0a-7d80-42c1-b72b-5752e392a8c9")
 		(property "Sheetname" "FUELGAUGE"
-			(at 132.63 40.87 0)
+			(at 140.43 40.87 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5773,7 +5821,7 @@
 			)
 		)
 		(property "Sheetfile" "sheets/05_fuelgauge.kicad_sch"
-			(at 132.63 59.37 0)
+			(at 140.43 59.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5795,7 +5843,7 @@
 			)
 		)
 		(pin "FUELBAT" input
-			(at 130.63 46.84 180)
+			(at 138.43 46.84 180)
 			(uuid "0feb4528-2414-4be0-804c-76c8837190a5")
 			(effects
 				(font
@@ -6050,6 +6098,16 @@
 		(pin "B3-" input
 			(at 10.16 81.43 180)
 			(uuid "892b5469-3799-4fda-97c6-9da69018f596")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GND" input
+			(at 31.75 90.58 270)
+			(uuid "64bd7ab7-fa80-4fd4-aaa0-35edd5d6472f")
 			(effects
 				(font
 					(size 1.27 1.27)

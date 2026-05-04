@@ -646,7 +646,7 @@
         "uuid": "529bc8a5-ffae-43ac-972d-caccc3afab85"
       }
     ],
-    "used_designators": "H4",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
@@ -663,12 +663,12 @@
       "FUELGAUGE"
     ],
     [
-      "e6612f6f-e131-40dc-9b50-f62250179b84",
-      "LM2596 5V Buck"
+      "9dddee0f-db6b-4d06-95d5-93553e494b2c",
+      "LM2596 BUCK"
     ],
     [
-      "d817ed9f-d5ed-4b76-b785-ec99fd1fec7f",
-      "3S IC"
+      "e6612f6f-e131-40dc-9b50-f62250179b84",
+      "LM2596 5V Buck"
     ],
     [
       "cff05046-5666-496e-bdc0-c674fdf4f5c2",
@@ -683,8 +683,20 @@
       "DSUB+RS232"
     ],
     [
-      "9dddee0f-db6b-4d06-95d5-93553e494b2c",
-      "LM2596 BUCK"
+      "b4c3a0d1-ca7b-4720-8d12-20e46e9b3e38",
+      "LM2596 3.3V Buck"
+    ],
+    [
+      "4d9fbfee-b855-4a6d-bcf3-11fe3d232fd1",
+      "IP2326 3S"
+    ],
+    [
+      "d2491b3c-721e-4823-a512-ce7ffde692b8",
+      "USBC"
+    ],
+    [
+      "31044c0b-908e-4275-b963-f7b450fd643a",
+      "New 3S Balancer"
     ]
   ],
   "text_variables": {},

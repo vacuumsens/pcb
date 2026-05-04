@@ -7,10 +7,8 @@
       "GND"
     ],
     "hidden_nets": [
-      "/3S IC/ICGND",
       "/GND",
-      "unconnected-(U1-VBAT_GND-Pad24)",
-      "/3S Balancer/GND"
+      "unconnected-(U1-VBAT_GND-Pad24)"
     ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -59,7 +57,7 @@
       "shapes"
     ],
     "visible_layers": "00000000_00000000_55555555_575555f5",
-    "zone_display_mode": 1
+    "zone_display_mode": 0
   },
   "git": {
     "integration_disabled": false,
