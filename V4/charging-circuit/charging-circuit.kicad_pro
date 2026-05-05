@@ -62,38 +62,6 @@
         [
           "annular_width|83550000|168362500|f570e6d5-d2c7-469f-b1b6-17b575497ecf|00000000-0000-0000-0000-000000000000",
           ""
-        ],
-        [
-          "clearance|77750000|167752500|8c7b8851-26d9-42c5-8a02-6e2526a9ca72|23af1f8a-057c-4c26-b54a-e77d4cc73f40",
-          ""
-        ],
-        [
-          "clearance|77950000|166452500|8daae8c1-053f-4489-83cb-8862d60fc2ca|8c7b8851-26d9-42c5-8a02-6e2526a9ca72",
-          ""
-        ],
-        [
-          "clearance|78750000|167752500|aa4e8cbe-3fd3-4da2-b72c-8501628831ad|8daae8c1-053f-4489-83cb-8862d60fc2ca",
-          ""
-        ],
-        [
-          "clearance|82550000|166452500|98a3d7f6-a675-4c0a-bb76-9470772336d0|4d20970d-fae9-4ee1-bdeb-83798805e200",
-          ""
-        ],
-        [
-          "clearance|83350000|167752500|4d20970d-fae9-4ee1-bdeb-83798805e200|002611f0-2196-45be-b0f2-e22dbf7752b3",
-          ""
-        ],
-        [
-          "clearance|83550000|167752500|002611f0-2196-45be-b0f2-e22dbf7752b3|f570e6d5-d2c7-469f-b1b6-17b575497ecf",
-          ""
-        ],
-        [
-          "hole_clearance|77950000|167752500|8daae8c1-053f-4489-83cb-8862d60fc2ca|23af1f8a-057c-4c26-b54a-e77d4cc73f40",
-          ""
-        ],
-        [
-          "hole_clearance|83350000|167752500|4d20970d-fae9-4ee1-bdeb-83798805e200|f570e6d5-d2c7-469f-b1b6-17b575497ecf",
-          ""
         ]
       ],
       "meta": {
@@ -967,7 +935,7 @@
         "uuid": "529bc8a5-ffae-43ac-972d-caccc3afab85"
       }
     ],
-    "used_designators": "TP17-23",
+    "used_designators": "TP11-14,TP17-25",
     "variants": []
   },
   "sheets": [

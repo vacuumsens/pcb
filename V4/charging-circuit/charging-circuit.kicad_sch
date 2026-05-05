@@ -1328,6 +1328,12 @@
 		(uuid "05b3bd6b-943b-4a3b-ba0e-4b89fec375ab")
 	)
 	(junction
+		(at 332.74 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "07dbf1b1-cf01-44ce-a967-64aa3fe24136")
+	)
+	(junction
 		(at 158.75 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1392,6 +1398,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "58bfb61e-be6f-4ed5-8876-69e1d99d422d")
+	)
+	(junction
+		(at 175.26 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "747b5131-b1ac-4a89-85a8-45d6fd035467")
 	)
 	(junction
 		(at 229.87 68.58)
@@ -1466,6 +1478,12 @@
 		(uuid "db602a04-eb43-4580-84e9-f9590a7ba318")
 	)
 	(junction
+		(at 335.4132 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e29366b1-c1c6-49a4-aa0b-3badc33273b7")
+	)
+	(junction
 		(at 322.58 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1499,6 +1517,16 @@
 			(type solid)
 		)
 		(uuid "0165c239-b394-4ec6-8087-eb0e784e7ffc")
+	)
+	(wire
+		(pts
+			(xy 335.4132 87.63) (xy 353.06 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02004309-5c9b-4e8c-8968-2867722e9f24")
 	)
 	(wire
 		(pts
@@ -1992,6 +2020,16 @@
 	)
 	(wire
 		(pts
+			(xy 332.74 87.63) (xy 335.4132 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f7d0e3e-d820-4971-b2da-555105f89f22")
+	)
+	(wire
+		(pts
 			(xy -1.27 76.2) (xy -3.81 76.2)
 		)
 		(stroke
@@ -2102,7 +2140,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 88.9) (xy 182.88 88.9)
+			(xy 158.75 88.9) (xy 175.26 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2892,6 +2930,16 @@
 	)
 	(wire
 		(pts
+			(xy 330.2 87.63) (xy 332.74 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dda9148a-ca63-4034-9547-0d55e64a86df")
+	)
+	(wire
+		(pts
 			(xy 241.3 88.9) (xy 182.88 88.9)
 		)
 		(stroke
@@ -2949,6 +2997,16 @@
 			(type default)
 		)
 		(uuid "e6abb0e7-f4e4-4430-8ccd-5b431b48f8f1")
+	)
+	(wire
+		(pts
+			(xy 175.26 88.9) (xy 182.88 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e81aaaca-c9d2-4228-893c-8d96d0399432")
 	)
 	(wire
 		(pts
@@ -3800,6 +3858,85 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
+		(at 330.2 87.63 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1e5422ac-b79d-41e6-a3a0-86201f65394f")
+		(property "Reference" "TP25"
+			(at 332.74 83.0579 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND"
+			(at 332.74 85.5979 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+			(at 335.28 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 335.28 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 330.2 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a34476c2-8311-41e5-b7e2-ef84c6a77b82")
+		)
+		(instances
+			(project "charging-circuit"
+				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
+					(reference "TP25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
 		(at 91.44 62.23 0)
 		(unit 1)
 		(body_style 1)
@@ -4021,6 +4158,85 @@
 			(project "charging-circuit"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
 					(reference "CN1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 175.26 88.9 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "55ca431e-1928-4fee-96c6-dc1b1b196b0b")
+		(property "Reference" "TP11"
+			(at 177.8 90.9319 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "VSYS2"
+			(at 177.8 93.4719 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+			(at 170.18 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 170.18 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 175.26 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5104e522-1dfb-4970-b024-d57984076d8a")
+		)
+		(instances
+			(project "charging-circuit"
+				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
+					(reference "TP11")
 					(unit 1)
 				)
 			)
@@ -4572,6 +4788,85 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
+		(at 335.4132 87.63 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d111e339-4182-4303-b3e5-63a1fc0ea2f3")
+		(property "Reference" "TP23"
+			(at 337.82 83.0579 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND"
+			(at 337.82 85.5979 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+			(at 340.4932 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 340.4932 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 335.4132 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a58b1137-3000-4248-b1f4-55b77b650996")
+		)
+		(instances
+			(project "charging-circuit"
+				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
+					(reference "TP23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
 		(at -3.81 76.2 90)
 		(unit 1)
 		(body_style 1)
@@ -4877,6 +5172,85 @@
 			(project "charging-circuit"
 				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
 					(reference "TP16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 332.74 87.63 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e6739aec-61bf-4ee4-9492-ba93e3174665")
+		(property "Reference" "TP24"
+			(at 335.28 83.0579 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND"
+			(at 335.28 85.5979 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+			(at 337.82 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 337.82 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 332.74 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a41373fb-5c45-4795-befa-832132cace63")
+		)
+		(instances
+			(project "charging-circuit"
+				(path "/529bc8a5-ffae-43ac-972d-caccc3afab85"
+					(reference "TP24")
 					(unit 1)
 				)
 			)
