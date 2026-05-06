@@ -4481,7 +4481,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "75a24cc4-d39c-480a-9889-8db1c3771970")
 		(property "Reference" "TP2"
