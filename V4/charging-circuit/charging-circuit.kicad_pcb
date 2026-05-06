@@ -1131,8 +1131,20 @@
 		)
 		(embedded_fonts no)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/TO-263-5-5P_L10.2-W8.7-H4.5-LS14.4-P1.70.wrl"
+			(hide yes)
 			(offset
 				(xyz 2 1.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 90)
+			)
+		)
+		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/TO-263-5-5P_L10.2-W8.7-H4.5-LS14.4-P1.70.step"
+			(offset
+				(xyz -5 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -2564,6 +2576,18 @@
 		)
 		(embedded_fonts no)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/DSUB-TH_DMR-15P-FB-WI.wrl"
+			(hide yes)
+			(offset
+				(xyz 0 2 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/DSUB-TH_DMR-15P-FB-WI.step"
 			(offset
 				(xyz 0 2 0)
 			)
@@ -4901,8 +4925,20 @@
 		)
 		(embedded_fonts no)
 		(model "${EASYeda2KICAD}/easyeda2kicad.3dshapes/TO-263-5-5P_L10.2-W8.7-H4.5-LS14.4-P1.70.wrl"
+			(hide yes)
 			(offset
 				(xyz 1.5 1.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 90)
+			)
+		)
+		(model "${EASYeda2KICAD}/easyeda2kicad.3dshapes/TO-263-5-5P_L10.2-W8.7-H4.5-LS14.4-P1.70.step"
+			(offset
+				(xyz -5 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -8692,6 +8728,18 @@
 		)
 		(embedded_fonts no)
 		(model "${EASYeda2KICAD}/easyeda2kicad.3dshapes/SMD-PIND_L12.5-W12.5-H8.0.wrl"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${EASYeda2KICAD}/easyeda2kicad.3dshapes/SMD-PIND_L12.5-W12.5-H8.0.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9433,6 +9481,7 @@
 		)
 		(embedded_fonts no)
 		(model "${EASYeda2KICAD}/easyeda2kicad.3dshapes/CAP-SMD_BD10.0-L10.3-W10.3-H10.2.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9441,6 +9490,17 @@
 			)
 			(rotate
 				(xyz 0 0 270)
+			)
+		)
+		(model "${EASYeda2KICAD}/easyeda2kicad.3dshapes/CAP-SMD_BD10.0-L10.3-W10.3-H10.2.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -14801,6 +14861,7 @@
 		)
 		(embedded_fonts no)
 		(model "${EASYeda2KICAD}/easyeda2kicad.3dshapes/IDC-TH_14P-P2.54_ZHOURI_DC3-2.54-14PAL.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14809,6 +14870,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${EASYeda2KICAD}/easyeda2kicad.3dshapes/IDC-TH_14P-P2.54_ZHOURI_DC3-2.54-14PAL.step"
+			(offset
+				(xyz 0 -5 4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -21108,8 +21180,20 @@
 		)
 		(embedded_fonts no)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/HDR-TH_40P-P2.54-F-LI-2X20P.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 -0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/HDR-TH_40P-P2.54-F-LI-2X20P.step"
+			(offset
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -22078,6 +22162,7 @@
 		)
 		(embedded_fonts no)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/USB-C_SMD-TYPE-C-31-M-12_1.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 -2.6 0)
 			)
@@ -22086,6 +22171,17 @@
 			)
 			(rotate
 				(xyz -0 -0 180)
+			)
+		)
+		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/USB-C_SMD-TYPE-C-31-M-12_1.step"
+			(offset
+				(xyz 0 -2.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -180)
 			)
 		)
 	)
