@@ -73,7 +73,7 @@
 	(fp_line (start 15.20 11.40) (end 15.60 11.40) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 15.60 11.40) (end 15.60 -4.00) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 15.60 -4.00) (end -15.40 -4.00) (layer F.CrtYd) (width 0.05))
-	(model "C:/Users/abdul/Documents/V4/libs/easyeda2kicad.3dshapes/D-SUB-TH_BOOMELE_DR-15P.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/D-SUB-TH_BOOMELE_DR-15P.wrl"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

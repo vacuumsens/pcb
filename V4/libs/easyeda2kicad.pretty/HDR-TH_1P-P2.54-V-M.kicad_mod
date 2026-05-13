@@ -21,7 +21,7 @@
 	(fp_line (start -1.27 -1.25) (end 1.27 -1.25) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 1.27 -1.25) (end 1.27 1.25) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 1.27 1.25) (end -1.27 1.25) (layer F.CrtYd) (width 0.05))
-	(model "C:/Users/abdul/Documents/V4/libs/easyeda2kicad.3dshapes/HDR2.54-M-LI-1X1P.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/HDR2.54-M-LI-1X1P.wrl"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

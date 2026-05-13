@@ -31,7 +31,7 @@
 	(fp_line (start 11.12 -0.90) (end 11.12 6.10) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 11.12 6.10) (end -8.48 6.10) (layer F.CrtYd) (width 0.05))
 	(fp_line (start -8.48 6.10) (end -8.48 -0.90) (layer F.CrtYd) (width 0.05))
-	(model "C:/Users/abdul/Documents/V4/libs/easyeda2kicad.3dshapes/PWRM-TH_IBXXXXS-2W.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/PWRM-TH_IBXXXXS-2W.wrl"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

@@ -26,7 +26,7 @@
 	(fp_line (start -3.55 -3.25) (end 3.55 -3.25) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 3.55 -3.25) (end 3.55 3.25) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 3.55 3.25) (end -3.55 3.25) (layer F.CrtYd) (width 0.05))
-	(model "C:/Users/abdul/Documents/V4/libs/easyeda2kicad.3dshapes/IND-SMD_L7.1-W6.5-H3.0.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/IND-SMD_L7.1-W6.5-H3.0.wrl"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

@@ -34,7 +34,7 @@
 	(fp_line (start -1.72 -5.14) (end 8.68 -5.14) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 8.68 -5.14) (end 8.68 5.08) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 8.68 5.08) (end -1.72 5.08) (layer F.CrtYd) (width 0.05))
-	(model "C:/Users/abdul/Documents/V4/libs/easyeda2kicad.3dshapes/TO-263-5-5P_L10.2-W8.7-H4.5-LS14.4-P1.70.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/TO-263-5-5P_L10.2-W8.7-H4.5-LS14.4-P1.70.wrl"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 90))

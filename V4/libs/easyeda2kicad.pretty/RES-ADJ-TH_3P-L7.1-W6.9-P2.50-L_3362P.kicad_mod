@@ -45,7 +45,7 @@
 	(fp_line (start 3.68 -2.41) (end 3.68 4.95) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 3.68 4.95) (end -3.68 4.95) (layer F.CrtYd) (width 0.05))
 	(fp_line (start -3.68 4.95) (end -3.68 -2.41) (layer F.CrtYd) (width 0.05))
-	(model "C:/Users/abdul/Documents/V4/libs/easyeda2kicad.3dshapes/RES-ADJ-TH_3362P.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/RES-ADJ-TH_3362P.wrl"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

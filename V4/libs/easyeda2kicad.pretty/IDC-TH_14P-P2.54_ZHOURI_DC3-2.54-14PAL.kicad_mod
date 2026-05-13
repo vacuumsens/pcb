@@ -44,7 +44,7 @@
 	(fp_line (start 12.69 3.07) (end 12.69 11.67) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 12.69 11.67) (end -12.69 11.67) (layer F.CrtYd) (width 0.05))
 	(fp_poly (pts (xy 7.620000 8.889975) (xy 6.223000 11.048975) (xy 6.223000 11.048975) (xy 8.890000 11.048975) (xy 7.620000 8.889975)) (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS"))
-	(model "C:/Users/abdul/Documents/V4/libs/easyeda2kicad.3dshapes/IDC-TH_14P-P2.54_ZHOURI_DC3-2.54-14PAL.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/IDC-TH_14P-P2.54_ZHOURI_DC3-2.54-14PAL.wrl"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))
