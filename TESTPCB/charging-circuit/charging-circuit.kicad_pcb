@@ -59455,7 +59455,7 @@
 			(uuid "5b50550e-b22f-4ef7-b23d-79e1b4e19f8e")
 		)
 		(embedded_fonts no)
-		(model "${easyeda2kicad}/easyeda2kicad.3dshapes/SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95.wrl"
+		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95.wrl"
 			(offset
 				(xyz 0 -0 -0)
 			)
@@ -75901,7 +75901,7 @@
 			(uuid "51ef82dc-617f-4fed-a498-626b88c8ec87")
 		)
 		(embedded_fonts no)
-		(model "${easyeda2kicad}/easyeda2kicad.3dshapes/R0805_L2.0-W1.3-H0.6.wrl"
+		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/R0805_L2.0-W1.3-H0.6.wrl"
 			(offset
 				(xyz 0 -0 -0)
 			)

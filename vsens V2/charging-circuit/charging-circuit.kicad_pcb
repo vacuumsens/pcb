@@ -13787,7 +13787,7 @@
 			(uuid "692469c3-2774-4167-9663-e0509579dcef")
 		)
 		(embedded_fonts no)
-		(model "${easyeda2kicad}/easyeda2kicad.3dshapes/DSUB-TH_DMR-15P-FB-WI.wrl"
+		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/DSUB-TH_DMR-15P-FB-WI.wrl"
 			(offset
 				(xyz 0 2 0)
 			)
